@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Algunas costumbres de los Araucanos</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: Pascual Segundo Painemilla Ñamcucheu (and others)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><pb n="3"/>
+
+<head xml:lang="spa" n="1"> Rogativas, como las solían hacer los indios de la costa entre Bajo Imperial y Tolten,</head> <note xml:lang="spa">referidas por Pascual Segundo Painemilla Ñamcucheu.</note>
+
+<p xml:lang="arn" n="1"> Witrakənuŋekei rewe, kafei meu elŋekei llaŋi-llaŋi altarfemŋechi, ñi elŋeam kiñe fùcháral·i mollfùñ, mi iaqel feichi Ŋənemapun.</p>
+
+<p xml:lang="arn" n="2"> Wema l·aŋəmŋekei rukameu waka, auka, ofisha, shañwe; afùn ilo yeŋekei kawiñwemeu.</p>
+
+<p xml:lang="arn" n="3"> Pu ŋen·pin l·aŋəmkei ofisha feichi antù kawiñ meu inállaŋi-llaŋi, katrùpel·ŋekei.</p>
+
+<p xml:lang="arn" n="4"> Wema katrùñmaŋekei ñiman pilun; mollfùñ pel· meu ŋəl·fùŋekei feichi pilun ofisha, fei<pb n="4"/> meu ŋillatukeiŋn feichi pilunofisha meu.</p>
+
+<p xml:lang="arn">Man kuq meu nùnieŋekei pilun ofisha, maichinieŋekei. Fei meu tripawe antù pəle də- ŋuñpramkei feichi wentru, fei pi- kei:</p>
+
+<p xml:lang="arn" n="5"> „Təfa pətefelaqeyu tamimollfùñ kulliñ.</p>
+
+<p xml:lang="arn">Eimi tami elel təfachi ofisha kakom kullin.</p>
+
+   <p xml:lang="arn">Fərenemmuaiñ. Ŋənemapun. </p>
+
+<p xml:lang="arn">„Al·ùn niepe kulliñ tañi pu cor- dero, piaimi; ka, „moŋelepe al·ùn tripantu tañi pu yall". pi- aimi: iñchiñ taiñ ayùukəleam,fill tripantu taiñ ŋillatuñmawam eimi meu, ka iñ eluniemuaqel fill taiñ moŋepéyəm, komketran.</p>
+
+<p xml:lang="arn" n="6"> Útrəfmulaiain, kùme kintuniemuain, Chau, wenu meu məleimi; elumuaiñ kùme antù, iñ kùme lleqam taiñ ketran, ka elumuiñ mawən·, tañi məleam taiñ moŋewe.</p>
+
+<p xml:lang="arn">Nentulmukiliñ l·afken·, ka, we- shake dəŋu elmukiliñ.</p>
+
+<p xml:lang="arn">Kùmeleaiñ təfachi mapu meueimi tami duam.</p>
+
+   <p xml:lang="arn">„¡Oó, oóm!" fùchá wirárùkei. <pb n="5"/></p>
+
+   <p xml:lang="arn" n="7"> Feichi wəluuma ofisha ká eluŋetuŋekei ñi pilun ofisha. </p>
+
+<p xml:lang="arn">Fei meu nùkei neməl təfa, ká femŋechi maichinietukei ñi pilun ofisha:</p>
+
+<p xml:lang="arn" n="8"> „Fau mai məleimi, Chau", pikei, allkùtuñmanieñmuiñ ta- iñ ŋillatuñmauken.</p>
+
+   <p xml:lang="arn">Peumaŋen mai, „moŋepe tañi pu yall" piaimi, Chau; eimi meu ta moŋeleiñ, anùleimi tami mi- lla ruka meu, Rey Chau, Rey Kushe, eimi ta pəñeñmuiñ. </p>
+
+<p xml:lang="arn" n="9"> „ Al·ùn tripantu moŋelepe tañi pu yall, rumel tañi pilla- tuñmanieáteu, piaimi.Rumel nilla tuleain“ ta moŋeliiñ: eimi meu.</p>
+
+<p xml:lang="arn" n="10"> Fei meu wəla tranákənu- ŋekei feichi pilun ofisha llaŋi- llaŋi meu mollfùñ ofisha yeŋu. ral·i meu.</p>
+
+<p xml:lang="arn" n="11"> Fei meu pùdemnekei l·á ofisha.</p>
+
+<p xml:lang="arn">Fei meu feichi wəluma ofishaeluŋetukei loŋko ofisha yeŋnlipaŋmaiau kadi ofisha).Feichi eluel ofisha kom təfeichiilo nùkei.<pb n="6"/>12. Trùr femŋelu ŋillatuñma- wí feichi epu wentru, eluukelu ofisha.</p>
+
+<p xml:lang="arn">Femŋechi kakelu ká femkei, ka- ŋelu kùpal ká femkai, tunten ñi məlen feichi ofisha.</p>
+
+<p xml:lang="arn">Kiduke dulliukei feichi wen·ùi- wen konchoyewalu.</p>
+
+<p xml:lang="arn" n="13"> Fei meu deu konchotulu ká prakawellukeiŋn, wente ka- wellu ŋillatukei. Kiñe wentru fei pikei:</p>
+
+<p xml:lang="arn">„Fərenemuiñ, Kallfù Wenu; fəre- nemuiñ, Kurù Wenu.</p>
+
+<p xml:lang="arn">Elumuiñ kùme antú, ká elumu- tuiñ taiñ ketran.</p>
+
+<p xml:lang="arn">„Kùme moŋelepe ñi pu cordero," ,piaimi, Rey Fùcha, Rey Kushe, anùleimi) tami milla ruka meu.</p>
+
+<p xml:lang="arn">Ŋənaitumuiñ, Chau, Ŋənema- pun, wenu meu naqkintuniemu- paiñ. Óó, óm, óm."</p>
+
+   <p xml:lang="arn" n="14"> Wirafkəlen rupakei, walloiaukei kawellutun che; kawellŋenulu pərukei, ká femŋechiwalloiaukei: raŋiñtulei n·amuntu pərukechi che, wekuntuleikawelluŋelu.<pb n="7"/></p>
+
+<p xml:lang="arn" n="15"> Al·ùñma femkei: „¡O, ó, óm, óm, o óm o óm!" wirárù- kei che, deŋukeiŋn pifəlka, trutru- ka, trəpuŋekei (trawauŋekei) ral·i-awùn piŋekei təfa.</p>
+
+<p xml:lang="arn">Wəla kom anùnaqkeiŋn.</p>
+
+<p xml:lang="arn" n="16"> Rupan awùn ka pərun meu, fei meu ka epu rume wipəll- kənuŋekei (=wiŋəllkənuŋekei) metawe.</p>
+
+<p xml:lang="arn">Awùuma ka pərúuma ká fem- ŋechi wipəllkənuukei ina meta- we.</p>
+
+<p xml:lang="arn" n="17"> Fei meu məla ká ŋillatu. keiŋn mushka meu.</p>
+
+   <p xml:lang="arn">Femkei epu wentru məten, ŋen· pin eŋu ká wentru femkei, ka femŋechi fei pikei:„Fərenemuiñ, Kallfù Wenu,etc." </p>
+
+   <p xml:lang="arn">Rupan femlu feichi epu wentru, kom pùtukei feichi che; puñma- nieukei feichi epu wifche. </p>
+
+<p xml:lang="arn" n="18"> Deu pùtulu feichi che, ká anùnaqkei kom che.</p>
+
+<p xml:lang="arn">Fei meu wəla eluŋekei ilo feichikùpachi (maŋetəkupalchi) che, mushka, kom ilo: fei təfa ka- trùŋeləmn piŋekei.</p>
+
+<p xml:lang="arn">Kom che wəlkei feichi ilo, feichi mushka.</p>
+
+<p xml:lang="arn" n="19"> Ká tripantu meu ká fem<pb n="8"/>ŋechi kullitukei feichi eluuyeel ilo ka pùlku.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="2"> Una visión de una machi,</head>
+<note xml:lang="spa">referida por el niñoDomingo de la Rosa Kallfùl·em.</note>
+
+<p xml:lang="arn" n="1"> Fei pi ti machi:Peufalueneu mai, pi, raŋi ko mai tripai, kiñe pichi wentru, wiŋkaŋefui, pərai wenu.</p>
+
+<p xml:lang="arn">Pralu, ká naqpai tichi nawel: nùtramkaneu ti nawel:</p>
+
+<p xml:lang="arn" n="2"> „Chumŋechi chi peafiñ?" pikefeyu. „Fachi antù mai pe- eyu; nùtramkaayu mai.</p>
+
+   <p xml:lang="arn" n="3"> Tripaialu mai l·afken·. Fei piayu mai: tichi pu wiŋka mai ko mai l·aŋəmafiñ; eimn mai ináchafŋeikonpədaiaimn, pu wiŋka mai ñi l·aŋəmafuyel). </p>
+
+<p xml:lang="arn">Mapuche mai nielai kulpa; pu wiŋka mai apəmafiñ.</p>
+
+<p xml:lang="arn" n="4"> Maripura antùŋei tripaiam l·afken·.</p>
+
+   <p xml:lang="arn">Dəŋui mai feichi Kaikaifilu. Fill meu mai piaimi: Kiñe naq mai dəŋui; ká dəŋule mai. tri- paiai l·afken·."<pb n="9"/></p>
+
+<p xml:lang="arn" n="4"> Tripaiáyəm l·afken· ŋai- ŋáyùkei Kaikaifilu.</p>
+
+<p xml:lang="arn">Wente treŋtreŋ məlekei.</p>
+
+<p xml:lang="arn">Tripaiáyəm l·afken· pərakei treŋtreŋ meu.</p>
+
+<p xml:lang="arn">Fùchá ŋaiŋáyùkei Kaikaifilu. wirárùkei: fei meu fill mapu all- kùŋekei.</p>
+
+<p xml:lang="arn" n="6"> Meli n·amun·ŋei treŋtreŋ.</p>
+
+<p xml:lang="arn">Tripáyəm l·afken· wenuprakei; fei meu traf wenu məlekei. Meli antùle wəla, nùrkùkei ko. afkei, trawətukei.</p>
+
+<p xml:lang="arn">Den trawatùyəm nùrkùtukei ko, ŋewetukelai ko; fei naqpa- tukei treŋtreŋ, piŋekei.</p>
+
+   <note xml:lang="spa">(VÉASE APÉNDICE)</note>
+</div>
+<div>
+<head xml:lang="spa" n="3"> Sueños visionarios que suelen tener algumasmujeres viejas, especialmente las machiis.</head><note xml:lang="spa">referidos porLuís Paillan en Wapi..La mujer enentu su suenio:</note>
+   
+   <p xml:lang="arn">Fei meu ¿chumuelu kam ŋi- llatukelaimn?</p>
+
+<p xml:lang="arn">Yalləmtuaimn tamn kulliñ, ka yalləmtuaimn tam ketran, wa- <pb n="10"/> ləŋche ŋetuaimn. ŋillatuñ- mawəlmn iñché meu", pipaneu feichi rekelpillañwentru, piŋe- pan peuma meu.</p>
+
+<p xml:lang="arn">Iñche mai fill meu miauken: welu cheu no rume ŋillatuñma- ŋekelan", pipaneu rekelpillañ- wentru.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="4"> Entierro,</head>
+   <note xml:lang="spa">referido por Pascual Segundo Painemilla Ñamkucheu.</note>
+   <p xml:lang="arn" n="1"> L·ale kiñe che, fei meu ra- kilŋekei antù ñi elŋeam. </p>
+
+<p xml:lang="arn">Mandaukei che - ŋen· l·á man- dakei - ñi pùlkual, ñi l·aŋəmku- lliñal.</p>
+
+<p xml:lang="arn">Fei meu ŋen·l·á amukei waria meu, „permisio" piaqel ñi elal raŋiñ kùyen· kam kom kiñe kùyen meu.</p>
+
+   <p xml:lang="arn" n="2"> Kuifi ñi wampontəkulen malekafuil á ruka meu kiñe tri- pantu ehi, epu tripantu chi.</p> 
+   <p xml:lang="arn" n="3">Paraprawe femŋechi deu- manekei pillai.</p>
+
+   <p xml:lang="arn">Feichi l·á elnekei pillai meu. koin ñi weshakelu niei, takulei kishu ñi takun men.<pb n="11"/></p>
+
+<p xml:lang="arn" n="4"> Kom ñi pu moŋeyel deu- makei wampo; fei meu elgekei feichi l á wampo mnen.</p>
+
+<note xml:lang="spa">Lamentos sobre el muerto é imprecaciones echadas contra el autor de la enfermedad".</note>
+
+<p xml:lang="arn" n="5"> „L·ai ŋa ñi pəñeñ, (ñi fəta, ñi lamŋen, ñi pal·u, ñi kuku). Awùŋellan! Fotr!</p>
+
+   <p xml:lang="arn">Chumtun chei ŋá, awaùtullaneu ŋa wedá Ŋənechen chei, wedá wekufù chei, kam kal·ku chei! </p>
+
+   <p xml:lang="arn">Fau məlefule tichi wedá kal·ku,l·aŋəməñmauyieteu ñi moŋeyel, ká femŋechi l·aŋəmafuiñ. </p>
+
+<p xml:lang="arn">Kishu rume ñi l·aŋəmlleateu,¿chumŋelu kam nil·aŋəmnoeteu iñche?</p>
+
+<p xml:lang="arn">Iñche ke féola l·aŋəmafuiñ, fau məlefule".</p>
+
+<p xml:lang="arn" n="6"> Naqnantù traweluukei che. Nentuŋekei ruka meu lá, kùme lelfùn meu elŋekei.</p>
+
+<p xml:lang="arn" n="7"> Fei meu awuñmaŋekéiwəla pùtuñmaŋekei ka iñma- ŋekei.</p>
+
+   <p xml:lang="arn" n="8"> Fei meu yeŋekei: trarùn manshun· meu witraŋekei. </p>
+
+   <p xml:lang="arn">Kiñeke meu ùl·men che, ñi l·an meu, re kuùtu witraŋekei; féolare pillai meu yeŋekei, ka kuùtu.<pb n="12"/></p>
+
+</div>
+<div>
+<head xml:lang="spa" n="5"> Pichi weupin, Parlamento chico,</head> 
+   <note xml:lang="spa">referido porPascual Segundo Painemilla Ñamkucheu.</note>
+   <p xml:lang="arn" n="1"> A::Kùmeleimi,n·ai peni?</p>
+
+<p xml:lang="arn" n="2"> B: „Femnen mai ñi fele- pran"</p>
+
+<p xml:lang="arn" n="3"> A: „Feyərkei mai!¿Ŋepei mai mi felen, kùmelen tami kuñùl, tami pu peñi, tamipu malle?</p>
+
+<p xml:lang="arn">Kimulaiyu mai, məchai mai mə- lei weshake dəŋu mai.</p>
+
+<p xml:lang="arn">¿Məlepéyəm ta weshake dəŋu mai, l·apéyəm kuñùl, peñi, malle, kintunieñmafimi ta mapu? Fachi antù tayu pewən meutami ramtufiel mai."</p>
+
+<p xml:lang="arn">Féola wirárùkei.</p>
+
+<p xml:lang="arn" n="4"> B: „Femŋei mai ñi felen: ŋelai mai dəŋu. Kùmelen mai ñi kuñùl meu. Kùmelei ñi peñi, ñimalle, ñi pu fochəm, ñi cuidatu- nieel.</p>
+
+<p xml:lang="arn">Welu məlepéyəm weshake dəŋu mai, l·apéyem ñi kùmeke fo- chem, ñi pu kuñùl: fachi antù meu niewelafun dəŋu.</p>
+
+   <p xml:lang="arn">Niekellefule weshake dəŋu ta che,kùmeletun meu ñi piuke, niepe- nulu weshake dəŋu felewetuker- kei.<pb n="13"/></p>
+
+<p xml:lang="arn">Femŋelu felewepratun: pikenmai fachi antù yu pewən meu,an·ai peñi."</p>
+
+<p xml:lang="arn">Wirárùkei.</p>
+
+<p xml:lang="arn" n="5"> A wirárùkei.A: „Feyərke mai. Kùmei mai takùmelen.Fəreneéyeu Ŋənechen· ta che, kùme tripantu, kùme kùyen, kùme antù rupañmawetukei, kùme duam felewepratukei.</p>
+
+<p xml:lang="arn">¿Femŋechi dəŋu meu mai felerkeimi?Fachi antù məlen mu mai ñiwitrapan, petu mai ta ŋənaitukeeyu kimn meu."</p>
+
+<p xml:lang="arn">Wirárùkei.6. B: „Kùmei mai tañi ŋənaitufiel.</p>
+
+<p xml:lang="arn">Peukechi (=kintuluukechi) pukuñifal ŋənaituukei kimn meu.</p>
+
+<p xml:lang="arn">Femŋechi mai femen məlerkenmeu mi prakawellun.</p>
+
+<p xml:lang="arn">Kùmelei tañi pu ùl·men, tañi pucapitan, ñi rumepéyəm ñi ŋùlam, kom kùmelei."</p>
+
+   <p xml:lang="arn">Fùchá newentu wirárukeiŋu.Fei afí.<pb n="14"/></p>
+
+</div>
+<div>
+<head xml:lang="spa" n="6"> Fuchá weupin, Parlamento grande,</head>
+   <note xml:lang="spa">referido por Pascual Segundo Painemilla Ñ.</note>
+   <note xml:lang="spa">A. Parlamento entre el mensajero del cacique Puelpaŋ de Panguipulli y el cacique de Wapi, Pascual Painemilla.</note>
+
+<p xml:lang="arn">Akui cacique Puelpaŋ ñi werken, Painemal Weitra piŋelu,akui ùchá Painemilla meu.</p>
+
+<p xml:lang="arn" n="1"> Painemal Weitra: „Pelelpuaqen mai tañi loŋko, tañi kùməlen chi tañi loŋko, kùmelentaii pu fochəm, tañi pu peñi,tañi pu malle, tañi pu ŋillañ,tañi pu kure, tañi pu deya kai. Kake mapu mai ta feleiyu.</p>
+
+<p xml:lang="arn">Peukelaiyu mai, anùñmaniekefiyu mai ta mapu.</p>
+
+<p xml:lang="arn">Ñi felemom tayu pu laku em,tayu pu chau em, felekeiyu maitayu moŋelen meu.</p>
+
+<p xml:lang="arn">Məlele mi witrapun, təfa mai ñipiel ñi werkùeteu tañi loŋko,piaimi". Pikeeneu mai ñi loŋko təfa, wichan mapu.</p>
+
+<p xml:lang="arn">Wirárùkei.</p>
+
+<p xml:lang="arn">L·apéyəm mai tañi pu loŋko,l·apéyəm tañi kùmeke pu moŋeyel, ñi kùmeke pu capitan,¿kintuñmaniei tañi mapu tañiloŋko?</p>
+
+   <p xml:lang="arn">Niepenulu lladkùn reke felewepratukeiyu.<pb n="15"/></p>
+
+<p xml:lang="arn">Welu mai, məlele tami witrapun,kimduamelpuaqen tañi loŋko.Ká virarukei.2. Painemilla: „Femnei maiñi felen: kùmelkalen mai, kùmelei tañi pu fochəm, kom tañi pukuñùl.</p>
+
+<p xml:lang="arn">Kiñe mufù fochəm mai ta trememtunien; ká kiñe epu moŋelei tañi malle, eleléteu tañi Dəŋuimilla peñi em: Fei mai tacuidatunien.</p>
+
+<p xml:lang="arn">Ollon meu felei tañi pu capitan, eleléteu tañi pu loŋko yem,mapu meu məletui: tañi Naqiñamku em, tañi Werapillañ em,tañi Kùnchawala yem, tañi Kolùwaka yem, tañi Painepaŋ em,kom tañi pu ùl·men em.</p>
+
+<p xml:lang="arn">Kintuñma nien tañi mapu, tranakənumuéyəm mo tañi Loŋkomilla chau em.</p>
+
+<p xml:lang="arn">Wirárukei.</p>
+
+<p xml:lang="arn">Fachantù mai peukəléyu, witchan mapu.</p>
+
+<p xml:lang="arn">Petu mai ta duamtueneu kámapu loŋko, pilan mai ta təfa.</p>
+
+<p xml:lang="arn">Kake mapu mai ta feleyu.</p>
+
+<p xml:lang="arn">Fentren kon·a mai ta nien, tañiŋūnaitunieel ka tañi llaufeñmanieel.</p>
+
+<p xml:lang="arn">Ruparupaŋekei ta tripantu, l·al·aŋekei tañi kùmeke pu fochəm.</p>
+
+<p xml:lang="arn">Fachantù mai, ta witrapaimi,niewelafun mai weshake dəŋu.“</p>
+
+   <p xml:lang="arn">Wirárukei.<pb n="16"/></p>
+
+<p xml:lang="arn" n="3"> Painemal Weitra:„Fei maikimelen: ¿Wif l·afken mai feleitañi pu ùl·men tañi loŋko, tañipu wen·ùi, rumépeyəm tañi ŋùlam?</p>
+
+<p xml:lang="arn">Fei mai ta kimelaqen. Peukelayu mai. Məlen mu mai dəŋupeukei ta iñchiú femŋelu.</p>
+
+<p xml:lang="arn">¿L·apéyəm ta chau, l·apéyəmtañi kùmeke pu loŋko, tañi pucapitan tañi loŋko, fei mai kimelan.Fentépun mai ñi piel, tañi Puelpaŋi loŋko, təfa mai eya, wichan mapu."</p>
+
+<p xml:lang="arn">Wirárùkei.</p>
+
+<p xml:lang="arn" n="4"> Painemilla: „Femi mai,wifl·afken· mai ta məlei tañi puloŋko.</p>
+
+<p xml:lang="arn">Məlei tañi Paineñamku, wichuchùŋkon (wichuŋənen) kon·a ŋeirumepéyəm tañi ŋùlam.</p>
+
+   <p xml:lang="arn">Moŋelei tañi Karùpaŋi chedkui,ka moŋelei tañi Llaŋkùñamko,Ruŋipulli mapu ŋei; tañi Kalofmapu tranakənuel tañi Werakani em; ñi Kollikomapu tranakənuel tañi Karmunawel em,Antùnawel piŋei; tañi Lluiñmapu tranakənuel tañi Wichall em;ka moŋelei tañi Kechukawiñmapu tranakənuel tañi Loŋkonawel em: kiñe elí tañi Kùlenpaŋi fochəm, ka ñi tranakənueltaŋi Kallfùllaŋka yem. Fei maikom kùmelei tañi pu loŋko.Ŋiaq wirárùkei.<pb n="17"/></p>
+
+<note xml:lang="spa">B. Parlamento celebrado entre el cacique de Panguipulli, Camilo Puelpan y el cacique de Wapi, Pascual Painemilla</note>
+
+<p xml:lang="arn">Abril kùyen· akui tichi werken,meli tripantu mo ŋei təfa; kiñetripantu rulpafui ñi akunon Puelpaŋ; féola kula tripantu mopewiŋu təfa.</p>
+
+<p xml:lang="arn" n="1"> Puelpaŋ (witran): ¿Məleimitəfa mu, wichan mapu?</p>
+
+<p xml:lang="arn" n="2"> Painemilla: Məlen mai, wichan mapu.</p>
+
+<p xml:lang="arn" n="3"> Puelpaŋ: Feyərke mai, wichan mapu. Peukelayu mai, rupalei mai tripantu, pewiyu maita werken meu; fei mu mai kimfeyu (=kiməñmafeyu) tami kùmelen.</p>
+
+<p xml:lang="arn">Welu fachantù mai peukəleyu.¿Ŋepei mai tami felen, kùmelentami kuñùl, tami pu fochəm, tami pu peñi, tami malle, tamiŋillañ, tami pu loŋko?</p>
+
+<p xml:lang="arn">Kintuniekeyu ta mapu l·apéyəm ta pu laku, l·apéyəm ta puchau anùñmaniekeyu ta mapu?</p>
+
+<p xml:lang="arn">Fentrenchi kùmeke kon·a ta nieimi, rumepéyəm tami ŋùlam, feimu tami nienon dəŋu.</p>
+
+   <p xml:lang="arn">Kake mapu tayu felen mu kiməñmaukelayu tayu kùmelen.Fachi antù mai məlei tañi witrapan; kiñe kùla meli antù meunùumen tañi furi kawellu meu.<pb n="18"/></p>
+
+<p xml:lang="arn">„Kimafiñ tañi loŋko, tañi kùmelkalen ta kuñùl meu, kùmetreməmtunien tañi pu fochəm,kùme adkintunien ta mapu ka tañi fentrenchi kon·a", piken mai,fei meu ta prakawellutueyu, feimeu ta petu chaliwəlkeeyu mai,wichan mapu.</p>
+
+<p xml:lang="arn">¡Oó.! (Wirárùkei.)</p>
+
+<p xml:lang="arn" n="4"> Painemilla: Femŋei maitañi felen: kùmelkalen mai, wichan mapu, kùmelei tañi kuñil,kùmelei tañi pu fochəm, tañi pumalle, kiñe epu mai ta treməmtunien, eleléteu tañi wǝnen peñiem, kakeume tañi pu peñi em.</p>
+
+<p xml:lang="arn">Wallon mo felei tañi pu fochəm,ta ñi pu capitan, eleléteu tañipu loŋko em, fei mai kùmelei;welu rupakei tripantu, rupakeimai kùyen· tañi ŋənapéyem(=l·apéyəm) tañi pu fochəm,tañi pu loŋko, tañi pu kapitan,ŋənel mu mai məlewen (= ŋənelkəlewen), wichan mapu.</p>
+
+<p xml:lang="arn">Welu fachi antù mai niewelandəŋu. Kom kùmelei tañi pu loŋko.</p>
+
+<p xml:lang="arn">Məlei tañi N·opa Troltren mapu,fentemepéyəm tañi lef kawell,məlemum tañi ŋùlam; moŋeleitañi Likaŋkeupù, eleléteu tañiWeichakeupù loŋko em, ka, mapu meu məletui tañi Pichuñl·afiem: kiñeke elərpui tañi pu fochəm.</p>
+
+<p xml:lang="arn">Yeneŋéchiko mapu meu məlefui<pb n="19"/> tañi Pormallaŋka yem: fei maikiñe elərpui fochəm, moŋelei tañi Trafollaŋka.</p>
+
+<p xml:lang="arn">Ni Rukakura mapu meu məlefuitañi Deumakan·i em: ka kiñe elítañi fochəm, moŋelei tañi Pəlkian·i.Ñi Puyewe mapu meu moŋelefuiñi Likaŋkura loŋko em: kiñeelərpui pu fochəm, moŋey mai ñiWirkañamku.</p>
+
+<p xml:lang="arn">Ñi Malalwe mapu meu moŋeleiñi Paineñamku loŋko.</p>
+
+<p xml:lang="arn">Ñi Puauchu mapu meu moŋelefui ñi Lefiñamku em: fei maikiñeke elərpui pu fochəm, fei maicuidatunien, wichan mapu.</p>
+
+<p xml:lang="arn">¡Oó! (Wirárukei.)</p>
+
+<p xml:lang="arn" n="5"> Puelpaŋ: Felei mai, wichanmapu. Kùmei mai tami kùmelen. Fəreneéyeu Ŋənemapun tainchiú femŋelu, ñidolkənukeéyeuta təfachi mapu meu, elukeéyeuta kùme rakiduam; fei meu maikùme ùieltumapulekei: felemumta pu laku em, felemum ta puchau, femŋechi ta welufeletukeita inchiú femŋelu.</p>
+
+<p xml:lang="arn">Fentenchi pu loŋko ta feléfeleitami mapu meu, tami kiñeldəŋun.</p>
+
+<p xml:lang="arn">Fei ñi kùmelen, fei mai kiman,piken.</p>
+
+<p xml:lang="arn">Kom mapu mai tami konùmpaŋen meu, fei meu mai prakawellun tami kimafiel; ka mi nienmeu kai dəŋu mai, fei mo ta kùpan.</p>
+
+<p xml:lang="arn">Kùpaln tañi pu loŋko: tañi Pai<pb n="20"/>nemal Weitra, tañi Trureul·em,tañi Millal·em, tañi Paillañamko, tañi Wenchuyeku, fei mai takompañkùpalnien tañi trafkadi nieáteu, ka tami ayùeteu tami leliwəláteu; welu mai fachiantù kintuluwiñ, wichan mapu,tami tunteke nien kùmeke pukapitan, tami kellupeéteu fùchake dəŋu meu.Ká fei mai kùme wen·ùikoŋkəleifùchake mandachi pu ùl·menmeu tami piŋeken meu, ka maita kellukefí ta pu kushe, kom pufochəm, kom pu kunifal tamipiŋen meu: fei meu mai ta ŋillatuñmaukeiñ Ŋənechen meu,yod tami wenupraial tami ùi!</p>
+
+<p xml:lang="arn">Welu mai weche wentrurke maieimi! Femŋechi dəŋu meu maita kùpatueyu.</p>
+
+<p xml:lang="arn">Fentépun mai tami kimafiel, wichan mapu.Wirárùkei.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="6"> Fabricación de la chicha de maíz</head><note xml:lang="spa">referida por el niño Domingo de la Rosa Kallfùlem.</note>
+
+<p xml:lang="arn" n="1"> Úremŋekei uwa; féola entuŋekei ko meu. Fei kekùŋekei.</p>
+
+<p xml:lang="arn">Təfeichi kekùn chiwùltuŋekei<pb n="21"/>llepù meu, ñi troləf uwa tripaialu; fən· məlekei.</p>
+
+<p xml:lang="arn" n="2"> Ká ùremŋekei kekùn, feimeu məl·aŋekei.</p>
+
+<p xml:lang="arn">Məl·aŋelu ùl·aŋekei, kowəmŋekei; fei meu pùlkuŋekei.</p>
+
+<p xml:lang="arn" n="3"> Ñi femŋeaqel təkuŋekei challa kùtral meu.</p>
+
+<p xml:lang="arn">Fei meu ko eŋu reyùlŋekei ùl·an.Lūqtukei ti ko.</p>
+
+<p xml:lang="arn">Challa meu təkuŋekei tichi ko,fei afùkei, ella afùmŋekei.</p>
+
+<p xml:lang="arn">Afùlu, fei pùlku ŋei.</p>
+
+<p xml:lang="arn" n="4"> Fei entuŋekei ti pùlku challa meu, welu challa məlekakeikùtral meu.</p>
+
+<p xml:lang="arn">Tichi pùlku wətruntəkuŋekeifarril meu, mesheŋ meu ká fei.</p>
+
+<p xml:lang="arn">Epu, kùla, meli antù məlekei farril meu, fayùkei.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="7"> Rùn kùŋkùchallwan</head><note xml:lang="spa">Pesca con lanza tridente, referida por el joven Felipe Kùmeñ de Wapi.</note>
+
+<p xml:lang="arn" n="1"> Rùŋkùchallwam duamŋekei kiñe rùŋkùwe.</p>
+
+<p xml:lang="arn" n="2"> Wəné kintuŋekei kiñe maməll, dùke, kam ŋefù, kam ŋul<pb n="22"/>ŋu, norŋelu, ella mən·arumelu,epu nùfkù kam kùla nùfkù niechi maməll.</p>
+
+<p xml:lang="arn" n="3"> Fei meu ká kintuŋekei pichike rume ùñùntu, waillilal.</p>
+
+<p xml:lang="arn">Kùla kintuŋekei, epe kiñe nùfkùnielu; kiñépəle yuŋəmŋekei, kañpəle mayafnentuŋekei (waillil).</p>
+
+<p xml:lang="arn">Wechun maməll ká fei kùlañpəlemayafnentuŋekei.</p>
+
+<p xml:lang="arn" n="4"> Fei meu təfachi kùla wailliltrapəmŋekei wechun maməll meu, trarùntəkuŋekei foki meukam pichi rume def meu.</p>
+
+<p xml:lang="arn">Təfachi kùla waillil kùllwekənuŋei ñi trafnoam (raŋiñ meu trarùŋei).</p>
+
+<p xml:lang="arn" n="5"> Fei meu epu wentru amukeichallwaialu.</p>
+
+<p xml:lang="arn">Konkeiŋu kiñe wampo meu.</p>
+
+<p xml:lang="arn">Iñaŋelu (kəlen wampo meu məlelu) fei kawelekei; kiñe, loŋkowampo meu, witralekei.</p>
+
+<p xml:lang="arn">Fei meu konkeiŋu l·eufù meu.</p>
+
+<p xml:lang="arn" n="6"> Cheu ñi pen challwa kawewekelai kəlen wampo meu məlelu.</p>
+
+   <p xml:lang="arn">Loŋko wampo meu məlelu llùwatuniekei challwa, fei meu inafəlpulu rùŋkùtukei rùŋkùwe meu. Tulu, fei meu təkukei wampomeu.<pb n="23"/></p>
+
+<p xml:lang="arn">Kiñeké meu witəfùkei challwa.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="8"> Məñetun.</head>
+   <note xml:lang="spa">Referido por José Francisco Kólùn de Wapi</note>
+   <note xml:lang="spa">El relato es muy incompleto. Una descripción amplia de esta intresante costumbre véase en el apéndice.)</note>
+
+<p xml:lang="arn">Məñutu piŋekei cheu ñi puupéyəm che, ñi elpupetuyəm ñi weñen, ñi kimŋenoam ñi weñen feichi wentru. Ñi ŋoimaluam feichi weñefe, fei meu al·ùn che konkei.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="9"> Nùyùn, Temblor,</head><note xml:lang="spa">referido por Pascual Painemilla Ñamkucheu.</note>
+
+<p xml:lang="arn">„Yerpakei ketran nùyùn, taiñfillaŋeam", pikei pu mapuche.</p>
+
+<p xml:lang="arn">Fei meu léfkəlen amukei pu domo ñi sacu ketran meu, tranántəkupulei kura, fei ñi pepí yerpanoam ketran feichi nùyùn kapikei:</p>
+
+   <p xml:lang="arn">„Amumn, amumn, kakeñpəlerumemn, doy nielu ketran meu.<pb n="24"/></p>
+
+</div>
+<div>
+<head xml:lang="spa" n="10"> Imprecaciones que echa una mujer á su marido,</head><note xml:lang="spa">referidas por Pascual Segundo Painemilla Ñamkucheu.</note>
+
+<p xml:lang="arn">„¡Peumaŋen l·aiai wedá wentru, adkaneu!</p>
+
+<p xml:lang="arn">¡Peumaŋen l·atrewaiai!</p>
+
+<p xml:lang="arn">Kùyen· no mai chi; chumŋechiñi ñamn antù, femŋechi ñamaikai.</p>
+
+<p xml:lang="arn">Kura no mai chi, chéllei no kamfé?</p>
+
+<p xml:lang="arn">L·akaiai ta təfei!“</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="11"> Origen de las rogativas de los araucanos</head><note xml:lang="spa">referido por Domingo Segundo Wenuñamlo de Maŋolwe, (misión de Panguipulli</note>
+
+<p xml:lang="arn" n="1"> Feichi kuifi mapunche cheŋewelafui.</p>
+
+<p xml:lang="arn">Wiŋka məlen meu fill kutran tripai, pofre ŋewefui mapunche,kom ñi kulliñ, ñi plata niewelafui.</p>
+
+<p xml:lang="arn" n="2"> Kiñekelewefui məten pofreŋechi mapunche, təkunei kùdaumeu, mozo ŋewefui kom.</p>
+
+   <p xml:lang="arn">3, Kom ke antù kùdaukefuiŋn, pichin məten eluŋekefuiŋniaqel.<pb n="25"/></p>
+
+<p xml:lang="arn">Dollouelŋei maməll, fei meu eluŋei iagel, pichin məten.</p>
+
+<p xml:lang="arn">Kiñe antù ikefui kiñechi məten.</p>
+
+<p xml:lang="arn">Imei məten, ká kùdautui.</p>
+
+<p xml:lang="arn">Eluŋelai ñi takuam chi pofre.</p>
+
+<p xml:lang="arn" n="4"> Kom ke antù kudawí; tripai ñi kudau meu, ŋùmakefui,təkulpatui ñi pofre ŋen.Kiñe antù təkuŋei katrùmaməllŋen meu, witrañmaniéyeu ñipatrón: awe katrùlafí chi maməll, fei meu kewaŋei.</p>
+
+<p xml:lang="arn">Lladkùi, ŋillatuñmaukei Diosmeu, fentren ñi wedalkalen meu.</p>
+
+<p xml:lang="arn" n="5"> Fei meu kiñe antù pepaéyeu kiñe fùchá wiŋka, willwillkəlefui; fei dəŋupaéyeu:</p>
+
+<p xml:lang="arn">„Chem meu fenten lladkùimi?"piéyeu.</p>
+
+<p xml:lang="arn">„Fenten mai ñi awùkaŋen meukùdau meu; eluŋekelan rumeiaqel", pifí chi fùchá wiŋka.</p>
+
+<p xml:lang="arn">Fei meu: „Eluaimi mai kiñe seña", piéyeu, „kiñe pifəlka; werkùlelaqeimi wùle. Kintuwaimnmn tuntekelewen kake mapu,<pb n="26"/> mn pewam. Pəshamtuafimn tatəfeichi pu wiŋka“.</p>
+
+<p xml:lang="arn" n="6"> Ká antù meu, akulélŋei chipifəlka.</p>
+
+<p xml:lang="arn">Feichi pifəlka meu feiwəla kintuwiŋn, eludənuwiŋn kake mapu;ñi pal·iaqel deumaiŋn weño,deumaiŋn l·uma cuchillo, l·umawaiki.</p>
+
+<p xml:lang="arn" n="7"> Fei təfachi pifəlka meu fəkeleiŋn chem ñi ayùn.</p>
+
+<p xml:lang="arn">Fei meu „amuan kañpəle", pi,„n·ochi təfachi l·eufù meu“, pifíñi pifəlka.</p>
+
+<p xml:lang="arn">Fei meu deumálŋei kiñe kuikui,kùla rume wedke kuikui, feimeu n·oí.</p>
+
+<p xml:lang="arn" n="8"> N·orpulu, fei meu eldəŋuiŋn,tunten meu ñi pəshamafiel wiŋka.</p>
+
+<p xml:lang="arn">Wǝne paliŋn afkentu.</p>
+
+<p xml:lang="arn">Chuməl palituiŋn, ñi pu patrón adkintuniekeféyeu.</p>
+
+<p xml:lang="arn">Ayùntunieéyeu mi patrón ñifemfemŋen ñi palikantun.</p>
+
+<p xml:lang="arn">Kishu eŋn, kiñe wiŋka no rumeayùlafiŋn ñi palikənuyeaqéteu.</p>
+
+<p xml:lang="arn" n="9"> Fei meu inaniei ñi dəŋu.</p>
+
+<p xml:lang="arn">Kùme kimlu eŋn wəla eliŋn<pb n="27"/>ùiantù, trafkəlelu ñi paliwe meu.</p>
+
+<p xml:lang="arn">Pura antù eliŋn; trawəlelu yeŋn,eliŋn pəron, ñi kimnieam ñiñi antù, chiem antù meu ñitrawyeaqel kom mapu.</p>
+
+<p xml:lang="arn">Kiñekelewelu ñi trawam komkiñé meu, kiñe mawida meu tra- ]wiŋn.</p>
+
+<p xml:lang="arn">Fei meu wəla kontufiŋn wiŋka,ella trafuya, fei ñi umaqn komchi che.</p>
+
+<p xml:lang="arn">Apəmfiŋn kom mapu wiŋkayem.</p>
+
+<p xml:lang="arn" n="10"> Féola kùmelewetuiŋn.</p>
+
+<p xml:lang="arn">Fei meu wəla trawiŋn, ŋillatuñmawiŋn Dios meu ñi fəreneéteuñi cheŋetuaqel.</p>
+
+<p xml:lang="arn" n="11"> Deumaiŋn trutruka.</p>
+
+<p xml:lang="arn">Kiñe lelfùn meu, adkintuŋnechilelfùn meu, ñi pifəlka meu ramtutuiŋn chumŋechi ñi rogaialDios, ñi kùmeletuaqel.</p>
+
+   <p xml:lang="arn">Feichi pifəlka fei piéyeu: „ Ñi deumaiaqel kiñe zaranda".<pb n="28"/></p>
+
+<p xml:lang="arn">Anùmiŋn meli ùŋko, fei meu ñielaqel llawiñ meu mollfùñkulliñtrawən meu l·aŋəmelchi kulliñ,fei ñi mollfùñ.</p>
+
+<p xml:lang="arn">„Fei meu kùmelkaiaimn", piŋei.</p>
+
+<p xml:lang="arn" n="12"> Lloŋoll meu eliŋn mùrke(yapaq mùrke).</p>
+
+<p xml:lang="arn">Feichi eluel chi pifəlka fei ŋillatui.</p>
+
+<p xml:lang="arn" n="13"> Féola ŋillatuñmawiŋn Dios meu.</p>
+
+<p xml:lang="arn">Kùtraltuŋei chi kulliñ, ləpəmŋei kom, femŋechi ñi kùmelkaiam.</p>
+
+<p xml:lang="arn">Lloumaéyeu ñi ŋillatun Ŋənechen.</p>
+
+<p xml:lang="arn">Femŋechi felerpui ŋillatun.</p>
+
+<p xml:lang="arn">Kom mapunche ñi ŋillatuñmawaqel piukekulliñ meu, fei meuallkùñmaéyeu Ŋənechen, elchekelu, ñi ŋillatun.</p>
+
+   <p xml:lang="arn">Fei meu wəla cheŋetui, nietuiŋnfill kulliñ, ketran ñi moŋeam.<pb n="29"/></p>
+
+</div>
+<div>
+<head xml:lang="spa" n="12"> AillareweConvocación al gran ŋillatun (Aillarewe) y ritual del mismo</head>
+   <note xml:lang="spa">Referido por Domingo Segundo Wenuñamkp de Maŋolwe (Misión de Panguipulli).</note>
+
+<p xml:lang="arn" n="1"> Kuifi mai məlerkafui aillaréwen dəŋu.</p>
+
+<p xml:lang="arn">Fei pikeiŋn chi fùchakeche, kimpalu ñi laku nùtram, ñi chaunùtram.</p>
+
+<p xml:lang="arn" n="2"> Witraukefui kom mapu puul.men.</p>
+
+<p xml:lang="arn">Tuwerkefui mai dəŋu Kùllchimapu meu.</p>
+
+<p xml:lang="arn">Fei meu məlerlkefui Ŋənechen ñielel, ŋen·pin, kimdəŋupéyəm.</p>
+
+<p xml:lang="arn">Chem dəŋu ñi məlerpuaqel, ñiməleaqel ùñfe, chem tripantumeu ñi məleaqel, fei pikefui chiŋen·pin.</p>
+
+<p xml:lang="arn" n="3"> Fei meu peumakefui chiŋen·pin, nùtramkaŋefui ñi trokiwən.</p>
+
+   <p xml:lang="arn">Ñi doy kuifi ke che yem, ñi lakuŋekefui ñi eluéteu dəŋu.<pb n="30"/></p>
+
+<p xml:lang="arn">Fei meu ruldəŋukefui, kimelkeufi chi pu loŋko.</p>
+
+<p xml:lang="arn" n="4"> Fei meu fei trawǝkefuiŋn.</p>
+
+<p xml:lang="arn">„Ŋillañpewaiñ mai taiñ elkeéteuŋənemapun meu, iñ kùmeleam,iñ peam ta ketramapun", pikefuiŋn pu loŋko yem.</p>
+
+<p xml:lang="arn" n="5"> Fei meu chi Kùllchi loŋkoruldəŋukefui, werkùkefui kiñekimwentru, kimlu koyaqn, kimlu weupin.</p>
+
+<p xml:lang="arn">Fei kùpalkefui dəŋu.</p>
+
+<p xml:lang="arn">Akukefui dəŋu Malalwe; fei meuká chi loŋko, Malalwe loŋkoyom werkùkefui.</p>
+
+<p xml:lang="arn" n="6"> Akui dəŋu Koreltuwe.</p>
+
+<p xml:lang="arn">Koreltuwe ñi tuun ká akulkefuiTriŋkəl.</p>
+
+<p xml:lang="arn">Fei meu tuwí, fei kùpakefui Komowe.</p>
+
+<p xml:lang="arn">Féola n·oí dəŋu Paŋipùlli.</p>
+
+   <p xml:lang="arn">Paŋipùlli lloudəŋui chi ùl·men;fei wəla ká amukefui dəŋu Kodkod.<pb n="31"/></p>
+
+<p xml:lang="arn" n="7"> Kodkod lloudəŋui chi ul·men, féola n·okefui Kayumapu.</p>
+
+<p xml:lang="arn">Kayumapu puwí, ká amui Tralkapùlli.</p>
+
+<p xml:lang="arn">Tralkapùlli tuwərpui, féola amuiPulləŋki.</p>
+
+<p xml:lang="arn">Pulləŋki tuwí, amui Koñarəpù.</p>
+
+<p xml:lang="arn">Femŋen puwí hasta Llùkùñe.</p>
+
+<p xml:lang="arn" n="8"> Femŋechi kimkefui dəŋu feitəfachi mapu wùftun.</p>
+
+<p xml:lang="arn">Naqkefui ka Purəlon pəle, túuluKùllche.</p>
+
+<p xml:lang="arn">Felen amulei.</p>
+
+<p xml:lang="arn">San José pəle fentépukefui.</p>
+
+<p xml:lang="arn">Ká amui Koiwe pəle, amui Furiwiŋkul.</p>
+
+<p xml:lang="arn" n="9"> Fei meu kimiŋn chi kommapu che chem deŋu mi məleaqel, cheu mapu che ñi wənetrawaqel ñi ŋillatuñmawaqel ñiŊənechen meu, ñi mieuqel fill ketran, fill kulliñ, niele yall, ñi treməmaqel, kom ñi pu kuñùl ñikùmeleaqel.</p>
+
+<p xml:lang="arn" n="10"> Fei məten mai nierkefuikuifi ke che yem.</p>
+
+<p xml:lang="arn">Fei pikei kiñeke pu kushe, pu fùcha, kimnielu chumŋechi dəŋuñi niekefuel ñi pu chau yem.</p>
+
+   <p xml:lang="arn">Fei meu kiñeke nùtram konəmpakei, lladkùkei pu kushe, ñi ŋewenon meu ŋillañpewən Ŋənechen meu.<pb n="32"/></p>
+
+<p xml:lang="arn">Chi pu fùcha femŋechi nentukefui ñi dəŋu: mupiltuwelại komche deuma təfeichi dəŋu yem.</p>
+
+<p xml:lang="arn">Inchiñ iñ iñaŋemechi cheŋen mupiltuwelafiiñ kuifike laku ñi nùtram.</p>
+
+<p xml:lang="arn" n="11"> Kiñeke mapu meu eldəŋui chi pu loŋko.</p>
+
+<p xml:lang="arn">Kom ñi trapəmuwən meu ramtutuukefuiŋn, inei kùfchi ñitəkuaqel kùtraltu kulliñ, ka, ineiñi koncholaqel, chumŋechi kulliñ, waka kam ofisha, tuntenkulliñ ñi l·aŋəmaqel, chiem mapu che ñi ileltuaqel ñi yewetupeéteu.</p>
+
+<p xml:lang="arn" n="12"> Femŋechi kom trùrəmuwiŋn kulliñ meu, kimiŋn ñi fituaqel ñi ileltun tunten mapu che.</p>
+
+<p xml:lang="arn">Fei wəla elkefuiŋn werken, wiñall dəŋu.</p>
+
+<p xml:lang="arn">Fei meu kimkefuiŋn chem kùfchi mapu che ñi amuaqel feichitrawən meu.</p>
+
+   <p xml:lang="arn">Femŋechi məlekefui dəŋu kuifitrawən meu ñi ŋùlamtuukefuel;məlen meu ùñfe, ŋùlamtuukefuiŋn, peŋan ñi inoaqel che.<pb n="33"/></p>
+
+</div>
+<div>
+<head>La junta misma, como todavía se hace en Panguipulli.</head>
+
+<p xml:lang="arn" n="13"> Fei ñi trawən fùchá ŋənetukeiŋn.</p>
+
+<p xml:lang="arn">Fei wəla naqkawellwiŋn kom chiŋen·ke trawən.</p>
+
+<p xml:lang="arn">Nielu mushai elí maréwepull pichike yiwe meu, feimeu pitrəlkənulŋei chi epuñamuñ, ñi pətokoaqel.</p>
+
+<p xml:lang="arn">Chi lloŋoll meu elŋekei chi maréwepull.</p>
+
+<p xml:lang="arn" n="14"> Fei nentuyerpukei chi ŋənetukawellúuma - tripawe antùpəle yeiŋn, pichi al·ùtripa; feimeu ká pitrəlkənopufiŋn.</p>
+
+<p xml:lang="arn">Féola meli rupa fùchá yapepùlliñmaŋei.</p>
+
+<p xml:lang="arn">Fei wəla wall nùtuiŋn ñi yiwemushai.</p>
+
+<p xml:lang="arn">Fei wəla pətefəliŋn, konùmpaiŋnñi laku, ñi chau, ñi ñuke, ñi lam<pb n="34"/>ŋen, ñi tremma: tunten moŋeyeel ñi l·an fei konampakeiŋn:</p>
+
+<p xml:lang="arn" n="15"> „Ŋillañpeaqen, lukutuñmaiaqen Ŋənechen meu.</p>
+
+<p xml:lang="arn">Niepe ketramaqun, piaqen.</p>
+
+<p xml:lang="arn">Akúlaimi antù.</p>
+
+<p xml:lang="arn">¿Chemŋetuimn chei mn femiawn? Raŋiñwenu ŋetuimn chei?Antùpayiñamko ŋetuimn? Antùkatrùkətrùŋeimn? Antùkələŋkəleŋ ŋeimn? Kallfùpəllo<pb n="35"/>meñ ŋeimn femrupaiawn?</p>
+
+<p xml:lang="arn">„Niepe mai ketran", pimoan.</p>
+
+<p xml:lang="arn">¿Chem meu kam moŋeafun?Məlei mai fentren chi pəñeñ.Fərenemoan, elumoan ketran,fill ketran, kachilla, kawella,allfid, awad, poñù."</p>
+
+<p xml:lang="arn" n="16"> Femŋechi ŋillatukeiŋn komkishuke ñi yiwe meu; yiwe meunentukeiŋn mushai dichotraŋəllkuq meu, pətefəlkeiŋn.</p>
+
+<p xml:lang="arn">Fei wəla rupan pətefəliŋn, pùtukeiŋn yiwe mushai, fei wəlaká anùkənoyetufiŋn kom.</p>
+
+<p xml:lang="arn">Ká meli rupa yapepùlliñmaŋetui.</p>
+
+<p xml:lang="arn">Fei wəla wall nùŋeketui, yeŋetui, chi lloŋoll meu meli rupawallí re rùŋkùwn, re yapepùllinmeu.</p>
+
+<p xml:lang="arn">Fei wəla anùkənoyetui ñi məlemoyùm meu.</p>
+
+<p xml:lang="arn" n="17"> Féola chi ŋen·pin vitrakənolŋei kulliñ ayùnŋelu, chodwakaŋen, alasan kawell, kuŋai.kiñ ofida.</p>
+
+   <p xml:lang="arn">Fei meu fùchá koyaqelŋei chiŋen·pin:„Ŋillañpemoayiñ", piŋei. „Wenu Rey Fùcha meu, Wenu Rey<pb n="36"/></p>
+
+<p xml:lang="arn">Kushe meu, yiñ elkeéteu Ŋənemapun meu etc.".</p>
+
+<note xml:lang="spa">Otra versión de lo dicho en el Nº 17.</note>
+
+<p xml:lang="arn" n="18"> Chi kùtraltu chalintǝkulelŋekei chi ŋen·pin, ñi ŋillatuam, koyaq meu:</p>
+
+<p xml:lang="arn">„Təfa mai pillañpeaqen, tripanmeu mai wedake ùñfe.</p>
+
+<p xml:lang="arn">Witraletuyiñ təfachi kiñe kùmelelfùn meu, ñi feleperkefuyùmtaiñ kùmeke laku yem, yiñ kùmeke chau em.</p>
+
+<p xml:lang="arn">„Məletun mei mai wedake ùñfe,fei meu mai ŋillañpewain Ŋənechen meu" pin meu mai yiñ puloŋko pramdəŋuiŋn.</p>
+
+<p xml:lang="arn">Femŋechi mai witratrawəleiñ iñfelepéyəm tripatun meu wedakenefnef, karùwa etc."</p>
+
+<p xml:lang="arn" n="19"> Fei wəla ŋen·pin llowí chikulliñ, mandai sarkento ñinentupiukeŋeaqel feichi kulliñ.</p>
+
+<p xml:lang="arn">Fei meu chi ŋen·pin ŋillatuñmafi kom che, ñi ŋewenoaqel ùñfe,ñi ñamtuaqel, piku mapu pəle ñiadkənuŋeaqel etc.</p>
+
+   <p xml:lang="arn" n="20"> Rupan ŋillatulu, fei wəlaka trəpukei ñi kultruŋ.<pb n="37"/></p>
+
+<p xml:lang="arn">Fùchá pəruñmaŋei chil·á kulliñ,ñi l·aŋəmŋen meu.</p>
+
+<p xml:lang="arn">Ka, chi trutruka nùkəfùlai ñidəŋulŋen, ñi allkùam Ŋənechen, ñi tuteŋeam.</p>
+
+<p xml:lang="arn" n="21"> Fei wəla kom pəntùtuŋeitəfeichi l·á kulliñ.</p>
+
+<p xml:lang="arn">Deumaŋei kiñe pillañkùtral adtripawe antù pəle.</p>
+
+<p xml:lang="arn">Fei meu fùchá kùtraltui chi che;tuŋei kaŋkawe, kom ñi kaŋkaŋeam chi ilo.</p>
+
+<p xml:lang="arn">Kom kaŋkaŋei.</p>
+
+<p xml:lang="arn">Wallparupa chi kùtral meu retrùntəkukənoyeŋei kom chi pəntù ilo, kishuke kaŋkawe komkiñeke pəntù.</p>
+
+<p xml:lang="arn" n="22"> Fei meu elŋei chi sarkento.</p>
+
+<p xml:lang="arn">Chi ŋen·pin rulkei chi dəŋu ñiserfiŋeaqel chi pillaŋkùtral, ñiinaluumenoaqel peŋan ke che,trewa no rume ñi nufnufùtupunoaqel iná meu feichi pillankùtral meu.</p>
+
+<p xml:lang="arn">Kom kake che kiñépəlekənukei.</p>
+
+<p xml:lang="arn">Mollfùñ iná kùtral meu wətruntəkuyekei məten.</p>
+
+<p xml:lang="arn">Kom afùi chi ilo wəla, féola təkuŋei raŋiñ kùtral, kom ñi ləfam.</p>
+
+   <p xml:lang="arn" n="1"> Literalm.: no calla sú ser tocada2. p. e, una paleta, pierna, costilla.3. Pero nó sin haberse hecho aspersi4. La carne asada, no sabemos si seforasteros.<pb n="38"/></p>
+
+<p xml:lang="arn" n="23"> Fei wəla rupan ŋillatuiŋen·pin, fei meu wichuke koncholuukeiŋn, welu chi ŋen-pinwəne eluŋekei chi piuke ofisha, ñiŋillatuam chi pu koncho eŋn.(Koncholuwn)</p>
+
+<p xml:lang="arn">24 Chi koncholuupelu ñi puchau yem koncholuukǝlerpukai.</p>
+
+<p xml:lang="arn">Fei meu chalintəkuleluwiŋn.</p>
+
+<p xml:lang="arn" n="25"> „Təfa mai yu ayùtupiukeuperkefuyum yu pu loŋko em.</p>
+
+<p xml:lang="arn">Piuke ofida meu mai ayùtupiukeukerkefui, məlen meu kiñe kùme dəŋu, ŋillañpewən dəŋu, witralen meu kiñe kùme lelfùn meu.</p>
+
+   <p xml:lang="arn">Ñi feleperkeluyùm yiñ chay che,yiñ pu laku yem, fùchake cheyem, ñi feleperkefurùm ñi nienñi ŋillañmawən: fei meu maiayùeimi kiñe llaŋkapiuke meu,məlen meu llamekan dəŋu,məlen meu malwe llaŋka dəŋu.<pb n="39"/></p>
+
+<p xml:lang="arn">Llowelen mai təfa mi ayùñmafiñ mi piuke.</p>
+
+<p xml:lang="arn">Ñi ayùtupiukewərken ta pu kuñifall, leliruluukei ta kiñe llaŋkapiuke meu.</p>
+
+<note xml:lang="spa">(En este momento el orador entrega a su amigo la puntadel lazo en que está amarrado un cordero.)</note>
+
+<p xml:lang="arn">Witranieukei kuq meu petu nùtramkan meu.</p>
+
+<p xml:lang="arn" n="26"> Fei meu nùi ñi ofisha təfeichi eluel.</p>
+
+<p xml:lang="arn">Fei meu wəla mandai ñi pukon·a ñi nentupiukelelaqéteuchi ofisha.</p>
+
+<p xml:lang="arn">Fei meu nentupiukelŋei.</p>
+
+   <p xml:lang="arn">Pailanakəmŋei cordero, waka,potrillo; fei meu nùñmaŋei ñiepu wənéŋeme n·amun· (rékuùtuwitranieñmanŋei), pənónakəməñmaŋei ñi pel·.Feichi nentupiukealu chi puémeu trekarumei, rekañmakənofí.<pb n="40"/></p>
+
+<p xml:lang="arn">Rùku meu təkulmefi chi cuchillo,witráfùñmafi ñi pùtra; fei wəlatəkulelfi kuq, nùñmaniefi ñi pon·on, ñi piuke yeŋu, fei nentumefi chi piuke.</p>
+
+<p xml:lang="arn" n="27"> Nentufilu chi piuke walləmfi chi lloŋoll meu, kom untafi chi rəŋi, chi makana,chi trutruka.</p>
+
+<p xml:lang="arn">(Parece que ahora entra en función el ŋen·pin según laalusión contenida en No. 23.)</p>
+
+<p xml:lang="arn">Fei wəla witranielŋei pu koncholuwalu chi piuke ofisha.</p>
+
+<p xml:lang="arn" n="28"> Fei meu fùchá ŋillatuñmawí Ŋənechen meu, kom konəmpaŋei ñi pu laku, ñi pukusheñma, ñi kùmeleaqel, femŋechi dəŋu ñi niekefuel:</p>
+
+<p xml:lang="arn">„Eimn mai ñi elmom moŋelenfərenemoan mai: peaiñ ta ketramapun, moŋeleam tayiñ fen<pb n="41"/>tenchi familia", pikei</p>
+
+<p xml:lang="arn" n="29"> Fei wəla witraniei ñi piuke eluel, petu ñi nùtramkan məten.</p>
+
+<p xml:lang="arn">Fei wəla afí ñi nùtram, witrakənolŋeketui chi rulúama.</p>
+
+<p xml:lang="arn">Feola ká koyaqi.</p>
+
+<p xml:lang="arn">Rupan ñi koyaqn eŋu trapeltəkukənoŋei chi piuke ofisha bandera niechi rəŋi meu kallfù fùumeu.</p>
+
+<p xml:lang="arn">Kiñen trùr ŋillatukeiŋn feichikoncholuwalu yeŋn chi ŋen·pin.</p>
+
+<p xml:lang="arn" n="30"> Ká antù wəla mal·ùŋekeirəŋalkəlechi malwe llaŋka2), ñikimŋeam ñi məleaqel ketran,kam rəf ñi weshá antùaqel che.</p>
+
+<p xml:lang="arn">Femŋechi rəŋaŋekei chi pichimetawe; ñi niekan chi mushaiŋəneituŋekei.</p>
+
+<p xml:lang="arn">Kiñekemel niekei kiñeke fən·ketran, hasta manzana konkəlekei ponwi chi metawe.</p>
+
+<p xml:lang="arn">Niei fill, fei meu maneluukeiche, ñi nieaqel ta ketran, trùyùukeiŋn.</p>
+
+<p xml:lang="arn">Welu məlenon meu fən· ketran,<pb n="42"/> fei ñi məleam wesha antù, feimeu lladkùkeiŋn.</p>
+
+<p xml:lang="arn">Wall rəŋalŋetui peŋen meu kom,wé mushai təkulelŋei.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="13"> Invocación de un pájaro.</head>
+
+<p xml:lang="arn">Rere man dəŋuchen meu fei ŋillatuŋekei:</p>
+
+<p xml:lang="arn">„Ŋənechen ñi elel eimí", piŋei.</p>
+
+<p xml:lang="arn">»„Fəreneaqen, lukutuñmaiaqen.</p>
+
+<p xml:lang="arn">Kùme miawan! ŊillañpeaqenŊənechen meu; Ŋənechen ñi eleleimi, kùme miawan.</p>
+
+<p xml:lang="arn">Moŋeleai ñi kom familia.</p>
+
+<p xml:lang="arn">Fəreneaqen Raŋiñwenu Ñukemeu, Raŋiñwenu Chau meu; feiñi elel eimí.</p>
+
+   <p xml:lang="arn">Fəreneaqen, rere: moŋepe, piaqen, trao."<pb n="43"/></p>
+</div>
+<div>
+<head xml:lang="spa" n="14"> Quejas de un enfermo,</head><note xml:lang="spa">referidas por Jacinto Kolùñ en Wapi.</note>
+
+<p xml:lang="arn">Mətewe kutranŋekan em.</p>
+
+<p xml:lang="arn">¿Chumŋechi moŋean chi?</p>
+
+<p xml:lang="arn">Dios pile, moŋean.</p>
+
+<p xml:lang="arn">Mətewe kutranŋekan.</p>
+
+<p xml:lang="arn">„L·aian“ pikelan, „moŋean" piken.</p>
+
+<p xml:lang="arn">¿Chumŋechi ñi moŋeal chi?</p>
+
+<p xml:lang="arn">Weche wentru ŋen, chumlan.</p>
+
+<p xml:lang="arn">Ayùle Dios, moŋean.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="15"> Awar kuden, el juego de habas,</head><note xml:lang="spa">referido por Pascual Seg. Painemilla Ñ.</note>
+
+<p xml:lang="arn">Kiñe ŋətantu (=kiñe takun) elŋekei.</p>
+
+<p xml:lang="arn">Meli awar lùqkəlelu ka meliawar kurùlelu, fei paro piŋekei,falikei kiñe kou.</p>
+
+   <p xml:lang="arn">Kom kurùlelu falikei epu kou,ka kom lùqkəlelu ká femŋechifalí.<pb n="44"/></p>
+</div>
+         <div>
+   <head xml:lang="spa" n="16"> Explicación de los términos katrù y koncho.</head>
+   <note xml:lang="spa">por Pascual Segundo Painemilla Ñamkucheu</note>
+
+<p xml:lang="arn">Inche eluaqen fachantù təfachilibro; rupale kiñe tripantu, elutuaiyu ká femŋechi kùme libro:fei meu katrù piwaiyu, kam katrùwen yewaiyu.</p>
+
+<p xml:lang="arn">Turpu felerpukeimi katrù piun,epuñple eluutule feichi epu che.</p>
+
+<p xml:lang="arn">Eimi elueli kiñe oficha, fei meuiloafiñ feikachi.</p>
+
+<p xml:lang="arn">Fei meu elutuaqeyu kiñe lipaŋilo, kadiñmaiau*) ka loŋkoñmaiau*).</p>
+
+<p xml:lang="arn">Fei meu afùmŋekei eimi tamielutufiel.</p>
+
+<p xml:lang="arn">Deu afùlu, wəñoleltuen feichiafùn lipaŋ ilo, eimi ká nùimiafùn kadi ilo.</p>
+
+<p xml:lang="arn">Fei meu iafiyu feichi ilo.</p>
+
+<p xml:lang="arn">Feichi loŋko eimi nùaimi.</p>
+
+<p xml:lang="arn">Fei tayu konchopiwal.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="17"> Las estaciones del año,</head><note xml:lang="spa">referidas por Pascual Painemilla Ñamkucheu.</note>
+
+<p xml:lang="arn" n="1"> Təfachi wé tripantu tuukei(=ñidoluukei) San Juan meu;rupan San Juan meu konkeiñká tripantu meu.</p>
+
+<p xml:lang="arn">Wé tripantu puwí Diciembrekùyen· meu, welu Agosto kùyen·meu məŋel kimŋekei ñi wefpan<pb n="45"/> wé tripantu; afkei Diciembre kuyen· meu.</p>
+
+<p xml:lang="arn" n="2"> Enero kùyen· meu konkeikoŋiŋen tripantu (=waləŋ), afpukei Abril kuyen· meu.</p>
+
+<p xml:lang="arn">Karù waləŋ tuukei Diciembrekuyen· meu, Pascua meu.</p>
+
+<p xml:lang="arn">Kom aŋkùle ketran, fei meuməlei koŋiŋen tripantu.</p>
+
+<p xml:lang="arn" n="3"> Abril kùyen· meu tuupakeipukem tripantu, afkei Julio kùyen· meu; fei meu konkei antùŋen tripantu.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="18"> La fiesta de las máscaras,</head><note xml:lang="spa">Relación de Cármen Kumillaŋka Naqill de Palŋiñ (Misión de Panguipulli)</note>
+
+<p xml:lang="arn" n="1"> Kuifi mai koloŋkei che, kawiñkei, kul·truŋkei, kom pun·pùtuiŋn, trakal meu entumeichi pùlku metawe meu.</p>
+
+<p xml:lang="arn" n="2"> Pu weke wentru malkadakənuiŋn tapəl foiqe, kodkəllakai·</p>
+
+<p xml:lang="arn">Niei ñi l·uma kawellu, ñi weichapéyəm.</p>
+
+   <p xml:lang="arn">„Kewape yeŋn. Aukan mumai mapu".<pb n="46"/></p>
+
+<p xml:lang="arn" n="3"> Məlen mu mai kawiñtun,pu ùl·men anùntəkulei ñi rukameu.</p>
+
+<p xml:lang="arn">Witratripapaŋei ùl·men, fei:</p>
+
+<p xml:lang="arn">„Weupikaiayu ka, chau",piwí chi epu fùchake che. Wekunta ruka: „Anùtuai mai mapu.</p>
+
+<p xml:lang="arn">Rupamom mai aukan, peruaiyu mai, moŋen mu yiñ piuke,iaiñ kai; l·aliñ, yom iñ pùtunoal, inoal, in pərunoal. Féola iaiñ, pəruaiñ féola".</p>
+
+<p xml:lang="arn" n="4"> Petu pəruiŋn, allkùŋelaidəŋu, kəmumkəmumŋei chi kul·truŋ.</p>
+
+<p xml:lang="arn">Upan pəruiŋn, meli rupaiŋn ñiulkantulen; felei chi ùlkantun:</p>
+
+<p xml:lang="arn">„Tripatuŋe, kùrar!Waqi ta ruka.Kiñe koŋkamueiÑi troŋam ta ruka,Ñi yom waqnoam".</p>
+
+<p xml:lang="arn" n="5"> Féola konpaiŋn ponwi ruka meu ñi pùtual eŋn.„Llaqeimi, chau, pəshamŋei,chau; fachantù mai pùtuaiyu,kom antù, kom pun·Kiñe llaqeimi, papay! Kiñellaqeimi, fillka! Kiñe llaqeimi,trupa! Llaqeimi, məna! Llaqeimi, fotrai!<pb n="47"/>6. Fei nútramkei pu fùchakeche; féola feichi dəŋu məlewelai,duamŋewelai ñi aukantual eŋn,</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

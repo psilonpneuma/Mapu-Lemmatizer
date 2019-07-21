@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>IV Trozos Menores en Picunche y Huilliche (Picunche: LA FIESTA DE LA TRILLA)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Picunche</ab>
+            <ab>INFORMANT: Juan Amasa</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Collipulli, near the Malleco River (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>Canto de Trilla</head>
+         <p xml:lang="arn">Ámoléyo, ámoléyu, cháchan. <lb/> ¿Chém anta pəño-pevími, cháchan? <lb/> ¿Kaweʎa anchi pəño-pevimi, chachan? <lb/> Famkakefun tañi pəñoyəm tañi kaweʎá, ñi chacha yem.<lb/> T’ekaleŋe, chachan, amoleŋe; <lb/> Təvei, təvei, chachan. <lb/> Təvei, təvei, amuleŋe, chachan. <lb/> Tikeqelmu məta waka təv’e <lb/> Repəlekeqelmu, chachan. <lb/> Amuleŋe.</p>
+
+         <p xml:lang="arn">Amuleyu, chachan; amuleyu, chachan. Təv’e, təv’e pəñokilmi, doʎem lakarkilmi D’oʎem-meu, təvechi d’oʎem-meu . </p>
+
+         <p xml:lang="arn">"ʎawetuav’in təveichi pətapra”</p>
+
+         <p xml:lang="arn">“nəkafíŋe kut’i-meu, ʎawetoafími”</p>
+
+         <p xml:lang="arn">¿Chumlei?, ¿nielai kiñentəkual, kavo? </p>
+
+         <p xml:lang="arn">¿Nielayam pulku kiñentəkual? <lb/> V’enten as’t’üi tañi mapu, venten kədautúi. Pulku piŋepen. </p>
+
+         <p xml:lang="arn">Məlei ka. ¿Chumlei, at’ei tañi təkun? </p>
+
+         <p xml:lang="arn">Pəchin faltai ta təv’e; deuma at’ekai ta təve.</p>
+
+         <p xml:lang="arn">Təv’a mai, kavú; ʎaufiŋe tami mapu.</p>
+
+         <p xml:lang="arn">Deui mai tami kədau, tañi kav’u kənofiyem; at’e tami təkun.</p>
+
+         <p xml:lang="arn">Kəme mai tañi v’ərenefiel; kəmì mai tañi kədau-mu vrenefiel. Deui mai ñi kədau; məlì mai pülku; putual mai tami mapu ʎa qav’imi mai. </p>
+
+         <p xml:lang="arn">Avle mai, afalé “afí” piaqen. Feimu venten mai pulku pipiekanu tañi pu kona (tañi mapu) təv’ai eŋn. Av’le mai “afí” piaqen. </p>
+
+         <p xml:lang="arn">Femi mai, putuai eŋn; is’t’oviʎ eloayu mai, eloayu is’t’oviʎ mai, tami putua tami mapuʎa mai. </p>
+
+         <p xml:lang="arn">Vei ürkemai; kəme mai ñi e!oviel int’u yewenaqelmai afelnoatoam ñi pu kona. Afui mai təvachi kədau, feimeu pulku vi pieno təvai eŋn. Kəmì ñi vreneviel mai. </p>
+
+         <p xml:lang="arn">Putoaiñ mai, <lb/> Moŋelmu ñi taiñ piuke <lb/> Putuʎai mai <lb/> Akui taiñ antüi ʎemai, <lb/> Taiñ votoam ka, <lb/> Taiñ vottoam ʎemai,<lb/> Taiñ putu ʎamai .<lb/> N̰olin, anai, pulku-meu. </p>
+
+      </body>
+   </text>
+</TEI>

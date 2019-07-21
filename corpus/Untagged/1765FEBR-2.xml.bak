@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arte de la lengua general del reyno de Chile: EExemplo de un coyaghtun (Example
+               of a coyaqtun or 'formal speech')</title>
+            <author>Andres Febres</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1765 (1st Edition)</date>
+               <name>Lima, Peru (Calle de la Encarnación)</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>DIALECT: Imperial/Angol (Central/Northern Mapudungun)</ab>
+            <ab>Grammar/Missionary Texts</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013039/id BN: 62696)</p>
+            <p>DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8486.html</p>
+            <p>TEXT OCR AND CORRETIONS: Transcribed (single key) by AEL Data 01.2014. RN1
+               (http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=A709&amp;ampviewtype=text) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING AND OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <pb n="146"/>
+
+         <head xml:lang="spa">EXEMPLO DE UN COYAGHTUN Entre el Cacique Ancatemu, y el Padre
+            Millaleuvu en su Recibimiento.</head>
+
+         <p xml:lang="arn" n="Ancatemu"> Marimarl Señor Paye Millaleuvù, * quiñe tuayu nemùl ta tva,
+            Sèñor Pave.</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Veyllechi, Ancatemù.*</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Marimari Señor Paye Millaleuvù ga, * acuy deuma gañi hue
+            Patiru ga, pigeymi ta tva * Marimari ca Señor Paye ga * Ea pramn cahuellu, Chao égn, *
+            pramn cahuellu, vochùm égn * ga pivin gañi pichi gañi pu Ghùlmén, * gañi pichi gañi pu
+            cona ta tvá, * Señor Paye Millaleuvú ga; * Marimariclomomean gañi bue Patiru ta tvá, *
+            quiñe cùme glam elu- <pb n="147"/> clomoan, ga pivin ta tvá, * Señor Payé ga, * veymo ga
+            pichi ga thecapaqueiñ ta tva, * Marimari ca Millaleuvu.</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Veyllevé, * vemgelay cam ta dugu ta tva, Ancatemú, ta? *
+            Marimari Ancatemú, * cùmelcaquemi ta tva máy, * vemgelay cam admapu ta tva, Ancatemú. *
+            Acullelu quiñe Patiru quiñe mapu méu ta, * quiñe Huinca gellevule rume ta tvá, *
+            Marimari Señor Paye, Marimari Señor Huinca, pigequéy ta, * mi cùmelen ta quimpaquen ta
+            tvá, * piqueyeu cùme piuque gechi che, cùme themgechi pu Ghùlmén, * Marimari Ancatemú. *
+            Deuma purahue mo gey tañi con- <pb n="148"/> pan vachi mapu méu, * Marimari Ancatemú: *
+            deuma cay pichi duamlequevun ta tvá: * Chem mo chey pepalanu tañipu Ghúlmén? * cùpa cam
+            mancùulpalanu ta tva? pipellevuy tañi duam ém! * Marimari Ancatemú; * hueluquemay ta
+            pichin ta vemavuy cam tañi pu Ghùlmén? * quimadmapulay cam vé? * tva ga pin, Ancatemú: *
+            gepey may ñi duam egn tañi cathituetéu ta, * pepelay cahuellu ta pu cona may, * muchay
+            cam ta peay cahuellu quiñe cuñivál? * Muchay muchay cam thaulgequey ta pu Ghùlmèn? * pi
+            gañipichi gañi cùme piuque ta tvá, * vill inarumequevilu dugu, Marimari ca Ancatemu.</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Mupiqueymi <pb n="149"/> mi tva, Marimari Señor Paye
+            Millaleuvú ga; * mu cuñivalgey gañi pu cona ta tvá, * pecahuelluvalquelay quiñe muchay
+            mèu, * Señor Payé ga: * ina cay ca quiñe dugu mley, gañi pichi cathitueteu ta tvá, *
+            Marimari ca Millaleuvú: * quidu cam tá pemeavin gañi pichi gañi Patiru ta tvá? * re cam
+            ta rovulmeavin vé? ga pìn. * veymo vey ta pichin ta eluvichi dugu gañi pu Ghulmén, *
+            thaulvichi gañi mapu, tva ga pìn.</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Vey may, vey may, mupilaymi cam ta tvá? *</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Veymo vey ta pieymi ta tvá, * Marimari Señor Payé ga: *
+            thaulvichi gañi rovulcloateu gañi <pb n="150"/> hue aculu Patiru máy ta, * gañi
+            camaricucloateu cay ta tvá, * gañi pichi gañi mancùulcloateu, pin ga tva máy; * veymo ta
+            pichin ta pichinman ém, gami lucutupayaviel ta tvá, * Marimari ca Señor Paye
+            Millaleuvu.</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Vemgellelu ta dugu ta tvá, * Marimari Ancatemú, *
+            cùmelcaquelaymi cam, Ancatemú ta: * inche may ta pichin tá * aldù mañumeymi, tañi
+            taulelviel mo venten pu Ghùlmén, * mañumvin cay gañi pepaeteu mo venten pu cona, ñi
+            vochùm may ta tvá, * Marimari Ancatemú, * vochùm yeulaiñ cam, Ancatemú ta, * thavtu cay
+            Chaoyemolan cam yé? * vemgelu may ta <pb n="151"/> cùme nieuaiñ ta tva, Marimari ca
+            Ancatemu.</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Marimari Señor Paye Millaleuvú, * quiñe dugu ga piavin gañi
+            hue Patiru ga, piquen ta tva, Señor Paye</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Vey cacha, Ancatemú. *</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Marimari Señor Payé ga, * quiñe cùme glam ga eluavin gañi
+            Patiru ga, piquen ta tvá; * allcùtulepe tami epu pilun máy, * Marimari Millaleuvú ga: *
+            deuma cam ta conplaymi gaiñ mapu méu ta? * deuma cam ta mapupalayaymi ta tvá? * deuma
+            cam ta quintuniemopalaiñ vé? * Marimari Señor Payé ga; * vochùmyemoaiñ ga tva may, *
+            inchiñ cay thovtu Chao vemgelu thoquiuoiñ ta <pb n="152"/> tva, Señor Payé; * epuñple
+            may ta cùme thoquiuliñ, cùmeáy; * epuñple may ta cùmelcaun cùmey ta, piquey ta dugu ta
+            tvá, * Marimari ca Señor Payé; * racùmlequilepe tami cùu, Payé, * Marimari Señor Paye
+            ga; * vureniecuñivalavimi may ta; * avqueduamthipaquilepe, pepalmu ta quiñe cuñival *
+            pepalmu ta quiñe cuje máy, * pepalmu ta quiñe Ghùlmén, * Marimari ca Señor Payé; *
+            vurenievilmi quiñe cuñival, mañumthipayay ta tvá, * ina cay vill inchiñ thepeaiñ, Señor
+            Payé ga, * aldù cùmelcaquey gaiñ Patiru ga, piaiñ ta tvá: * vemgelu may ta ghùytugeaymi
+            mapu méu, * Marimari Se- <pb n="153"/> ñor Paye ga, * vemgelu may ta pichin ta
+            ghùthenieavimi meli uùthan mapu ta tvá, * Marimari ca Señor Paye Millaleuvn. Vemgey ta
+            dugu ta tva, Marimari Chao egn.</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Chem mo cam ta cùmelcalayavuiñ pu cuñivál? * Marimari
+            Ancatemú ta: * Chemchi dugu mo cam ta conpan mapu méu? * ñi cùmelcanoaviel cam ta mapu
+            Ché ga? * ñi vurenienoaviel cam ta pu cuñivál? * veymo may ta coñpan mapu méu, *
+            Marimari Ancatemú, * Veymo may ta cùpan carcu lavquén, * vachi mapu may ta lleghnoln
+            inche ta tva, Ancatemú ta; * veymo may ta rupan venten cùdáu, * veymo may <pb n="154"/>
+            thanacùnovin ñi Chao em! * thanacùnovin ñi Ñuque yém! * ñi pu Lamgen em! ñi venten pu
+            Peñi ém! * ñi venten mollvuñ, ñi cùme Cara, ñi cùme Ruca thanacùnovin máy * Marimari
+            Ancatemú, * incamevichi mapu, cùmelcamevichi pu cuñival, re tañi pin méu: * veymo ta
+            pichin ta vurenieavin pu cuñival? piquen ta tvá, * Marimari Ancatemú, * Huelu quiñe dugu
+            cay inarumeaymi ta tva, Ancatemú, * ( vemgey ta dugu ta tva, peñiegn ) Ancatemú, * deuma
+            quimnieymi ñi chumlepan inche vachi mapu méu; * inche may ta re pichi Patirulepan vachi
+               <pb n="155"/> Convento méu, * Marimari Ancatemú; * inchè loncolepalan, Apo
+            Patirulepalan ta tvá; * veymo ta rùcù Patiru pimolayán, * Marimari Ancatemú, * inche may
+            ta gùnevuli vachi ruca, vachi pichi que cullìn ga, * peavuymn ñi cùme piuquegen, ñi
+            chumgen gañi cùu ta tva, Ancatemú. * Ancatemú, * ca quiñe dugu tùculelavin gañi piuque
+            meu gañi pu Ghùlmen ga, piquen ta tvá; * Eymn tamn themgen allcù Missapayaymn, Ancatemú,
+            * roquiñyepayaymn cùme que glam, Dios ñi dugu máy; * tamn pu piñeñ huelu rezapayay, *
+            rùcùñmamoquili ta tvá; * Marimari ca Ancatemú, * <pb n="156"/> re hueque cam vemge ay
+            gamn pu piñeñ? * quimDiosnoalu cam themaygn vè ? * inche quimùleluaiñ, pipelleyu ta tva,
+            Marimari ca Ancatemu. *</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Vemay veychi dugu ga, pien, Señor Payé, * re tami
+            cortesiavin contupapeyu, Señor Payé: * venten tuquellayu ta tva, Marimari ca Señor Paye
+            Millaleuvu.</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Veyllechi, Ancatemú. *</p>
+
+         <p xml:lang="arn" n="Ancatemu"> Marimari Señor Paye. *</p>
+
+         <p xml:lang="arn" n="Millaleuvu"> Marimari Ancatemú. *</p>
+
+      </body>
+   </text>
+</TEI>

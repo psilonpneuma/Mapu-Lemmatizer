@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanow: diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>X cantos araucanos en dialecto moluche y pehuenche chileno (Pehuenche)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p xml:lang="spa" n="5"> LA QUEJA DE LA MUJER</p>
+         <p xml:lang="arn" n="5"> ÜLKATUN KIÑE DOMO</p>
+         <p xml:lang="arn">Fü´tta ŋélu tvéichi dómo<lb/>
+yémerkéyu kiñe wént’u<lb/>
+füttá ka mápu:<lb/>
+púwlŋerkéi Wüñfáli-méu.</p>
+<p xml:lang="arn" n="5"> Púwlú ülkáturkéi<lb/>
+Véimeu véi pirkéi ñi ülkatún:<lb/>
+“Kəppan fəchá ka mápu,<lb/>
+káʎfü-káʎfüi mápu ,<lb/>
+rupan ré ŋümán-meu</p>
+<p xml:lang="arn" n="10. ré küʎéñu-meu">
+kəppan (pirkei tvichi domo)<lb/>
+fəchá ka mápu:<lb/>
+élkunún kəméke wénüi ¡yém!”</p>
+   <p xml:lang="spa" n="6-9"> CANTOS DE AMOR</p>
+   <p xml:lang="arn" n="6"> ÜLKATUN KIÑE WENT’U</p>
+   <p xml:lang="arn">Puwərkei ka mapu.<lb/>
+      “Kəppan, pirkei,<lb/>
+fücha ka mapu.<lb/>
+Kəppan, pirkei,</p>
+<p xml:lang="arn" n="5. lamŋen, pirkei">
+Kureyeuayu,<lb/>
+lamŋen, pirkei.<lb/>
+Wit’alepai<lb/>
+laut’a  katiao kaweʎu;</p>
+<p xml:lang="arn" n="10"> amualiu, amuayu ,<lb/>
+   lamŋen,” pirkei tveichi kauchu .</p>
+   <p xml:lang="arn" n="7"> ÜLKATUN</p>
+   <p xml:lang="arn">Veimeu məlerkei kiñe t’awün;<lb/>
+akurkei kiñe kauchu.<lb/>
+Veimeu “N̰oʎin”, pirkei;<lb/>
+ŋoʎilu ülkaturkei:</p>
+<p xml:lang="arn" n="5"> “Akun, lamŋen, pirkei,<lb/>
+tuwən wiŋkul Rüŋanko, (pirkei).<lb/>
+Eimi mi piuke-meu kəppan (pirkei);<lb/>
+pilun aruviñi kaweʎu;<lb/>
+akun (pirkei) ,</p>
+<p xml:lang="arn" n="10. eimi mi piuke-mu, (pirkei)">
+Wit’alepai püchi tapayu kuri :<lb/>
+cheu rume amualiu, amuayu, pirkei.</p>
+   <p xml:lang="arn" n="8"> ÜLKATUN ŊOʎUMA</p>
+   <p xml:lang="arn">— “N̰oʎin, lamŋen ;<lb/>
+kureyeuavuliu,<lb/>
+kureyeuavuyu, lamŋen.<lb/>
+Fentepun ayueyu, anai;</p>
+<p xml:lang="arn" n="5"> ¡Kureyeuayu, anai!<lb/>
+—“Inche-mu chumŋeaimi kai.<lb/>
+Ka antə ulá, anai,<lb/>
+ŋüneaviu, anai.”<lb/>
+—“¡Feiʎikachi kureyeuayu,</p>
+   <p xml:lang="arn" n="10"> anai! ¡lamŋên!”</p>
+   <p xml:lang="arn" n="9"> ÜLKATUN</p>
+   <p xml:lang="arn">Veimeu nierkei kiñe üñam,<lb/>
+tvichi went’u ülkaturkei ŋoʎilu:<lb/>
+“Inche ŋoʎin, pirkei;<lb/>
+uüdayayu mai, papai (pirkei);</p>
+<p xml:lang="arn" n="5"> eimi kəme püñün;<lb/>
+inche kai kəme went’u”, (pirkei).<lb/>
+—“Went’uŋeli mai inche,<lb/>
+«uüdachi an», piavun.”</p>
+   <p xml:lang="spa" n="10"> CANTO DE RANCULANTU</p>
+   <p xml:lang="arn" n="10"> ÜLKATUN RANKÜLANTU</p>
+   <p xml:lang="arn">Veimeu kiñe lantu məlerkei;<lb/>
+fətta ŋeturkei;<lb/>
+kiñe weche went’u perkeví,<lb/>
+ŋoʎirkeiŋən.<lb/>
+Veimeu ülkaturkei</p>
+<p xml:lang="arn" n="5"> tveichi lantu domo:<lb/>
+“Muntuyaen, koñi,<lb/>
+doi chumten kuʎin;<lb/>
+məlelai inche ñi piuke-meu .<lb/>
+Məlei epu mür tolto estipu ,</p>
+<p xml:lang="arn" n="10"> məlei meli kuraais (?) kaweʎu,<lb/>
+epu ʎochokon ,<lb/>
+ka epu kavesatu,<lb/>
+ka mari purua kuʎin,<lb/>
+ka mari epu tapayu kaweʎu.</p>
+<p xml:lang="arn" n="15"> Muntayaen, koñi;<lb/>
+¿kəme went’u no antaimi?”<lb/>
+Pirkevi tveichi weche went’u<lb/>
+tveichi lantu.</p>
+   <p xml:lang="spa" n="11"> LA QUEJA DE LA VIUDA </p>
+   <p xml:lang="arn" n="11"> ÜʎKANTUN ʎANTU DOMO</p>
+   <p xml:lang="arn">Veimeu larkei ñi fütta kiñe domo;<lb/>
+fentepun weñamkerkei,<lb/>
+T’ipai, piam, ka mapu,<lb/>
+inaltu karü lavken miaupukei.</p>
+<p xml:lang="arn" n="5"> ŋümai, üʎkatui, piam:<lb/>
+¡Ûi! ¡ûi! auqŋetuyan ŋañi füttáŋenwen , (?) ¡fôt!<lb/>
+¡Ûi! ¡ûi! latui ŋa ñi kuñivaʎ füttá yem, ¡fôt!<lb/>
+T’ekayauən  ŋa inaltu karü lavken.<lb/>
+¿Chem-meu məŋel  ŋañi fente ŋüman chei?</p>
+<p xml:lang="arn" n="10"> Təyechi kôlekai  t’arulelu meu (?)<lb/>
+ŋañi fente ŋümarkeyael em, ¡fôt!<lb/>
+piyauən ŋa inaltu karü lavken.—<lb/>
+¡Ûâŋ! ¡ûâŋ! pikei ŋa tvichi t’ewa.<lb/>
+¿Məleperkei ma ŋa t’ewa? piken mai ŋa.</p>
+<p xml:lang="arn" n="15">T’ekayauən inaltu karü lavken.<lb/>
+Püchi allün-meu t’ipapai epu weche went’u,<lb/>
+miʎa topel kaweʎu ŋei,<lb/>
+miʎa kəlen kaweʎu ŋei.<lb/>
+¡Ûi! ûi ¡Márimari, papai! piaeneu ŋa</p>
+<p xml:lang="arn" n="20"> Tveichi epu weche went’u;<lb/>
+¿Chumael ŋa miauimi tva-meu?<lb/>
+pipaeneu ma ŋa, tveichi epu weche went’u.<lb/>
+¿Nüvelmeu aukan t’ewa? pipaeneu ma ŋa,<lb/>
+tveichi epu weche went’u </p>
+<p xml:lang="arn" n="25"> Veimeu mankaderpaeneu,<lb/>
+   inavuel ñi ruka-meu elkunupatueneu”.</p>
+   <p xml:lang="spa" n="12-14"> CANTOS GUERREROS</p>
+   <p xml:lang="spa" n="12"> CANTO DE NAHUELCHEU</p>
+   <p xml:lang="arn" n="12"> ÜʎKATUN NAWELCHEU</p>
+   <p xml:lang="arn">Peñi kanai, peñi chu kanai,<lb/>
+amuyu Kuramalal mapu;<lb/>
+nentumeyaeyu ükü  puerta;<lb/>
+veimeu, veimeu ñuaŋewealu.</p>
+<p xml:lang="arn" n="5"> Peñi chu kanai,<lb/>
+nentumeliu ükü puerta,<lb/>
+veimeu ñuaŋeayu,<lb/>
+peñi chu kanai.</p>
+   <p xml:lang="spa" n="13"> DESAFÍO</p>
+<p xml:lang="arn" n="13"> NALFE</p>
+   <p xml:lang="arn">Kiñe ŋoʎuma ülkaturkei:<lb/>
+“Kəppan, pirkei, ŋoʎiael.<lb/>
+Tayí ula femŋelu chalirpan<lb/>
+capitan Montoya-meu ,</p>
+<p xml:lang="arn" n="5. ñi ŋoʎiyael">
+Chem kəme went’u rume<lb/>
+piale, piai ;<lb/>
+nalaliu, nalayu.<lb/>
+¡Məlei püchi pikaso fakon! ”</p>
+         <p xml:lang="arn" n="10">pirkei tveichi moʎuma mapuche</p>
+   <p xml:lang="spa" n="14"> EL CANTO DE CALVIAO</p>
+   <p xml:lang="arn" n="14"> ÜLKATUN KUYANO</p>
+   <p xml:lang="arn">Kiñe kuyano  vei piŋei, Kalviao piŋei;<lb/>
+amurkei ñi pallü-meu,<lb/>
+ñi kachü-meu ŋoʎipurkei.<lb/>
+Kisu yerkei pülkü ñi pallü-meu.</p>
+<p xml:lang="arn" n="5"> Veimeu ülkaturkei:<lb/>
+   “Kəpan, pirkei; ŋoʎiaimi, mai ŋiʎañ” ,<lb/>
+pirkevi ñi ŋiʎañ, kachü.<lb/>
+Veimeu vei pirkei;<lb/>
+“Kəpaleleyu pülkü, pirkei;</p>
+<p xml:lang="arn" n="10. ŋoʎiaimi kachü, pallü, pirkevi mai">
+Ülkaturkei, ŋoʎirkei:<lb/>
+“Inche went’u, pirkei.<lb/>
+Wimakavin kapitan, komendante, pirkei,<lb/>
+Kəpan chem pinoalu inche;</p>
+<p xml:lang="arn" n="15. kiñe etipu, kiñe kaweʎu ŋiʎatuan, pilan">
+Kuivi weche went’uŋen ,<lb/>
+kure wimamekevin.<lb/>
+Pu wülmen “chao” pimekeveneu;<lb/>
+“Eimi ka ta ñüwa Kalviao”, pimekeveneu;
+</p>
+<p xml:lang="arn" n="20"> “Məleimi wechen;<lb/>
+məlei pu loŋko, eimi!” pimekeveneu.<lb/>
+Kuivi ñi ñüwaŋen-meu,<lb/>
+fanten-meu inarume-uvisa-we<lb/>
+t’okieneu ñi mapu.</p>
+<p xml:lang="arn" n="25"> Kuivi t’awün-meu kəme ke püñüen,<lb/>
+fanten-meu t’ewa t’okipuweneu ñi mapu.</p>
+   <p xml:lang="spa">15-17 CANTOS ÉPICOS</p>
+   <p xml:lang="spa" n="15"> EL CANTO DEL CACIQUE MARIHUAL </p>
+   <p xml:lang="arn" n="15"> ÜLKATUN LOŊKO MARIWAL</p>
+   <p xml:lang="arn">Veimeu vei pirkei:<lb/>
+“N̰oʎin, pirkei, inche Mariwal.<lb/>
+Weichai piŋei Mariwal;<lb/>
+lai piŋei Mariwal.</p>
+<p xml:lang="arn" n="5"> ¿Cheu laavui Mariwal?<lb/>
+Nieeteu ŋünechen Mariwal.<lb/>
+Kalku tva piŋei Mariwal.<lb/>
+Laŋəm-kalkui Marihual,<lb/>
+laŋəmui ñuke nielu,</p>
+<p xml:lang="arn" n="10. chau nielu, lamŋen nielu">
+T’ewa Marihual, piŋen;<lb/>
+lanualu chei t’ewa, piŋen.<lb/>
+Maloŋei Mariwal;<lb/>
+ayüvui Mariwal.</p>
+<p xml:lang="arn" n="15"> Ka malotui Mariwal kai;<lb/>
+doi pettui ñi kiʎin.<lb/>
+Ka weichai Mariwal;<lb/>
+Lai, piŋei Mariwal.<lb/>
+Ayüvui pu kuse, pu fücha,</p>
+<p xml:lang="arn" n="20"> Cheu layavui Mariwal,<lb/>
+nielu kəme peñi, kəme maʎe,<lb/>
+epu pataka kechu mari kai<lb/>
+məten ñi kuona Mariwal,<lb/>
+kəla pataka ya elmeu, kəla pataka kai.</p>
+   <p xml:lang="spa" n="16"> CANTO DE LIVONSO</p>
+   <p xml:lang="arn" n="16"> ÜLKATUN LIVONSO</p>
+   <p xml:lang="arn">Inaŋeyu Kuramalal mapu<lb/>
+yu peñiwenŋen .<lb/>
+Ina-t’alkatueyu-meu<lb/>
+fəcha ke wiŋka.</p>
+<p xml:lang="arn" n="5"> Küʎiñmaŋei kiñe vala-meu<lb/>
+kaweʎu ñi kuñivaʎ peñi.<lb/>
+Veimeu elel-wentelli-kaweʎu-vin;<lb/>
+nüniei  ñi rüŋi.<lb/>
+Veimeu rət’etukunui</p>
+<p xml:lang="arn" n="10"> ñi rüŋi-meu;<lb/>
+veimeu pəra-kaweʎu-femi<lb/>
+ñi kuñivaʎ ñi peñi.<lb/>
+Veimeu kəpayu, rukukon,<lb/>
+aŋkad-t’ipa-mekeyu chiʎa.</p>
+<p xml:lang="arn" n="15"> Fətta mala karü kaweʎu nieyu;<lb/>
+Veimeu montulvun kuñivaʎ peñiwen;<lb/>
+veimeu akutuyu  mapu-meu;<lb/>
+Ka mlei weichan ʎañma mapu piŋen ,<lb/>
+ayüwiyu, veimeu amuyu.</p>
+<p xml:lang="arn" n="20"> Veichula piuke küʎiñmaŋei<lb/>
+   ñi kuñivaʎ peñi em.</p>
+   <p xml:lang="spa" n="17"> CANTO DE PRANAO </p>
+   <p xml:lang="arn" n="17"> ÜLKATUN PRANAO</p>
+   <p xml:lang="arn">Kaʎvükura yem<lb/>
+kureyeñmarkeyu  (?) ñi piuke Pranau.<lb/>
+Veimeu Pranau weñamkerkei;<lb/>
+ramturkei ñi weku:</p>
+<p xml:lang="arn" n="5"> “¿Cheu məlei ñi weku kai?”<lb/>
+Veimeu ülkaturkei:<lb/>
+“¿Cheu am kaita məlei<lb/>
+tañi kəmeke weku, papai?”<lb/>
+pivi  ñi kuñivaʎ ñuke.</p>
+<p xml:lang="arn" n="10"> “¿Povoŋekaimi am, Pranau?”<lb/>
+pimeketueneu ñi kuñivaʎ nuke.<lb/>
+—Moro mapu meu məlevui<lb/>
+tami kəmeke weku, Pranau;<lb/>
+pimeketueneu kuñivaʎ ñuke yem.</p>
+<p xml:lang="arn" n="15"> Məlen meu aukan<lb/>
+wentelli kawel nien (?)<lb/>
+pimeketueneu kuñivaʎ ñuke yem.</p>
+   <p xml:lang="spa" n="18"> CANTO DE PUELMAPU </p>
+   <p xml:lang="arn" n="18"> ÜʎKATUN PUELMAPU</p>
+<p xml:lang="arn" n="1"> Veimeu miauken naqple mapu ñi pat’on; veimu aʎkütun tvachi üʎkatun:
+</p>   <p xml:lang="arn" n="2"> Kureŋerkei kiñe went’u<lb/>
+məllei kiñe ruka-mu.<lb/>
+Papai, ka papai,</p>
+<p xml:lang="arn" n="5"> ayüli, papai,<lb/>
+ŋüneuavuimi  epu t’ipantu;<lb/>
+inche mai, papai,<lb/>
+amualu Puelmapu,<lb/>
+N̰üneaukafulmi , papai,</p>
+<p xml:lang="arn" n="10"> ayükaveli, ŋüneuavuimi, papai,<lb/>
+kiñe kechu t’ipantu, papai.<lb/>
+N̰üneunualmi, papai,<lb/>
+¿inche chemaveyu kai?<lb/>
+eimi ülcha domo</p>
+         <p xml:lang="arn" n="15">inche weche went’u kai.</p>
+   <p xml:lang="spa" n="19  y 20 "> LOS CANTOS DE SAMUEL QUIPÚE Y EL BARTOLO</p>
+   <p xml:lang="arn" n="19"> ÜLKATUN SAMUEL KÜPPÚE</p>
+   <p xml:lang="arn">Moʎilu ülkatui:<lb/>
+“Eluen tami rukâ, papai,<lb/>
+eluen tami rukâ, papai!<lb/>
+¿Chumten vali mi ruka, papai?</p>
+<p xml:lang="arn" n="5"> Eluaeyu pataka peso,<lb/>
+eluen mi ruka, papai,<lb/>
+qüyümtukuyael,<lb/>
+eñumtuam tañi pu kona!<lb/>
+Eluen kâ, papai,</p>
+<p xml:lang="arn" n="10"> eluen tami ruka;<lb/>
+   tfá pataka peso, papai.</p>
+   <p xml:lang="arn" n="20"> ÜʎKATUN VARTOLO</p>
+   <p xml:lang="arn">Üʎkaturkei Vartolo piŋechi went’u,<lb/>
+aʎkütuñmakevin mai inche; fa pi:<lb/>
+“Re uvisa ta, re uvisa laŋəmerken ñi ʎaʎa;<lb/>
+re sañue laŋəmerken ñi chedküi;</p>
+<p xml:lang="arn" n="5"> re auka, re auka ta laŋəmerken ñi ŋiʎañ,<lb/>
+   re kumt’i nüvalkevin ñi kürün, ilotuyael”.</p>
+   <p xml:lang="spa" n="21"> EL CANTO DE LA CURICHE</p>
+   <p xml:lang="arn" n="21a"> INAKUDUN</p>
+   <p xml:lang="arn" n="1">Veimeu kiñe mapuche amurkei inakudualu; fucha kamañma wüdarkei ñi pu kona</p>
+   <p xml:lang="arn" n="2">Veimeu puwrki; puwlu, werküpurkei ñi chao, yelŋemerki ñi pu-enüi. Akulkei, akulelŋerkei pulku</p>
+   <p xml:lang="arn" n="3">Feimeu puturkei. Punmalkei punmalu, inakudurkei. Puwərkei təveichi fətápəram</p>
+<p xml:lang="arn" n="4">—Kudupachi kai, lamŋen, pirkei<lb/>
+—Pilan, piŋerkei.<lb/>
+—Kureyeuʎaiyu mai, pirkei.<lb/>
+—Pilan, piŋerkei.</p>
+<p xml:lang="arn" n="5">Kudu-konpukarkei.<lb/>
+—¿Cheu məlekeimi? piŋerkei.<lb/>
+—Tieu məlen, pirkei.<lb/>
+—¿Chuchi meu? piŋerkei.<lb/>
+—Tiyeu kiñe kavaʎeru-meu, pirkei. ¡Amutuayu, anai lamŋen! pirkei; fentepun kəmelkalen, pirkei.</p>
+   <p xml:lang="arn" n="6">—Ka mapu məleimi, piŋerkei; inche kimnoel chi che-meu puavun kai, pirkei ti domo. Akukatuaimi, piŋerkei tivichi went’u; akutulmi, feimeu kureyeuwayu.</p>
+<p xml:lang="arn" n="7">Üñamyeuiyu maʎ mai, pirkei tvichi went’u.<lb/>
+—Pilan, pirkei ti domo. Akultulmi ula, feichiula kure-yefemuayu, pirkei tvichi domo.
+</p>
+<p xml:lang="arn" n="8">—¿Welu fütaŋelaimi ka went’u kureyela aimeu? piŋerkei tvichi domo.<lb/>
+—Füttaŋelan, pirkei.<lb/>
+—¿Inche am kai, kəme went’u no? pirkei tvichi went’u. Fentepun ayüeyu, anai lamŋen; rüf kureyeuayu mtén, piŋerkei təvichi domo.<lb/>
+—Fei ürke mai, pirkei tvichi domo.</p>
+<p xml:lang="arn" n="9">Feimeu eppewün ula t’ipapaturkei tvichi went’u.Feimeu pepaturkei ñi pu-enüi.<lb/>
+—¿Cheu-peimi, nai? kiñe pun kintuvuiñ  piŋerkei tvichi went’u.<lb/>
+—Inakudupevun, pirkei; ʎadkütueneu fətta pəra, pirkei.<lb/>
+—¿Chem-meu ʎadkütuemeu? ¿kəme went’u no eimi am? piŋerkei təveichi went’u.</p>
+<p xml:lang="arn" n="21b"> ÜʎKATUN KURICHE</p>
+   <p xml:lang="arn" n="1"> Miauken wentelu, San Kuan-meu, aʎkütumen wentelu ñi pat’on ñi mapu-meu; veimeu aʎkümen tvachi üʎkatun:</p>
+<p xml:lang="arn" n="2"> Duŋuyeŋeliu tvachi mapu-meu,<lb/>
+amukatuayu Pueltu mapu,<lb/>
+ñaña, kânai, ñaña.</p>
+<p xml:lang="arn" n="5">Is’t’okom mapu kəmei məlenmu<lb/>
+Vachi mapu duŋuyeŋeyu.<lb/>
+Eʎa peule amukatuayu Pueltu mapu.<lb/>
+Fücha kuíví kədautuvuyu vachi mapu,<lb/>
+nielayu cheŋekan.</p>
+<p xml:lang="arn" n="10"> Kiñe ina tipayayu<lb/>
+ka mapu-meu;<lb/>
+cheŋealiu cheyeayu,<lb/>
+cheŋenoaliu cheŋenoayu,<lb/>
+ñaña, kânai, ñaña.</p>
+   <p xml:lang="spa" n="22"> CANTO DEL MACHI</p>
+   <p xml:lang="arn" n="22"> ÜLKATUN MACHI</p>
+   <p xml:lang="arn">Wenche leq paʎeŋe mai ,<lb/>
+Wekufe, wenche leq paŋe.<lb/>
+“Inaŋen meli kede ket’al-meu,<lb/>
+inaŋen meli-el kona-meu”,</p>
+<p xml:lang="arn" n="5">piputuaimi tami ruka.<lb/>
+¡Lev-lef-ʎeŋemai!<lb/>
+Inaeneu veichi machi”, piputuaimi.<lb/>
+¿Chumael konpaimi pu kuñivaʎ-meu?<lb/>
+¡Kuonmutuaimi  kəme ke che-meu!</p>
+<p xml:lang="arn" n="10"> T’ipatuʎeŋe mai, wekufe;<lb/>
+Inche eleneu ŋənechen.<lb/>
+Raŋin wenukai pətumekei<lb/>
+kalkiyu  toro.<lb/>
+“Veichi weda machi nentupatueneu”</p>
+   <p xml:lang="arn" n="15">piputuaimi ñuke-meu, chau-meu.</p>
+      </body>
+   </text>
+</TEI>

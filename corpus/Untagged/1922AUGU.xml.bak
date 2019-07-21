@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pismahuile, Un cuento araucano</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1922</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>               
+            </edition>
+                     </editionStmt>
+         <publicationStmt>
+            <publisher>PUBLICACIONES DEL MUSEO DE ETNOLOGIA Y ANTROPOLOGIA DE CHILE</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p> Tomo II </p>
+            </seriesStmt>
+         <sourceDesc>
+             <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Picunche</ab>
+            <ab>INFORMANT: Domingo Segundo Huenuñamco</ab>
+            <ab>TRANSCRIBER: Sigifredo de Frauenhäusl</ab>
+            <ab>LOCATION: Panguipulli (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR: Google Cloud Vision ( unsing DH Dashboard,  developed by Bryan Tarpley at the Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+            </samplingDecl>
+         </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date></date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+       <pb n="386"/>  
+        <p xml:lang="arn"><anchor n="1"/> Atapay fücha engu Konatraru kudekeſuingu pillmatun - kuden meu; fei meu weuniengekai Atapay fücha.</p>
+
+<p xml:lang="arn">Fei meu "Paliaiyu" pi Atapay 
+fücha. “Konatuan Pishmaiwile 
+engu Konküimawile, ka Füchá- 
+ñamku engu Pichi-ñamku, Meñ- 
+cholongko: feyengn kümeke pali- 
+fe”, pi Atapay fücha.</p>
+
+<p xml:lang="arn">Konatraru kongatui Kaimen-tra- 
+ru engu Chiukü. “Feyengn alü- 
+ngeingn”, pi Konatraru.</p>
+
+<p xml:lang="arn">Fei meu élantüingn, komque Do 
+mingo anti ñi paliael.</p>
+
+<p xml:lang="arn">Atapay fücha doy kümeke kon'a 
+kintui: Pishmaiwile engu Konküi- 
+mawile küme palife. Pishmaiwile 
+yepkal ngei, Konküimawile iná. 
+trapun, molpenulu pali.</p>
+
+<p xml:lang="arn">Feiwala Atapay fücha weuköler- 
+pui, alünke plata ka kulliñ nür- 
+pui.</p>
+
+         <p xml:lang="arn"><anchor n="2"/> Fei meu kiñe antü, rupan 
+palíuma, Pishmaiwile "élmadangu- 
+ngei ñilloftungeael, nüngele, ñi ye- 
+ngeael afn-mapu.</p>
+
+<p xml:lang="arn">¡Fei meu pichi pun. mandai ñi 
+ngətantuingeael.</p>
+
+<p xml:lang="arn">“Məté ürkülen ñi palimon, umau </p>
+
+<p xml:lang="arn"><pb n="387"/>
+tuan”, pí Pishmaiwile; witrai, amui wekun willüwillütualu.</p>
+
+<p xml:lang="arn">Konatraru lloftuniefeyeu wəlngiñ meu. Fei nüruleyeu Konatraru, trarüămangei ñi kup, menkueyeu Konatraru, yengei afn-mapu.</p>
+
+         <p xml:lang="arn"><anchor n="3"/> Fentren meu trawafeyeu Meñcholongko; məntungefui, yengerpujai Traru.</p>
+
+<p xml:lang="arn">Yerpunulu afeluwí Meñcholongko. Amolei Konatraro, yeniei ñi
+Pishmaiwile.</p>
+
+<p xml:lang="arn"><anchor n="4"/> Walá ká traweyeu kake Meñcholongko.</p>
+
+<p xml:lang="arn">Feyengn trürəm- nganen- elfingn.
+"¿ Chu mngechi dangu kam pepikalafiiñ iñ məntuafiüm təfachi Traru?”, pingn.</p>
+
+<p xml:lang="arn">Fei meu kiñechi Meñcholongko
+fei pí: “Wallma kanuafiiñ, fei künchol-kawel-elafiiñ. Fei wallke
+adkintule, fei kiñe furi meu amoleai feluke yengu; fei ñi wallke
+adkintun katriñmangoai ñi trarün kup Pishmaiwile. Fei witrákənuingeai feluke, Pishmaiwile kishu katrü-pel-afí chi Traro; femngechi montuai”, pingei Pishmai
+wile.</p>
+
+<p xml:lang="arn"><pb n="388"/>
+
+meu Pislimaiwile ñi trarün kuq
+katrüñmangei. Elungei feluke Pishmaiwile; femngechi katrünmangei
+ñi pel Traru, Fei meu montui
+Pislimaiwile.</p>
+
+<p xml:lang="arn"><anchor n="5"/> Fei meu Pislimaiwile fei pi:
+“Töfachi Traru küpalfeneu ñi langồmmeaeteu aſn-mapu. Féula montun iẼche. Nentuũnuarafin ñi ngé ka
+ni möpü”, pí Pishmaiwile.
+Femngechi mai nentuñmangei ni
+ngé yem ta ni mapü yam Konatraru.</p>
+
+<p xml:lang="arn">Pishmaiwile feichi ngé paliyefí,
+chi mapā wệnói.</p>
+
+<p xml:lang="arn">Walá Pishmaiwile: "Gracias mai,
+pu wen. Eimn mn yeumewn neu,
+ngǝnen meu, montun ñi lápuael afn.
+mapu", pingei pu Meñcholongko.
+Femngechi chaliwingu.</p>
+
+<p xml:lang="arn"><anchor n="6"/> Féula küpatui Pishmaiwile kine füchá trongli kawellu meu, ka
+werại ñi fun chi kawellu, fentren
+komke antü ka fentren tripantu
+kam küpatulu Pishmaiwile.</p>
+
+<p xml:lang="arn">Wəla ngellu akutui ñi mapu
+meu; fei putui ñi ruká meu, welu
+pepulai ñi kure. Fei umaputui ñi
+ruká meu.</p>
+
+<p xml:lang="arn">Uman meu amui Atapay fücha
+meu ñallitualu.</p>
+
+<p xml:lang="arn"><anchor n="7"/> Amulelu röpü meu rumei Siañi ñi inaxuka.</p>
+
+<p xml:lang="arn">Fei kushe Shañi peeyeu ñi rumen. Putulu füchá Shani nütramelngei ñi rumen kiñe füchá wentru ináruka.</p>
+
+<p xml:lang="arn">“Chem meu lam ifche ñi ináruka rupai feichi chi wedá füchá wentru?”, pí Shafi.</p>
+
+<p xml:lang="arn"><anchor n="8"/> Fei meu puí Atapay fücha
+meu. “¡Marimari!, pipui Pishmaiwile.</p>
+
+<p xml:lang="arn"><pb n="389"/>
+Petu íſui kuen poñü. Fei mü- 
+chai chalimefí Pishmaiwile.</p>
+
+<p xml:lang="arn">"Naqkawellunge mai, ñañ”, pi 
+ngei Pishmaiwile.</p>
+
+<p xml:lang="arn">";Feyərke mai!”, pí; naqkawe 
+llí, konpui ruka meu.</p>
+
+<p xml:lang="arn"><anchor n="9"/> Atapay fücha kimlafí ñi wen 
+üi em, fentren füchalu kam Pish- 
+maiwile.</p>
+
+<p xml:lang="arn">Welu ñi kure, kinturulfilu fei 
+chi füchá wentru, kimufi, kimfí 
+ñi fetáiem ngefel.</p>
+
+<p xml:lang="arn">Fei meu elungei iael..</p>
+
+<p xml:lang="arn">Fei meu, petu ilu, Atapay fü 
+cha ramtufi chi füchá wentru cheu
+kam ñi tuwn.</p>
+
+<p xml:lang="arn">“Ká mapu mai küpan”, pí Pish 
+maiwile.</p>
+
+<p xml:lang="arn">Welu chi domo anümelfi mi kin 
+tun chi witran.</p>
+
+<p xml:lang="arn">Fei meu Pishmaiwile fei pí: 
+té lelieneu tami kure, yeweafun”, 
+pifi Atapay fücha.</p>
+
+<p xml:lang="arn">Fei Atapay fücha illkuñpefí ñi ku- . 
+re: "¿Chumam leliniefimi chi wen 
+tru, wedanma? ¿Pekefimi chi wen- 
+tru, ta lelifimi?”, pingei chi domo. </p>
+
+<p xml:lang="arn"><anchor n="10"/> Walá Atapay fücha: "Femi 
+mai, ñañ”, pí, "ñi kiñe peñi 
+mai yeñmangen aſn- mapu. ¿Kin- 
+turulelpeafen kam?", pingei Pish- 
+maiwile.</p>
+
+<p xml:lang="arn">“Kimlan mai”, pí Pishmaiwile. 
+"Məté küme palife yem mai 
+ñi peñi em”, pí Atapay fücha. 
+"¿Eimi kam konkepeafuimi palin 
+meu, ñañ?”, pingei Pishmaiwile. </p>
+
+<p xml:lang="arn">
+<pb n="390"/>
+
+“Mai, pichike konkontukekafun",
+pí Pishmaiwile.</p>
+
+<p xml:lang="arn">"Ya mai fəreneaen, kelluaen palin meu”, pingei Pishmaiwile.</p>
+
+<p xml:lang="arn">"Feyərke”, pí.</p>
+
+<p xml:lang="arn">"Epúe rul-weu-alu iñche, mətewe apomngen kulliñ meu, plata
+meu. Fei taſá rul-li ñi weungen,
+fei mai ñi fenté-kuden, kunifal.
+lu kam iñche”, pí Atapay fücha.</p>
+
+<p xml:lang="arn"><anchor n="11"/> Fei ngəfkeñmalu amutui Pishmaiwile ni ruká meu. Rumetui
+Shañiñi ináruka.</p>
+
+<p xml:lang="arn">Fei meu kushe, Shani peeyeu. Fei
+kimelngei fücha Shañi.</p>
+
+<p xml:lang="arn">Fei meu illkui Shañi, nümei ñi ləkai, fei lakaitufí füchá wentru ni kawellu: mainawi ləkai meu chi küntro
+kawellu impolnaqi.</p>
+
+<p xml:lang="arn">¡Fei meu: “Awüngellaqen n'ai
+femen, ütrofnakommaqen ñi weshá kawellu”, pingei Shañi.
+Shañi fei pi: "¿Chumam rupaimi iñché ñi mapu meu, pºnoặmaqen ñi kachu, mi wedañmangen?,” pingei Pishmaiwile.
+"Məná wedá wentru ngerkeimi
+n'ai, Shañi. Kimpeelmi mi üllkuken, rupapelaian mi mapu meu”,
+pingei Shañi.</p>
+
+<p xml:lang="arn">Nentumainantui ñi kawellu ka
+ütrəfkönofi chi ləkai Pishmaiwile,
+prakawelltui, amutui ñi ruká meu.</p>
+
+<p xml:lang="arn"><anchor n="12"/> Fei meu epu antü meu nentui ñi rəngal plata Pishmaiwile,
+liftui ñi plata, ka chillai ñi doy
+küme kawellu, təkulelfí witrañpramwe kafishatuñmaiau ketrel-piriña, füchake tolto-istipu trawallmaiau, itro lüngari ñi chillan</p>
+
+<p xml:lang="arn">
+<pb n="391"/>
+
+kawellu füchá Pishmaiwile; amui
+palikanomealu.</p>
+
+<p xml:lang="arn"><anchor n="13"/> Ká rumetui Shaũi ñi ináruka
+meu.</p>
+
+<p xml:lang="arn">Fei meu kushe Shañi ká petueyeu.</p>
+
+<p xml:lang="arn">"¿Chiem ülmen chei tié küpai?”,
+pí.</p>
+
+<p xml:lang="arn">Fei meu tripai füchá Shañi. "Cha- 
+liafiñ", pí. "Cheu chi tuupei chi 
+wentru?", pí; witrákənoupui rüpü. 
+meu.</p>
+
+<p xml:lang="arn">"¿Cheu kam tuwimi, ñañ?”, pí 
+Shañi.</p>
+
+<p xml:lang="arn">"Féula chalirkeeneu nga ta. 
+fachi küme wentru; epué meu nga 
+lokaitukawelleneu. Wedañma, kon 
+tunge mi ruká meu”, pingei Shani. </p>
+
+<p xml:lang="arn">Ponolkawelltuyengei Shañi, ra- 
+ngiñtu n'amun-kawellu impolkan- 
+tuiawalngei Slañi em, miñche púe- 
+kawellu ñi miawn. Femngen kon- 
+pui ñi ruka meu, kom ngallolüi 
+ni to, kalül em.</p>
+
+<p xml:lang="arn"><anchor n="14"/> Walá Pishmaiwile amui pa 
+lin meu. Puí paliwe meu.</p>
+
+<p xml:lang="arn">"¿Küpaimi nga ñañ?” pingei. </p>
+
+<p xml:lang="arn">"Küpan mai" pí.</p>
+
+<p xml:lang="arn">"¡Ya mai ! frəneen, kelluen; ki- 
+ñe kon·a meu áfkonkəlen”, pí Ata- 
+pay fücha.</p>
+
+<p xml:lang="arn">Fei meu naqkawellí Pishmaiwi. 
+le entuchillai ñi kawellu, tranán. 
+tokui ñi kafishatu ketrel-piriña engu,  
+ka ñi kake weshakelu chadi, tra- 
+wall, tolto-istipu ka ñi plata-wi 
+tranta kuwe el. lai chem no rume, </p>
+
+<p xml:lang="arn">Fei meu yeqkal ngetui.</p>
+
+<p xml:lang="arn">Pichi-Namko "füchá trafkiñ tro- 
+
+<pb n="392"/>
+
+killafiñ” pifui. Fei meu “Kalli fe- 
+lepe”, pí Füchá Ñamko.</p>
+
+<p xml:lang="arn"><anchor n="15"/> Atapay fücha məlei ñi utrul 
+–plata meu.</p>
+
+<p xml:lang="arn">Fei meu kom antü palingn. Pe. 
+pueyeu pali, wepəmnentuniei Pish- 
+maiwile.</p>
+
+<p xml:lang="arn">“Longkótupe ta wedanma ká, 
+pu wen”, pí Chiukü. "Iñche long- 
+kotupuafiñ”, pí chi nüwa Chiukü; 
+kontupují Pishmaiwile, welu ká trə- 
+pulkaeyeu Pishmaiwile.</p>
+
+<p xml:lang="arn">Fei meu Chiukü nüupui longko 
+meu, pºltriwi ñi longkatun. Pish 
+maiwile duamkölelai, fei ka trə- 
+pukai pali.</p>
+
+<p xml:lang="arn">Ká nüutui longko meu Chiukü. 
+Pishmaiwile nüeyeu ka ütrəfpuwə- 
+leyeu Atapay fücha ñi rangiñtu 
+chang meu. Fei meu: “¡Ananai kál, 
+Chiukü, epe treifunmafen ñi wesha- 
+kelu”, pí Atapay fücha.</p>
+
+<p xml:lang="arn">Fei wəla, kiñewelu meu, ka we 
+pəmi Pishmaiwile: ülmewi.</p>
+
+<p xml:lang="arn">Fei pí: “Kuifi nga yefeneu Kona- 
+traru afn-mapu ñi langömmeaeteu; 
+welu mongen. Pali yenmafiñ ñi 
+nge, waño yenmafiñ ñi mapü nga 
+Konatraru. Mongei Pishmaiwile, jah, 
+pu wen!", pí.</p>
+
+<p xml:lang="arn"><anchor n="16"/> Fei wewí ñi palin, fei meu 
+nganelkəleumangei Atapay fücha. </p>
+
+<p xml:lang="arn">Walá rüngkükənowi, 'lef amui leu. 
+fü meu, felen ütrəftuupui leufü 
+meu. Femngechi lai Atapay fücha. a</p>
+
+<p xml:lang="arn">Pishmaiwile ngen' ngei kom we- 
+shakelu meu ka rangiñ wôdami 
+wewel plata Konküimawile, Fü- 
+chañamko, Pichiñamko engn, ká 
+kureyetui ñi kure. Hasta fachan- 
+tü felei.</p>
+
+      </body>
+   </text>
+</TEI>

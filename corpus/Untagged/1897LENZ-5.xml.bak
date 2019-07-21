@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>IV Trozos Menores en Picunche y Huilliche (Huilliche)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Huilliche</ab>
+            <ab>INFORMANT: Domingo Quintrupai</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Osorno (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <note>EPISODIO HISTÓRICO DE LA GUERRA DE LA INDEPENDENCIA</note>
+
+         <p xml:lang="arn" n="1"> Inche mai ni láku moŋefúi kúifi ántə. Juan José Kintuprai piŋefu-inche ñi laku; pichü məten kimpafín.</p>
+
+         <p xml:lang="arn" n="2"> Feiti mai rupai weichan-mo. Kombídanŋei chi pu kasike; züŋueu chi pu kawaʎero niel’u ta weichan aukanzüŋu: </p>
+
+         <p xml:lang="arn" n="3"> “Kəpape mai ñi pu señor kasike; l’eukeano ni pu señor kasike. </p>
+
+
+         <p xml:lang="arn" n="4"> —Petu ŋai ayüŋeñi l’aŋmŋeia, moŋko ñi pu kona eŋn. L’eukeyano ni pu señor kasike, niei ta ñi kəme ke kona, kumpañaianno mai ñi weichan-mo”. </p>
+
+
+         <p xml:lang="arn" n="5"> —Məlei ta pu kona ka; kumpañafin mai tañi señor koronel. N̰əl’eman ñi pu kona; məlei tañi kapitanejo, məlei tañi sárjentu, məlei tañi pu fiskal, kəme ke went’u. </p>
+
+         <p xml:lang="arn" n="6"> Zeuma mai l’eumefin tañi señor koronel; fei t’okilantə kənol’ano ñi señor koronel; t’okilántəmo moŋko nian ni pu kona. Pel’i züŋu t’uftulen, ñi señor koronel.</p>
+
+         <p xml:lang="arn" n="7"> —T’uyun mai mi kumpañayateu, ñi señór kasike. —Zeuma mai fil’ moŋko t’uftunməlei ni pu kona. </p>
+
+         <p xml:lang="arn" n="8"> Chi pu kasike yei ni pu kona chi weichan-mo; kewálu yei ñi kapitanejo, yei ñi pu sárjento, yei ni pu fískal, chi pu kásike, meli kasike. </p>
+
+         <p xml:lang="arn" n="9"> Feimo yei mai rul’pazüŋualu, amoi mai ñi laku Juan José Kintuprai; kimí mai winkanət’am; yei ni rulpazüŋualu chi pu kasike; amoi mai Juan José Kintuprai, feimai s’ul’pazüŋupailu. </p>
+
+
+         <p xml:lang="arn" n="10"> Maipue piŋei chi mapu; məlei mai kiñe l’eufu; feichi nome l’eufu ml’eu mai chi weichan. Feimu mai laŋəmuiŋn, kewaiŋn, aldü mai lai pu winka. </p>
+
+         <p xml:lang="arn" n="11"> Feimu afi chi weichan; femŋechi alküpan fachi nət’ám, feimu mai nü´t’amkan inche eimi chi went’u-mo. Alküŋi, peuwü´l’u pu went’u nü´t’amkakai. </p>
+
+         <p xml:lang="arn" n="12"> —Fiskal, wes’küyaimi; amoaimi señor koronel-mo; fei piafimi: “Zeuma mai nákəmi ñi kewán, ñi señor koronel. Ásta famo mten kumpañafin ñi señor koronel. Ni pu kona niewelai ñi moŋam”, fei pifiŋe ñi señor kóronel. </p>
+
+         <p xml:lang="arn" n="13"> Niefuli ñi moŋam ni pu kona kumpañañiekayaufin ñi señor koronel, amolafun. Apüme ñi z’ókin, niewelai ni moŋam ni pu kona. Wes’küéno mai ñi señor kásike: “asta famo mten kumpañafin” pi mai ni señor kasike, señor koronel. </p>
+
+
+         <p xml:lang="arn" n="14"> —Muchas gracias mai ñi señor kasike; amotupe ni señor kasike; fei piafimi mai: “¡Chiʎaka-weʎuŋn pe pu kona!”</p>
+
+
+         <p xml:lang="arn" n="15"> —¡Kápitanejo, sárjento, pú viskal, chiʎakaweʎu pe! Amotuyen mapu-mo; petuyen rüpü, yen amotuam. Küme pel’üyen mai, wewi ñi kewan ñi señor koronel. Elutueyen rüpü ñi señor koro- nel. </p>
+
+         <p xml:lang="arn" n="16"> ¡Hîa! ¡amóyen pu kona! ¡Sîha! t’üftui chi pu kona. Pra kaweʎuiŋn; feimu mai ¡viva! rüpüiŋn, ¡vivai ñi señor koronel! </p>
+
+         <p xml:lang="arn" n="17"> Wenu kaweʎu məleiŋn, moŋko chi pu kasike wenu kaweʎu; prakaweʎuleiŋn; feimu mai ¡vívai! təfi eŋn moŋko chi che. </p>
+
+         <p xml:lang="arn" n="18"> Lalai mai moŋko tvichi pu kona; kiñe ke mten t’ipai alfün. Inche ñi laku eputue wesoi machetaso sable; ñi foru loŋko wampu naqi, prapalai chi vos’u yom. Femŋen l’ai. </p>
+
+
+         <p xml:lang="arn" n="19"> Moŋko akutui ñi mapu-mo. T’uyukechi moŋko mai chi pu fücha, pu t'emche. N̰emai mai chi pu t’emche, pu füt'a akutulmo. </p>
+
+
+         <p xml:lang="arn" n="20"> N̰ələmúiŋn, pətúiŋn, laŋmi kuʎ’in, kəmé ke waka il’óiŋn, laŋmiŋn. T’uyunkechi, t’uyúiŋn, siempre ŋemaiŋn.</p>
+
+         <note>LA ERUPCIÓN DEL VOLCÁN CALBUCO</note>
+
+         <p xml:lang="arn" n="1"> Kiñe kəme züŋun, maziao kəme, züŋuukiyu chi kaweʎeru eyu. Feimo nüt’amkaeno: </p>
+
+         <p xml:lang="arn" n="2"> Petu üyi chi pis’e l’il’; fit’ui maziao, kensabe chuŋaiel moŋen. Maziao afkətulŋi; femŋemalai z’ume fenten t’ipantu moŋien; al’külafien, al’küúnmalafien. </p>
+
+         <p xml:lang="arn" n="3"> Feimo mai al’kufien; kəpaichi akuichi züŋu ñi femŋen, petu úyen chi pis’e chi kordiʎera, kəme al’kufiyen. </p>
+
+         <p xml:lang="arn" n="4"> Akúi chi fitun Osorno; chi tapü mamel’ l’iqz’úi, chi tue moŋko l’iqs’úi. </p>
+
+
+         <p xml:lang="arn" n="5"> Feimo maziao afkütúi chi pu moŋen. Kensabe weza zuŋu məlai, ŋepai. Ul’kupei mai chao dioz. Kishu mai chao dioz t’okiai. </p>
+
+         <p xml:lang="arn" n="6"> Feimo fi pifuyen: “Kachu mai peueláyen, l’aqai mai yen kuʎin moŋko; kensabe fünlayen ket’an, yen təkun. Chumŋéchi moŋəfuien, ŋepáyi fünnofule in ket’an”. </p>
+
+
+         <p xml:lang="arn" n="7"> Moŋkoi maziaoi qüyí chi l’il’; ¿chen kensabe qüikepi mino? Məlepai mai kensabe kuyul’kuz'a. </p>
+
+         <p xml:lang="arn" n="8"> Petui kai təfichi l’il’; cheu qüyí chi l’il’ məlewelai, l’ófi. </p>
+
+         <p xml:lang="arn" n="9"> Fei pi chi pu aleman fei ñi nüt’amo: “Wel’u zuaml’aimn; inchen mapu-mo qüiki l’il’. Feimo kimiefiyen”. </p>
+
+
+         <p xml:lang="arn" n="10"> Feimo t’epeukəlayen, pieyenmo chi aleman. Feimo kiñe no zuamiyen. </p>
+
+
+         <note>LA LLEGADA DEL FORASTERO</note>
+         <p xml:lang="arn">Akui chi wüt’an kiñe s’uka-mo; wankai chi t’ewa; t’ipapai chi ŋen s’uka; pichi all’ü pu məlei chi ŋen s’uka: </p>
+         <p xml:lang="arn"> —T’ekanaŋe, al’kütuŋe, puturupaŋe; famo chaku mlei; anüpaŋe. </p>
+
+         <p xml:lang="arn" n="Dueño:"> Marimari, winkâu; ¿kəme moŋeimí? </p>
+
+         <p xml:lang="arn" n="Forastero:"> Mai; kəme moŋenkâ. ¿Eimi kəme moŋeimi? </p>
+
+         <p xml:lang="arn" n="D."> —Kəme moŋenkâ. ¿Kulai akuimi, akun məl’el’kelafúimi? </p>
+
+         <p xml:lang="arn" n="F."> —Pichi kulai məten akun, l’oftunieimi, t’ekanaqlepan tami ruka-mo. ¿Chenzuŋu nielaimi təfâ, ŋen rukâ?</p>
+
+
+         <p xml:lang="arn" n="D."> —Nielan chenzuŋu; kəme mai məlen. </p>
+
+         <p xml:lang="arn" n="F."> —Fei üs’kemai, tami kəme ml’es’ken; tüyün mai tami kü´me ml’es’kel’mo. ¿Kəme məlei mi kumpan, tami malqen, mi pu vochü´m, nawe kai? </p>
+
+         <p xml:lang="arn" n="D."> —Məlekéi, fil’ kəmeli təva. </p>
+
+         <p xml:lang="arn" n="F."> —Kəmes’ki mai. </p>
+
+         <p xml:lang="arn" n="D."> —¿Kintukəpaimi? </p>
+
+         <p xml:lang="arn" n="F."> —Pichi ke zuamŋen; kintukəpan; welu mi peniefiel, entuan ñi zuam. </p>
+
+         <note>CANTO DEL BORRACHO</note>
+
+         <p xml:lang="arn">Moʎipülkün; winka pülkün kəmei. </p>
+
+         <p xml:lang="arn">Yu wenüi winkâ. <lb/> Fei mai freneno kiñe chas’u, <lb/> feimo mai moʎi pülkü. </p>
+
+         <p xml:lang="arn">Kəmei mai ni wenüi winkâ, fei mai freneno. <lb/> Feimo ŋoʎi-pülkün, <lb/> kiñe chas’u, kiñe fül’. <lb/> Amoyu mai, chachan, <lb/> ŋoʎi pülkün mai, chachan, <lb/> winka pülkü-mo. <lb/> Kəmei mai wenüi winka. </p>
+
+      </body>
+   </text>
+</TEI>
