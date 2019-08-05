@@ -116,6 +116,6 @@ ACCURACY=`python3 ./data/accuracy.py ${modeldir}/data/test-targets < ${modeldir}
 
 echo "Done"
 
-echo "ACCURACY ON TEST SET: " $ACCURACY
+#echo "ACCURACY ON TEST SET: " $ACCURACY
 
 
