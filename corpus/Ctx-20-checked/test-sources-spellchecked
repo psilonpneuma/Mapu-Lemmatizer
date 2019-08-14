@@ -1,0 +1,550 @@
+<w> a u <s> p i <s> p i s h m a i w i l e <s> w i t r a <s> <lc> a m u <rc> <s> w e c u n  <s>w i l l ü </w>
+<w> i <s> p i s h m a i w i l e <s> w i t r a <s> a m u <s> <lc> w e c u n <rc> <s> w i l l ü </w>
+<w> m a i w i l e <s> w i t r a <s> a m u <s> w e c u n <s> <lc> w i l l ü <rc>  </w>
+<w>  <lc> a f ü <rc> <s> c h e m  <s>n o  <s>r u m e  <s>f a l t a  <s>c o m  <s>c ü </w>
+<w> a f ü <s> <lc> c h e m <rc> <s> n o  <s>r u m e  <s>f a l t a  <s>c o m  <s>c ü m e  <s>c ü </w>
+<w> c h e m <s> a f ü <s> <lc> n o <rc> <s> r u m e  <s>f a l t a  <s>c o m  <s>c ü m e  <s>c ü p a </w>
+<w> n o <s> c h e m <s> a f ü <s> <lc> r u m e <rc> <s> f a l t a  <s>c o m  <s>c ü m e  <s>c ü p a  <s>c a r ü </w>
+<w> r u m e <s> n o <s> c h e m <s> a f ü <s> <lc> f a l t a <rc> <s> c o m  <s>c ü m e  <s>c ü p a  <s>c a r ü  <s>w a </w>
+<w> f a l t a <s> r u m e <s> n o <s> c h e m <s> a f ü <s> <lc> c o m <rc> <s> c ü m e  <s>c ü p a  <s>c a r ü  <s>w a </w>
+<w> f ü <s> c h e m <s> n o <s> r u m e <s> f a l t a <s> c o m <s> <lc> c ü m e <rc> <s> c ü p a  <s>c a r ü  <s>w a </w>
+<w> e m <s> n o <s> r u m e <s> f a l t a <s> c o m <s> c ü m e <s> <lc> c ü p a <rc> <s> c a r ü  <s>w a </w>
+<w> r u m e <s> f a l t a <s> c o m <s> c ü m e <s> c ü p a <s> <lc> c a r ü <rc> <s> w a </w>
+<w> f a l t a <s> c o m <s> c ü m e <s> c ü p a <s> c a r ü <s> <lc> w a <rc>  </w>
+<w>  <lc> c i ñ e <rc> <s> c a w e ll u  <s>c e ll u a d  <s>c i ñ e  <s>t ' a n </w>
+<w> c i ñ e <s> <lc> c a w e ll u <rc> <s> c e ll u a d  <s>c i ñ e  <s>t ' a n a  <s>m a m ü ll </w>
+<w> c a w e ll u <s> c i ñ e <s> <lc> c e ll u a d <rc> <s> c i ñ e  <s>t ' a n a  <s>m a m ü ll  <s>m e u  <s>f e i </w>
+<w> c e ll u a d <s> c a w e ll u <s> c i ñ e <s> <lc> c i ñ e <rc> <s> t ' a n a  <s>m a m ü ll  <s>m e u  <s>f e i m e u  <s>w </w>
+<w> c i ñ e <s> c e ll u a d <s> c a w e ll u <s> c i ñ e <s> <lc> t ' a n a <rc> <s> m a m ü ll  <s>m e u  <s>f e i m e u  <s>w a t ' o  <s>t </w>
+<w> a w e ll u <s> c e ll u a d <s> c i ñ e <s> t ' a n a <s> <lc> m a m ü ll <rc> <s> m e u  <s>f e i m e u  <s>w a t ' o  <s>t ' a f o  <s>c </w>
+<w> c e ll u a d <s> c i ñ e <s> t ' a n a <s> m a m ü ll <s> <lc> m e u <rc> <s> f e i m e u  <s>w a t ' o  <s>t ' a f o  <s>c i ñ e </w>
+<w> u a d <s> c i ñ e <s> t ' a n a <s> m a m ü ll <s> m e u <s> <lc> f e i m e u <rc> <s> w a t ' o  <s>t ' a f o  <s>c i ñ e  <s>c h a ng  <s>l i </w>
+<w> e <s> t ' a n a <s> m a m ü ll <s> m e u <s> f e i m e u <s> <lc> w a t ' o <rc> <s> t ' a f o  <s>c i ñ e  <s>c h a ng  <s>l i p a ng  <s>f e </w>
+<w> a <s> m a m ü ll <s> m e u <s> f e i m e u <s> w a t ' o <s> <lc> t ' a f o <rc> <s> c i ñ e  <s>c h a ng  <s>l i p a ng  <s>f e i m e u  <s>t </w>
+<w> ll <s> m e u <s> f e i m e u <s> w a t ' o <s> t ' a f o <s> <lc> c i ñ e <rc> <s> c h a ng  <s>l i p a ng  <s>f e i m e u  <s>t ' a l c </w>
+<w> f e i m e u <s> w a t ' o <s> t ' a f o <s> c i ñ e <s> <lc> c h a ng <rc> <s> l i p a ng  <s>f e i m e u  <s>t ' a l c a  <s>e n t </w>
+<w> e u <s> w a t ' o <s> t ' a f o <s> c i ñ e <s> c h a ng <s> <lc> l i p a ng <rc> <s> f e i m e u  <s>t ' a l c a  <s>e n t u  <s>c a i </w>
+<w> ' o <s> t ' a f o <s> c i ñ e <s> c h a ng <s> l i p a ng <s> <lc> f e i m e u <rc> <s> t ' a l c a  <s>e n t u  <s>c a i </w>
+<w> o <s> c i ñ e <s> c h a ng <s> l i p a ng <s> f e i m e u <s> <lc> t ' a l c a <rc> <s> e n t u  <s>c a i </w>
+<w> h a ng <s> l i p a ng <s> f e i m e u <s> t ' a l c a <s> <lc> e n t u <rc> <s> c a i </w>
+<w> i p a ng <s> f e i m e u <s> t ' a l c a <s> e n t u <s> <lc> c a i <rc>  </w>
+<w>  <lc> c a <rc> <s> m a p u  <s>m a i  <s>c ü p a  <s>p i  <s>p i s h m a i </w>
+<w> c a <s> <lc> m a p u <rc> <s> m a i  <s>c ü p a  <s>p i  <s>p i s h m a i w i l e </w>
+<w> m a p u <s> c a <s> <lc> m a i <rc> <s> c ü p a  <s>p i  <s>p i s h m a i w i l e </w>
+<w> m a i <s> m a p u <s> c a <s> <lc> c ü p a <rc> <s> p i  <s>p i s h m a i w i l e </w>
+<w> c ü p a <s> m a i <s> m a p u <s> c a <s> <lc> p i <rc> <s> p i s h m a i w i l e </w>
+<w> p i <s> c ü p a <s> m a i <s> m a p u <s> c a <s> <lc> p i s h m a i w i l e <rc>  </w>
+<w>  <lc> a ll c ü <rc> <s> p i c h i  <s>c h e  <s>i n e i  <s>p i </w>
+<w> a ll c ü <s> <lc> p i c h i <rc> <s> c h e  <s>i n e i  <s>p i </w>
+<w> p i c h i <s> a ll c ü <s> <lc> c h e <rc> <s> i n e i  <s>p i </w>
+<w> c h e <s> p i c h i <s> a ll c ü <s> <lc> i n e i <rc> <s> p i </w>
+<w> i n e i <s> c h e <s> p i c h i <s> a ll c ü <s> <lc> p i <rc>  </w>
+<w>  <lc> t f a c h i <rc> <s> d o m o  <s>n i e  <s>c e c h u  <s>p i ñ e n  <s>e p u </w>
+<w> t f a c h i <s> <lc> d o m o <rc> <s> n i e  <s>c e c h u  <s>p i ñ e n  <s>e p u  <s>w e n t </w>
+<w> d o m o <s> t f a c h i <s> <lc> n i e <rc> <s> c e c h u  <s>p i ñ e n  <s>e p u  <s>w e n t r u  <s>c </w>
+<w> n i e <s> d o m o <s> t f a c h i <s> <lc> c e c h u <rc> <s> p i ñ e n  <s>e p u  <s>w e n t r u  <s>c ü l a  <s>d o </w>
+<w> c e c h u <s> n i e <s> d o m o <s> t f a c h i <s> <lc> p i ñ e n <rc> <s> e p u  <s>w e n t r u  <s>c ü l a  <s>d o m o </w>
+<w> c h i <s> d o m o <s> n i e <s> c e c h u <s> p i ñ e n <s> <lc> e p u <rc> <s> w e n t r u  <s>c ü l a  <s>d o m o </w>
+<w> d o m o <s> n i e <s> c e c h u <s> p i ñ e n <s> e p u <s> <lc> w e n t r u <rc> <s> c ü l a  <s>d o m o </w>
+<w> e <s> c e c h u <s> p i ñ e n <s> e p u <s> w e n t r u <s> <lc> c ü l a <rc> <s> d o m o </w>
+<w> h u <s> p i ñ e n <s> e p u <s> w e n t r u <s> c ü l a <s> <lc> d o m o <rc>  </w>
+<w>  <lc> i n a f ü l <rc> <s> e l  <s>m e s a </w>
+<w> i n a f ü l <s> <lc> e l <rc> <s> m e s a </w>
+<w> e l <s> i n a f ü l <s> <lc> m e s a <rc>  </w>
+<w>  <lc> a f ü m <rc> <s> c e c h u  <s>w e  <s>c u r a m  <s>f e i  <s>p i  <s>t a m </w>
+<w> a f ü m <s> <lc> c e c h u <rc> <s> w e  <s>c u r a m  <s>f e i  <s>p i  <s>t a m i  <s>ñ a w e </w>
+<w> c e c h u <s> a f ü m <s> <lc> w e <rc> <s> c u r a m  <s>f e i  <s>p i  <s>t a m i  <s>ñ a w e  <s>c ü </w>
+<w> w e <s> c e c h u <s> a f ü m <s> <lc> c u r a m <rc> <s> f e i  <s>p i  <s>t a m i  <s>ñ a w e  <s>c ü p a  <s>c o  <s>m </w>
+<w> c u r a m <s> w e <s> c e c h u <s> a f ü m <s> <lc> f e i <rc> <s> p i  <s>t a m i  <s>ñ a w e  <s>c ü p a  <s>c o  <s>m e t t </w>
+<w> f e i <s> c u r a m <s> w e <s> c e c h u <s> a f ü m <s> <lc> p i <rc> <s> t a m i  <s>ñ a w e  <s>c ü p a  <s>c o  <s>m e t t a w </w>
+<w> f ü m <s> c e c h u <s> w e <s> c u r a m <s> f e i <s> p i <s> <lc> t a m i <rc> <s> ñ a w e  <s>c ü p a  <s>c o  <s>m e t t a w e  <s>m e u </w>
+<w> e c h u <s> w e <s> c u r a m <s> f e i <s> p i <s> t a m i <s> <lc> ñ a w e <rc> <s> c ü p a  <s>c o  <s>m e t t a w e  <s>m e u </w>
+<w> w e <s> c u r a m <s> f e i <s> p i <s> t a m i <s> ñ a w e <s> <lc> c ü p a <rc> <s> c o  <s>m e t t a w e  <s>m e u </w>
+<w> r a m <s> f e i <s> p i <s> t a m i <s> ñ a w e <s> c ü p a <s> <lc> c o <rc> <s> m e t t a w e  <s>m e u </w>
+<w> m <s> f e i <s> p i <s> t a m i <s> ñ a w e <s> c ü p a <s> c o <s> <lc> m e t t a w e <rc> <s> m e u </w>
+<w> a m i <s> ñ a w e <s> c ü p a <s> c o <s> m e t t a w e <s> <lc> m e u <rc>  </w>
+<w>  <lc> n ü <rc> <s> c i ñ e  <s>u c e f  <s>c o f c e  <s>w e l u  <s>t f e </w>
+<w> n ü <s> <lc> c i ñ e <rc> <s> u c e f  <s>c o f c e  <s>w e l u  <s>t f e i c h i </w>
+<w> c i ñ e <s> n ü <s> <lc> u c e f <rc> <s> c o f c e  <s>w e l u  <s>t f e i c h i  <s>c u i f </w>
+<w> u c e f <s> c i ñ e <s> n ü <s> <lc> c o f c e <rc> <s> w e l u  <s>t f e i c h i  <s>c u i f i  <s>c o f c </w>
+<w> c o f c e <s> u c e f <s> c i ñ e <s> n ü <s> <lc> w e l u <rc> <s> t f e i c h i  <s>c u i f i  <s>c o f c e  <s>n o  <s>y </w>
+<w> w e l u <s> c o f c e <s> u c e f <s> c i ñ e <s> n ü <s> <lc> t f e i c h i <rc> <s> c u i f i  <s>c o f c e  <s>n o  <s>y a f ü  <s>t a  <s>t f </w>
+<w> u c e f <s> c o f c e <s> w e l u <s> t f e i c h i <s> <lc> c u i f i <rc> <s> c o f c e  <s>n o  <s>y a f ü  <s>t a  <s>t f e i </w>
+<w> o f c e <s> w e l u <s> t f e i c h i <s> c u i f i <s> <lc> c o f c e <rc> <s> n o  <s>y a f ü  <s>t a  <s>t f e i </w>
+<w> e l u <s> t f e i c h i <s> c u i f i <s> c o f c e <s> <lc> n o <rc> <s> y a f ü  <s>t a  <s>t f e i </w>
+<w> u <s> t f e i c h i <s> c u i f i <s> c o f c e <s> n o <s> <lc> y a f ü <rc> <s> t a  <s>t f e i </w>
+<w> i c h i <s> c u i f i <s> c o f c e <s> n o <s> y a f ü <s> <lc> t a <rc> <s> t f e i </w>
+<w> h i <s> c u i f i <s> c o f c e <s> n o <s> y a f ü <s> t a <s> <lc> t f e i <rc>  </w>
+<w>  <lc> ll i t u <rc> <s> u l a  <s>p i r e  <s>d e q i n  <s>m e u  <s>f e i  <s>u l </w>
+<w> ll i t u <s> <lc> u l a <rc> <s> p i r e  <s>d e q i n  <s>m e u  <s>f e i  <s>u l a  <s>n a </w>
+<w> u l a <s> ll i t u <s> <lc> p i r e <rc> <s> d e q i n  <s>m e u  <s>f e i  <s>u l a  <s>n a q  <s>t ' a </w>
+<w> p i r e <s> u l a <s> ll i t u <s> <lc> d e q i n <rc> <s> m e u  <s>f e i  <s>u l a  <s>n a q  <s>t ' a p i a l </w>
+<w> d e q i n <s> p i r e <s> u l a <s> ll i t u <s> <lc> m e u <rc> <s> f e i  <s>u l a  <s>n a q  <s>t ' a p i a l </w>
+<w> m e u <s> d e q i n <s> p i r e <s> u l a <s> ll i t u <s> <lc> f e i <rc> <s> u l a  <s>n a q  <s>t ' a p i a l </w>
+<w> t u <s> u l a <s> p i r e <s> d e q i n <s> m e u <s> f e i <s> <lc> u l a <rc> <s> n a q  <s>t ' a p i a l </w>
+<w> l a <s> p i r e <s> d e q i n <s> m e u <s> f e i <s> u l a <s> <lc> n a q <rc> <s> t ' a p i a l </w>
+<w> i r e <s> d e q i n <s> m e u <s> f e i <s> u l a <s> n a q <s> <lc> t ' a p i a l <rc>  </w>
+<w>  <lc> a m u <rc> <s> p i c h i  <s>ng i ll a  <s>w a  <s>a ll c ü  <s>c o m a d </w>
+<w> a m u <s> <lc> p i c h i <rc> <s> ng i ll a  <s>w a  <s>a ll c ü  <s>c o m a d r e  <s>n i e </w>
+<w> p i c h i <s> a m u <s> <lc> ng i ll a <rc> <s> w a  <s>a ll c ü  <s>c o m a d r e  <s>n i e  <s>c i ñ e </w>
+<w> ng i ll a <s> p i c h i <s> a m u <s> <lc> w a <rc> <s> a ll c ü  <s>c o m a d r e  <s>n i e  <s>c i ñ e  <s>c e </w>
+<w> w a <s> ng i ll a <s> p i c h i <s> a m u <s> <lc> a ll c ü <rc> <s> c o m a d r e  <s>n i e  <s>c i ñ e  <s>c e  <s>c u r a </w>
+<w> a ll c ü <s> w a <s> ng i ll a <s> p i c h i <s> a m u <s> <lc> c o m a d r e <rc> <s> n i e  <s>c i ñ e  <s>c e  <s>c u r a m </w>
+<w> c h i <s> ng i ll a <s> w a <s> a ll c ü <s> c o m a d r e <s> <lc> n i e <rc> <s> c i ñ e  <s>c e  <s>c u r a m </w>
+<w> ng i ll a <s> w a <s> a ll c ü <s> c o m a d r e <s> n i e <s> <lc> c i ñ e <rc> <s> c e  <s>c u r a m </w>
+<w> w a <s> a ll c ü <s> c o m a d r e <s> n i e <s> c i ñ e <s> <lc> c e <rc> <s> c u r a m </w>
+<w> a ll c ü <s> c o m a d r e <s> n i e <s> c i ñ e <s> c e <s> <lc> c u r a m <rc>  </w>
+<w>  <lc> m a ng c a d a <rc> <s> m i  <s>c a w e ll u  <s>m e u  <s>f e i m e u  <s>c ü m </w>
+<w> m a ng c a d a <s> <lc> m i <rc> <s> c a w e ll u  <s>m e u  <s>f e i m e u  <s>c ü m e  <s>a </w>
+<w> m i <s> m a ng c a d a <s> <lc> c a w e ll u <rc> <s> m e u  <s>f e i m e u  <s>c ü m e  <s>a m o  <s>i n c h </w>
+<w> c a w e ll u <s> m i <s> m a ng c a d a <s> <lc> m e u <rc> <s> f e i m e u  <s>c ü m e  <s>a m o  <s>i n c h e  <s>ñ i </w>
+<w> m e u <s> c a w e ll u <s> m i <s> m a ng c a d a <s> <lc> f e i m e u <rc> <s> c ü m e  <s>a m o  <s>i n c h e  <s>ñ i  <s>c a w e ll u </w>
+<w> a d a <s> m i <s> c a w e ll u <s> m e u <s> f e i m e u <s> <lc> c ü m e <rc> <s> a m o  <s>i n c h e  <s>ñ i  <s>c a w e ll u  <s>y e  <s>t a </w>
+<w> i <s> c a w e ll u <s> m e u <s> f e i m e u <s> c ü m e <s> <lc> a m o <rc> <s> i n c h e  <s>ñ i  <s>c a w e ll u  <s>y e  <s>t a ñ i  <s>c </w>
+<w> w e ll u <s> m e u <s> f e i m e u <s> c ü m e <s> a m o <s> <lc> i n c h e <rc> <s> ñ i  <s>c a w e ll u  <s>y e  <s>t a ñ i  <s>c h a o  <s>n o </w>
+<w> e u <s> f e i m e u <s> c ü m e <s> a m o <s> i n c h e <s> <lc> ñ i <rc> <s> c a w e ll u  <s>y e  <s>t a ñ i  <s>c h a o  <s>n o m e </w>
+<w> f e i m e u <s> c ü m e <s> a m o <s> i n c h e <s> ñ i <s> <lc> c a w e ll u <rc> <s> y e  <s>t a ñ i  <s>c h a o  <s>n o m e  <s>l e u f u  <s>m </w>
+<w> c ü m e <s> a m o <s> i n c h e <s> ñ i <s> c a w e ll u <s> <lc> y e <rc> <s> t a ñ i  <s>c h a o  <s>n o m e  <s>l e u f u  <s>m l e </w>
+<w> m e <s> a m o <s> i n c h e <s> ñ i <s> c a w e ll u <s> y e <s> <lc> t a ñ i <rc> <s> c h a o  <s>n o m e  <s>l e u f u  <s>m l e  <s>ng ü y o </w>
+<w> o <s> i n c h e <s> ñ i <s> c a w e ll u <s> y e <s> t a ñ i <s> <lc> c h a o <rc> <s> n o m e  <s>l e u f u  <s>m l e  <s>ng ü y o n  <s>p o t </w>
+<w> h e <s> ñ i <s> c a w e ll u <s> y e <s> t a ñ i <s> c h a o <s> <lc> n o m e <rc> <s> l e u f u  <s>m l e  <s>ng ü y o n  <s>p o t ' e z o </w>
+<w> c a w e ll u <s> y e <s> t a ñ i <s> c h a o <s> n o m e <s> <lc> l e u f u <rc> <s> m l e  <s>ng ü y o n  <s>p o t ' e z o  <s>c a c h ü </w>
+<w> u <s> y e <s> t a ñ i <s> c h a o <s> n o m e <s> l e u f u <s> <lc> m l e <rc> <s> ng ü y o n  <s>p o t ' e z o  <s>c a c h ü  <s>m e u </w>
+<w> t a ñ i <s> c h a o <s> n o m e <s> l e u f u <s> m l e <s> <lc> ng ü y o n <rc> <s> p o t ' e z o  <s>c a c h ü  <s>m e u </w>
+<w> h a o <s> n o m e <s> l e u f u <s> m l e <s> ng ü y o n <s> <lc> p o t ' e z o <rc> <s> c a c h ü  <s>m e u </w>
+<w> l e u f u <s> m l e <s> ng ü y o n <s> p o t ' e z o <s> <lc> c a c h ü <rc> <s> m e u </w>
+<w> m l e <s> ng ü y o n <s> p o t ' e z o <s> c a c h ü <s> <lc> m e u <rc>  </w>
+<w>  <lc> p i c h i <rc> <s> m o ng e  <s>t f a c h i  <s>a n t ü  <s>m a i  <s>p i c </w>
+<w> p i c h i <s> <lc> m o ng e <rc> <s> t f a c h i  <s>a n t ü  <s>m a i  <s>p i c h i  <s>f e </w>
+<w> m o ng e <s> p i c h i <s> <lc> t f a c h i <rc> <s> a n t ü  <s>m a i  <s>p i c h i  <s>f e i  <s>a n a i  <s>w </w>
+<w> t f a c h i <s> m o ng e <s> p i c h i <s> <lc> a n t ü <rc> <s> m a i  <s>p i c h i  <s>f e i  <s>a n a i  <s>w e l u  <s>p </w>
+<w> a n t ü <s> t f a c h i <s> m o ng e <s> p i c h i <s> <lc> m a i <rc> <s> p i c h i  <s>f e i  <s>a n a i  <s>w e l u  <s>p e t u </w>
+<w> c h i <s> m o ng e <s> t f a c h i <s> a n t ü <s> m a i <s> <lc> p i c h i <rc> <s> f e i  <s>a n a i  <s>w e l u  <s>p e t u  <s>c ü m e  <s>t </w>
+<w> ng e <s> t f a c h i <s> a n t ü <s> m a i <s> p i c h i <s> <lc> f e i <rc> <s> a n a i  <s>w e l u  <s>p e t u  <s>c ü m e  <s>t ' e m </w>
+<w> f a c h i <s> a n t ü <s> m a i <s> p i c h i <s> f e i <s> <lc> a n a i <rc> <s> w e l u  <s>p e t u  <s>c ü m e  <s>t ' e m u </w>
+<w> i <s> a n t ü <s> m a i <s> p i c h i <s> f e i <s> a n a i <s> <lc> w e l u <rc> <s> p e t u  <s>c ü m e  <s>t ' e m u </w>
+<w> ü <s> m a i <s> p i c h i <s> f e i <s> a n a i <s> w e l u <s> <lc> p e t u <rc> <s> c ü m e  <s>t ' e m u </w>
+<w> p i c h i <s> f e i <s> a n a i <s> w e l u <s> p e t u <s> <lc> c ü m e <rc> <s> t ' e m u </w>
+<w> i <s> f e i <s> a n a i <s> w e l u <s> p e t u <s> c ü m e <s> <lc> t ' e m u <rc>  </w>
+<w>  <lc> t ' e w a <rc> <s> f e n t ' e n  <s>w a n c ü  <s>c a  <s>r u c a  <s>ü l </w>
+<w> t ' e w a <s> <lc> f e n t ' e n <rc> <s> w a n c ü  <s>c a  <s>r u c a  <s>ü l c a t u  <s>w a c </w>
+<w> f e n t ' e n <s> t ' e w a <s> <lc> w a n c ü <rc> <s> c a  <s>r u c a  <s>ü l c a t u  <s>w a c e ng c ü </w>
+<w> w a n c ü <s> f e n t ' e n <s> t ' e w a <s> <lc> c a <rc> <s> r u c a  <s>ü l c a t u  <s>w a c e ng c ü </w>
+<w> c a <s> w a n c ü <s> f e n t ' e n <s> t ' e w a <s> <lc> r u c a <rc> <s> ü l c a t u  <s>w a c e ng c ü </w>
+<w> w a <s> f e n t ' e n <s> w a n c ü <s> c a <s> r u c a <s> <lc> ü l c a t u <rc> <s> w a c e ng c ü </w>
+<w> ' e n <s> w a n c ü <s> c a <s> r u c a <s> ü l c a t u <s> <lc> w a c e ng c ü <rc>  </w>
+<w>  <lc> a m u <rc> <s> r ü p ü  <s>m e u  <s>r u  <s>s h a ñ i  <s>ñ i  <s>i n a </w>
+<w> a m u <s> <lc> r ü p ü <rc> <s> m e u  <s>r u  <s>s h a ñ i  <s>ñ i  <s>i n a </w>
+<w> r ü p ü <s> a m u <s> <lc> m e u <rc> <s> r u  <s>s h a ñ i  <s>ñ i  <s>i n a </w>
+<w> m e u <s> r ü p ü <s> a m u <s> <lc> r u <rc> <s> s h a ñ i  <s>ñ i  <s>i n a </w>
+<w> r u <s> m e u <s> r ü p ü <s> a m u <s> <lc> s h a ñ i <rc> <s> ñ i  <s>i n a </w>
+<w> s h a ñ i <s> r u <s> m e u <s> r ü p ü <s> a m u <s> <lc> ñ i <rc> <s> i n a </w>
+<w> ñ i <s> s h a ñ i <s> r u <s> m e u <s> r ü p ü <s> a m u <s> <lc> i n a <rc>  </w>
+<w>  <lc> f e i <rc> <s> m e u  <s>p e t u  <s>i  <s>a t a p a y  <s>f ü c h a  <s>r </w>
+<w> f e i <s> <lc> m e u <rc> <s> p e t u  <s>i  <s>a t a p a y  <s>f ü c h a  <s>r a m t </w>
+<w> m e u <s> f e i <s> <lc> p e t u <rc> <s> i  <s>a t a p a y  <s>f ü c h a  <s>r a m t u  <s>c h i </w>
+<w> p e t u <s> m e u <s> f e i <s> <lc> i <rc> <s> a t a p a y  <s>f ü c h a  <s>r a m t u  <s>c h i  <s>f </w>
+<w> i <s> p e t u <s> m e u <s> f e i <s> <lc> a t a p a y <rc> <s> f ü c h a  <s>r a m t u  <s>c h i  <s>f ü c h a  <s>w e </w>
+<w> a t a p a y <s> i <s> p e t u <s> m e u <s> f e i <s> <lc> f ü c h a <rc> <s> r a m t u  <s>c h i  <s>f ü c h a  <s>w e n t r u  <s>c </w>
+<w> i <s> m e u <s> p e t u <s> i <s> a t a p a y <s> f ü c h a <s> <lc> r a m t u <rc> <s> c h i  <s>f ü c h a  <s>w e n t r u  <s>c h e u  <s>c a </w>
+<w> e t u <s> i <s> a t a p a y <s> f ü c h a <s> r a m t u <s> <lc> c h i <rc> <s> f ü c h a  <s>w e n t r u  <s>c h e u  <s>c a m  <s>ñ i </w>
+<w> i <s> a t a p a y <s> f ü c h a <s> r a m t u <s> c h i <s> <lc> f ü c h a <rc> <s> w e n t r u  <s>c h e u  <s>c a m  <s>ñ i  <s>t u w </w>
+<w> a y <s> f ü c h a <s> r a m t u <s> c h i <s> f ü c h a <s> <lc> w e n t r u <rc> <s> c h e u  <s>c a m  <s>ñ i  <s>t u w </w>
+<w> a <s> r a m t u <s> c h i <s> f ü c h a <s> w e n t r u <s> <lc> c h e u <rc> <s> c a m  <s>ñ i  <s>t u w </w>
+<w> t u <s> c h i <s> f ü c h a <s> w e n t r u <s> c h e u <s> <lc> c a m <rc> <s> ñ i  <s>t u w </w>
+<w> h i <s> f ü c h a <s> w e n t r u <s> c h e u <s> c a m <s> <lc> ñ i <rc> <s> t u w </w>
+<w> f ü c h a <s> w e n t r u <s> c h e u <s> c a m <s> ñ i <s> <lc> t u w <rc>  </w>
+<w>  <lc> f é u l a <rc> <s> c h a l i  <s>n g a  <s>t ü f a c h i  <s>c ü m e  <s>w </w>
+<w> f é u l a <s> <lc> c h a l i <rc> <s> n g a  <s>t ü f a c h i  <s>c ü m e  <s>w e n t r u </w>
+<w> c h a l i <s> f é u l a <s> <lc> n g a <rc> <s> t ü f a c h i  <s>c ü m e  <s>w e n t r u  <s>e p u </w>
+<w> n g a <s> c h a l i <s> f é u l a <s> <lc> t ü f a c h i <rc> <s> c ü m e  <s>w e n t r u  <s>e p u  <s>m e u  <s>n g a  <s>l </w>
+<w> t ü f a c h i <s> n g a <s> c h a l i <s> f é u l a <s> <lc> c ü m e <rc> <s> w e n t r u  <s>e p u  <s>m e u  <s>n g a  <s>l ü c a i </w>
+<w> a <s> c h a l i <s> n g a <s> t ü f a c h i <s> c ü m e <s> <lc> w e n t r u <rc> <s> e p u  <s>m e u  <s>n g a  <s>l ü c a i  <s>w e d a  <s>c o </w>
+<w> n g a <s> t ü f a c h i <s> c ü m e <s> w e n t r u <s> <lc> e p u <rc> <s> m e u  <s>n g a  <s>l ü c a i  <s>w e d a  <s>c o n  <s>m i </w>
+<w> t ü f a c h i <s> c ü m e <s> w e n t r u <s> e p u <s> <lc> m e u <rc> <s> n g a  <s>l ü c a i  <s>w e d a  <s>c o n  <s>m i  <s>r u c </w>
+<w> a c h i <s> c ü m e <s> w e n t r u <s> e p u <s> m e u <s> <lc> n g a <rc> <s> l ü c a i  <s>w e d a  <s>c o n  <s>m i  <s>r u c a  <s>m e </w>
+<w> i <s> c ü m e <s> w e n t r u <s> e p u <s> m e u <s> n g a <s> <lc> l ü c a i <rc> <s> w e d a  <s>c o n  <s>m i  <s>r u c a  <s>m e u  <s>p i  <s>s h </w>
+<w> w e n t r u <s> e p u <s> m e u <s> n g a <s> l ü c a i <s> <lc> w e d a <rc> <s> c o n  <s>m i  <s>r u c a  <s>m e u  <s>p i  <s>s h a ñ i </w>
+<w> r u <s> e p u <s> m e u <s> n g a <s> l ü c a i <s> w e d a <s> <lc> c o n <rc> <s> m i  <s>r u c a  <s>m e u  <s>p i  <s>s h a ñ i </w>
+<w> p u <s> m e u <s> n g a <s> l ü c a i <s> w e d a <s> c o n <s> <lc> m i <rc> <s> r u c a  <s>m e u  <s>p i  <s>s h a ñ i </w>
+<w> m e u <s> n g a <s> l ü c a i <s> w e d a <s> c o n <s> m i <s> <lc> r u c a <rc> <s> m e u  <s>p i  <s>s h a ñ i </w>
+<w> g a <s> l ü c a i <s> w e d a <s> c o n <s> m i <s> r u c a <s> <lc> m e u <rc> <s> p i  <s>s h a ñ i </w>
+<w> ü c a i <s> w e d a <s> c o n <s> m i <s> r u c a <s> m e u <s> <lc> p i <rc> <s> s h a ñ i </w>
+<w> a i <s> w e d a <s> c o n <s> m i <s> r u c a <s> m e u <s> p i <s> <lc> s h a ñ i <rc>  </w>
+<w>  <lc> l i p <rc> <s> c u c h i ll u  <s>c ü c h a  <s>c u c h a r a  <s>c </w>
+<w> l i p <s> <lc> c u c h i ll u <rc> <s> c ü c h a  <s>c u c h a r a  <s>c a i </w>
+<w> c u c h i ll u <s> l i p <s> <lc> c ü c h a <rc> <s> c u c h a r a  <s>c a i </w>
+<w> c ü c h a <s> c u c h i ll u <s> l i p <s> <lc> c u c h a r a <rc> <s> c a i </w>
+<w> p <s> c u c h i ll u <s> c ü c h a <s> c u c h a r a <s> <lc> c a i <rc>  </w>
+<w>  <lc> f e i <rc> <s> a t a p a y  <s>f ü c h a  <s>i l l c u ñ  <s>ñ i  <s>c </w>
+<w> f e i <s> <lc> a t a p a y <rc> <s> f ü c h a  <s>i l l c u ñ  <s>ñ i  <s>c u r e  <s>c h u </w>
+<w> a t a p a y <s> f e i <s> <lc> f ü c h a <rc> <s> i l l c u ñ  <s>ñ i  <s>c u r e  <s>c h u m a m  <s>l e </w>
+<w> f ü c h a <s> a t a p a y <s> f e i <s> <lc> i l l c u ñ <rc> <s> ñ i  <s>c u r e  <s>c h u m a m  <s>l e l i  <s>c h i  <s>w </w>
+<w> i l l c u ñ <s> f ü c h a <s> a t a p a y <s> f e i <s> <lc> ñ i <rc> <s> c u r e  <s>c h u m a m  <s>l e l i  <s>c h i  <s>w e n </w>
+<w> i <s> a t a p a y <s> f ü c h a <s> i l l c u ñ <s> ñ i <s> <lc> c u r e <rc> <s> c h u m a m  <s>l e l i  <s>c h i  <s>w e n t r u  <s>w </w>
+<w> p a y <s> f ü c h a <s> i l l c u ñ <s> ñ i <s> c u r e <s> <lc> c h u m a m <rc> <s> l e l i  <s>c h i  <s>w e n t r u  <s>w e d a  <s>p e  <s>c </w>
+<w> h a <s> i l l c u ñ <s> ñ i <s> c u r e <s> c h u m a m <s> <lc> l e l i <rc> <s> c h i  <s>w e n t r u  <s>w e d a  <s>p e  <s>c h i  <s>w e </w>
+<w> l c u ñ <s> ñ i <s> c u r e <s> c h u m a m <s> l e l i <s> <lc> c h i <rc> <s> w e n t r u  <s>w e d a  <s>p e  <s>c h i  <s>w e n t r </w>
+<w> ñ <s> ñ i <s> c u r e <s> c h u m a m <s> l e l i <s> c h i <s> <lc> w e n t r u <rc> <s> w e d a  <s>p e  <s>c h i  <s>w e n t r u  <s>t a  <s>l e l </w>
+<w> e <s> c h u m a m <s> l e l i <s> c h i <s> w e n t r u <s> <lc> w e d a <rc> <s> p e  <s>c h i  <s>w e n t r u  <s>t a  <s>l e l i  <s>p i  <s>c </w>
+<w> m a m <s> l e l i <s> c h i <s> w e n t r u <s> w e d a <s> <lc> p e <rc> <s> c h i  <s>w e n t r u  <s>t a  <s>l e l i  <s>p i  <s>c h i </w>
+<w> m <s> l e l i <s> c h i <s> w e n t r u <s> w e d a <s> p e <s> <lc> c h i <rc> <s> w e n t r u  <s>t a  <s>l e l i  <s>p i  <s>c h i  <s>d o m </w>
+<w> l i <s> c h i <s> w e n t r u <s> w e d a <s> p e <s> c h i <s> <lc> w e n t r u <rc> <s> t a  <s>l e l i  <s>p i  <s>c h i  <s>d o m o </w>
+<w> e n t r u <s> w e d a <s> p e <s> c h i <s> w e n t r u <s> <lc> t a <rc> <s> l e l i  <s>p i  <s>c h i  <s>d o m o </w>
+<w> t r u <s> w e d a <s> p e <s> c h i <s> w e n t r u <s> t a <s> <lc> l e l i <rc> <s> p i  <s>c h i  <s>d o m o </w>
+<w> e d a <s> p e <s> c h i <s> w e n t r u <s> t a <s> l e l i <s> <lc> p i <rc> <s> c h i  <s>d o m o </w>
+<w> a <s> p e <s> c h i <s> w e n t r u <s> t a <s> l e l i <s> p i <s> <lc> c h i <rc> <s> d o m o </w>
+<w> c h i <s> w e n t r u <s> t a <s> l e l i <s> p i <s> c h i <s> <lc> d o m o <rc>  </w>
+<w>  <lc> t u <rc> <s> t f a c h i  <s>c h i ll c a  <s>s o l e q a o  <s>m </w>
+<w> t u <s> <lc> t f a c h i <rc> <s> c h i ll c a  <s>s o l e q a o  <s>m e u  <s>y e  <s>ng u </w>
+<w> t f a c h i <s> t u <s> <lc> c h i ll c a <rc> <s> s o l e q a o  <s>m e u  <s>y e  <s>ng u y u  <s>ñ a m m </w>
+<w> c h i ll c a <s> t f a c h i <s> t u <s> <lc> s o l e q a o <rc> <s> m e u  <s>y e  <s>ng u y u  <s>ñ a m m u m  <s>c a i </w>
+<w> u <s> t f a c h i <s> c h i ll c a <s> s o l e q a o <s> <lc> m e u <rc> <s> y e  <s>ng u y u  <s>ñ a m m u m  <s>c a i </w>
+<w> a c h i <s> c h i ll c a <s> s o l e q a o <s> m e u <s> <lc> y e <rc> <s> ng u y u  <s>ñ a m m u m  <s>c a i </w>
+<w> h i <s> c h i ll c a <s> s o l e q a o <s> m e u <s> y e <s> <lc> ng u y u <rc> <s> ñ a m m u m  <s>c a i </w>
+<w> i ll c a <s> s o l e q a o <s> m e u <s> y e <s> ng u y u <s> <lc> ñ a m m u m <rc> <s> c a i </w>
+<w> l e q a o <s> m e u <s> y e <s> ng u y u <s> ñ a m m u m <s> <lc> c a i <rc>  </w>
+<w>  <lc> m l e <rc> <s> c i ñ e  <s>r u c a  <s>t f a - m e u  <s>n i e  <s>c h </w>
+<w> m l e <s> <lc> c i ñ e <rc> <s> r u c a  <s>t f a - m e u  <s>n i e  <s>c h e  <s>c i z </w>
+<w> c i ñ e <s> m l e <s> <lc> r u c a <rc> <s> t f a - m e u  <s>n i e  <s>c h e  <s>c i z h u </w>
+<w> r u c a <s> c i ñ e <s> m l e <s> <lc> t f a - m e u <rc> <s> n i e  <s>c h e  <s>c i z h u </w>
+<w> t f a - m e u <s> r u c a <s> c i ñ e <s> m l e <s> <lc> n i e <rc> <s> c h e  <s>c i z h u </w>
+<w> l e <s> c i ñ e <s> r u c a <s> t f a - m e u <s> n i e <s> <lc> c h e <rc> <s> c i z h u </w>
+<w> i ñ e <s> r u c a <s> t f a - m e u <s> n i e <s> c h e <s> <lc> c i z h u <rc>  </w>
+<w>  <lc> f e i m e u <rc> <s> c i ñ e  <s>c e  <s>m e u  <s>p i c h i  <s>c e  <s>n i e  <s>m </w>
+<w> f e i m e u <s> <lc> c i ñ e <rc> <s> c e  <s>m e u  <s>p i c h i  <s>c e  <s>n i e  <s>m ü t t e </w>
+<w> c i ñ e <s> f e i m e u <s> <lc> c e <rc> <s> m e u  <s>p i c h i  <s>c e  <s>n i e  <s>m ü t t e  <s>i a </w>
+<w> c e <s> c i ñ e <s> f e i m e u <s> <lc> m e u <rc> <s> p i c h i  <s>c e  <s>n i e  <s>m ü t t e  <s>i a e l  <s>e </w>
+<w> m e u <s> c e <s> c i ñ e <s> f e i m e u <s> <lc> p i c h i <rc> <s> c e  <s>n i e  <s>m ü t t e  <s>i a e l  <s>e y e u  <s>ñ i </w>
+<w> p i c h i <s> m e u <s> c e <s> c i ñ e <s> f e i m e u <s> <lc> c e <rc> <s> n i e  <s>m ü t t e  <s>i a e l  <s>e y e u  <s>ñ i  <s>c h </w>
+<w> i m e u <s> c i ñ e <s> c e <s> m e u <s> p i c h i <s> c e <s> <lc> n i e <rc> <s> m ü t t e  <s>i a e l  <s>e y e u  <s>ñ i  <s>c h u c h </w>
+<w> u <s> c i ñ e <s> c e <s> m e u <s> p i c h i <s> c e <s> n i e <s> <lc> m ü t t e <rc> <s> i a e l  <s>e y e u  <s>ñ i  <s>c h u c h u  <s>e ng u  <s>ñ </w>
+<w> c e <s> m e u <s> p i c h i <s> c e <s> n i e <s> m ü t t e <s> <lc> i a e l <rc> <s> e y e u  <s>ñ i  <s>c h u c h u  <s>e ng u  <s>ñ i  <s>ñ o ñ </w>
+<w> u <s> p i c h i <s> c e <s> n i e <s> m ü t t e <s> i a e l <s> <lc> e y e u <rc> <s> ñ i  <s>c h u c h u  <s>e ng u  <s>ñ i  <s>ñ o ñ o  <s>c a  <s>p </w>
+<w> h i <s> c e <s> n i e <s> m ü t t e <s> i a e l <s> e y e u <s> <lc> ñ i <rc> <s> c h u c h u  <s>e ng u  <s>ñ i  <s>ñ o ñ o  <s>c a  <s>p u c </w>
+<w> c e <s> n i e <s> m ü t t e <s> i a e l <s> e y e u <s> ñ i <s> <lc> c h u c h u <rc> <s> e ng u  <s>ñ i  <s>ñ o ñ o  <s>c a  <s>p u c e m  <s>c i ñ e </w>
+<w> ü t t e <s> i a e l <s> e y e u <s> ñ i <s> c h u c h u <s> <lc> e ng u <rc> <s> ñ i  <s>ñ o ñ o  <s>c a  <s>p u c e m  <s>c i ñ e  <s>c e  <s>c </w>
+<w> e <s> i a e l <s> e y e u <s> ñ i <s> c h u c h u <s> e ng u <s> <lc> ñ i <rc> <s> ñ o ñ o  <s>c a  <s>p u c e m  <s>c i ñ e  <s>c e  <s>c h i </w>
+<w> a e l <s> e y e u <s> ñ i <s> c h u c h u <s> e ng u <s> ñ i <s> <lc> ñ o ñ o <rc> <s> c a  <s>p u c e m  <s>c i ñ e  <s>c e  <s>c h i  <s>e p e  <s>n </w>
+<w> y e u <s> ñ i <s> c h u c h u <s> e ng u <s> ñ i <s> ñ o ñ o <s> <lc> c a <rc> <s> p u c e m  <s>c i ñ e  <s>c e  <s>c h i  <s>e p e  <s>n o  <s>r </w>
+<w> u <s> ñ i <s> c h u c h u <s> e ng u <s> ñ i <s> ñ o ñ o <s> c a <s> <lc> p u c e m <rc> <s> c i ñ e  <s>c e  <s>c h i  <s>e p e  <s>n o  <s>r u m e  <s>i  <s>c </w>
+<w> u c h u <s> e ng u <s> ñ i <s> ñ o ñ o <s> c a <s> p u c e m <s> <lc> c i ñ e <rc> <s> c e  <s>c h i  <s>e p e  <s>n o  <s>r u m e  <s>i  <s>c i ñ e  <s>c </w>
+<w> e ng u <s> ñ i <s> ñ o ñ o <s> c a <s> p u c e m <s> c i ñ e <s> <lc> c e <rc> <s> c h i  <s>e p e  <s>n o  <s>r u m e  <s>i  <s>c i ñ e  <s>c o m </w>
+<w> u <s> ñ i <s> ñ o ñ o <s> c a <s> p u c e m <s> c i ñ e <s> c e <s> <lc> c h i <rc> <s> e p e  <s>n o  <s>r u m e  <s>i  <s>c i ñ e  <s>c o m  <s>a n t </w>
+<w> ñ o ñ o <s> c a <s> p u c e m <s> c i ñ e <s> c e <s> c h i <s> <lc> e p e <rc> <s> n o  <s>r u m e  <s>i  <s>c i ñ e  <s>c o m  <s>a n t ü </w>
+<w> o <s> c a <s> p u c e m <s> c i ñ e <s> c e <s> c h i <s> e p e <s> <lc> n o <rc> <s> r u m e  <s>i  <s>c i ñ e  <s>c o m  <s>a n t ü </w>
+<w> a <s> p u c e m <s> c i ñ e <s> c e <s> c h i <s> e p e <s> n o <s> <lc> r u m e <rc> <s> i  <s>c i ñ e  <s>c o m  <s>a n t ü </w>
+<w> e m <s> c i ñ e <s> c e <s> c h i <s> e p e <s> n o <s> r u m e <s> <lc> i <rc> <s> c i ñ e  <s>c o m  <s>a n t ü </w>
+<w> m <s> c i ñ e <s> c e <s> c h i <s> e p e <s> n o <s> r u m e <s> i <s> <lc> c i ñ e <rc> <s> c o m  <s>a n t ü </w>
+<w> e <s> c e <s> c h i <s> e p e <s> n o <s> r u m e <s> i <s> c i ñ e <s> <lc> c o m <rc> <s> a n t ü </w>
+<w> c h i <s> e p e <s> n o <s> r u m e <s> i <s> c i ñ e <s> c o m <s> <lc> a n t ü <rc>  </w>
+<w>  <lc> i n c h e <rc> <s> m ü t t e  <s>t ' e w a  <s>c u ñ i f a l  <s>c h u </w>
+<w> i n c h e <s> <lc> m ü t t e <rc> <s> t ' e w a  <s>c u ñ i f a l  <s>c h u m t e n  <s>e </w>
+<w> m ü t t e <s> i n c h e <s> <lc> t ' e w a <rc> <s> c u ñ i f a l  <s>c h u m t e n  <s>e l u  <s>t f a </w>
+<w> t ' e w a <s> m ü t t e <s> i n c h e <s> <lc> c u ñ i f a l <rc> <s> c h u m t e n  <s>e l u  <s>t f a c h i  <s>p o n s </w>
+<w> c h e <s> m ü t t e <s> t ' e w a <s> c u ñ i f a l <s> <lc> c h u m t e n <rc> <s> e l u  <s>t f a c h i  <s>p o n s o n  <s>m e u </w>
+<w> e <s> t ' e w a <s> c u ñ i f a l <s> c h u m t e n <s> <lc> e l u <rc> <s> t f a c h i  <s>p o n s o n  <s>m e u </w>
+<w> e w a <s> c u ñ i f a l <s> c h u m t e n <s> e l u <s> <lc> t f a c h i <rc> <s> p o n s o n  <s>m e u </w>
+<w> i f a l <s> c h u m t e n <s> e l u <s> t f a c h i <s> <lc> p o n s o n <rc> <s> m e u </w>
+<w> u m t e n <s> e l u <s> t f a c h i <s> p o n s o n <s> <lc> m e u <rc>  </w>
+<w>  <lc> f e i <rc> <s> p i  <s>c ü m e  <s>d u ng u  <s>c o i l l a  <s>c e w a </w>
+<w> f e i <s> <lc> p i <rc> <s> c ü m e  <s>d u ng u  <s>c o i l l a  <s>c e w a </w>
+<w> p i <s> f e i <s> <lc> c ü m e <rc> <s> d u ng u  <s>c o i l l a  <s>c e w a </w>
+<w> c ü m e <s> p i <s> f e i <s> <lc> d u ng u <rc> <s> c o i l l a  <s>c e w a </w>
+<w> d u ng u <s> c ü m e <s> p i <s> f e i <s> <lc> c o i l l a <rc> <s> c e w a </w>
+<w> c o i l l a <s> d u ng u <s> c ü m e <s> p i <s> f e i <s> <lc> c e w a <rc>  </w>
+<w>  <lc> f a u <rc> <s> w ü d a  <s>t f a c h i  <s>r ü p ü  <s>e p u  <s>m e u </w>
+<w> f a u <s> <lc> w ü d a <rc> <s> t f a c h i  <s>r ü p ü  <s>e p u  <s>m e u  <s>c h u c </w>
+<w> w ü d a <s> f a u <s> <lc> t f a c h i <rc> <s> r ü p ü  <s>e p u  <s>m e u  <s>c h u c h i  <s>i n a </w>
+<w> t f a c h i <s> w ü d a <s> f a u <s> <lc> r ü p ü <rc> <s> e p u  <s>m e u  <s>c h u c h i  <s>i n a </w>
+<w> r ü p ü <s> t f a c h i <s> w ü d a <s> f a u <s> <lc> e p u <rc> <s> m e u  <s>c h u c h i  <s>i n a </w>
+<w> e p u <s> r ü p ü <s> t f a c h i <s> w ü d a <s> f a u <s> <lc> m e u <rc> <s> c h u c h i  <s>i n a </w>
+<w> w ü d a <s> t f a c h i <s> r ü p ü <s> e p u <s> m e u <s> <lc> c h u c h i <rc> <s> i n a </w>
+<w> a c h i <s> r ü p ü <s> e p u <s> m e u <s> c h u c h i <s> <lc> i n a <rc>  </w>
+<w>  <lc> t ' a p e l <rc> <s> c a w e ll u  <s>t a ñ i  <s>a m u  <s>p u n  <s>m e u </w>
+<w> t ' a p e l <s> <lc> c a w e ll u <rc> <s> t a ñ i  <s>a m u  <s>p u n  <s>m e u </w>
+<w> c a w e ll u <s> t ' a p e l <s> <lc> t a ñ i <rc> <s> a m u  <s>p u n  <s>m e u </w>
+<w> t a ñ i <s> c a w e ll u <s> t ' a p e l <s> <lc> a m u <rc> <s> p u n  <s>m e u </w>
+<w> a m u <s> t a ñ i <s> c a w e ll u <s> t ' a p e l <s> <lc> p u n <rc> <s> m e u </w>
+<w> a p e l <s> c a w e ll u <s> t a ñ i <s> a m u <s> p u n <s> <lc> m e u <rc>  </w>
+<w>  <lc> u m a <rc> <s> m e u  <s>a m u  <s>a t a p a y  <s>f ü c h a  <s>m e u </w>
+<w> u m a <s> <lc> m e u <rc> <s> a m u  <s>a t a p a y  <s>f ü c h a  <s>m e u  <s>ñ a l </w>
+<w> m e u <s> u m a <s> <lc> a m u <rc> <s> a t a p a y  <s>f ü c h a  <s>m e u  <s>ñ a l l i t </w>
+<w> a m u <s> m e u <s> u m a <s> <lc> a t a p a y <rc> <s> f ü c h a  <s>m e u  <s>ñ a l l i t u </w>
+<w> a t a p a y <s> a m u <s> m e u <s> u m a <s> <lc> f ü c h a <rc> <s> m e u  <s>ñ a l l i t u </w>
+<w> f ü c h a <s> a t a p a y <s> a m u <s> m e u <s> u m a <s> <lc> m e u <rc> <s> ñ a l l i t u </w>
+<w> m e u <s> a m u <s> a t a p a y <s> f ü c h a <s> m e u <s> <lc> ñ a l l i t u <rc>  </w>
+<w>  <lc> f e i <rc> <s> m e u  <s>e p u  <s>a n t ü  <s>m e u  <s>n e n t u  <s>ñ i </w>
+<w> f e i <s> <lc> m e u <rc> <s> e p u  <s>a n t ü  <s>m e u  <s>n e n t u  <s>ñ i  <s>r ü n </w>
+<w> m e u <s> f e i <s> <lc> e p u <rc> <s> a n t ü  <s>m e u  <s>n e n t u  <s>ñ i  <s>r ü n g a  <s>p </w>
+<w> e p u <s> m e u <s> f e i <s> <lc> a n t ü <rc> <s> m e u  <s>n e n t u  <s>ñ i  <s>r ü n g a  <s>p l a t a </w>
+<w> a n t ü <s> e p u <s> m e u <s> f e i <s> <lc> m e u <rc> <s> n e n t u  <s>ñ i  <s>r ü n g a  <s>p l a t a  <s>p i s </w>
+<w> m e u <s> a n t ü <s> e p u <s> m e u <s> f e i <s> <lc> n e n t u <rc> <s> ñ i  <s>r ü n g a  <s>p l a t a  <s>p i s h m a i w </w>
+<w> e i <s> m e u <s> e p u <s> a n t ü <s> m e u <s> n e n t u <s> <lc> ñ i <rc> <s> r ü n g a  <s>p l a t a  <s>p i s h m a i w i l </w>
+<w> m e u <s> e p u <s> a n t ü <s> m e u <s> n e n t u <s> ñ i <s> <lc> r ü n g a <rc> <s> p l a t a  <s>p i s h m a i w i l e  <s>l i f  <s>ñ </w>
+<w> u <s> a n t ü <s> m e u <s> n e n t u <s> ñ i <s> r ü n g a <s> <lc> p l a t a <rc> <s> p i s h m a i w i l e  <s>l i f  <s>ñ i  <s>p l a t </w>
+<w> m e u <s> n e n t u <s> ñ i <s> r ü n g a <s> p l a t a <s> <lc> p i s h m a i w i l e <rc> <s> l i f  <s>ñ i  <s>p l a t a  <s>c a  <s>c h i l l a  <s>ñ i </w>
+<w> ü n g a <s> p l a t a <s> p i s h m a i w i l e <s> <lc> l i f <rc> <s> ñ i  <s>p l a t a  <s>c a  <s>c h i l l a  <s>ñ i  <s>d o y </w>
+<w> a <s> p l a t a <s> p i s h m a i w i l e <s> l i f <s> <lc> ñ i <rc> <s> p l a t a  <s>c a  <s>c h i l l a  <s>ñ i  <s>d o y  <s>c ü </w>
+<w> l a t a <s> p i s h m a i w i l e <s> l i f <s> ñ i <s> <lc> p l a t a <rc> <s> c a  <s>c h i l l a  <s>ñ i  <s>d o y  <s>c ü m e  <s>c a w </w>
+<w> i s h m a i w i l e <s> l i f <s> ñ i <s> p l a t a <s> <lc> c a <rc> <s> c h i l l a  <s>ñ i  <s>d o y  <s>c ü m e  <s>c a w e l </w>
+<w> h m a i w i l e <s> l i f <s> ñ i <s> p l a t a <s> c a <s> <lc> c h i l l a <rc> <s> ñ i  <s>d o y  <s>c ü m e  <s>c a w e l l u  <s>t ü c u </w>
+<w> l e <s> l i f <s> ñ i <s> p l a t a <s> c a <s> c h i l l a <s> <lc> ñ i <rc> <s> d o y  <s>c ü m e  <s>c a w e l l u  <s>t ü c u  <s>w i </w>
+<w> l i f <s> ñ i <s> p l a t a <s> c a <s> c h i l l a <s> ñ i <s> <lc> d o y <rc> <s> c ü m e  <s>c a w e l l u  <s>t ü c u  <s>w i t r a </w>
+<w> ñ i <s> p l a t a <s> c a <s> c h i l l a <s> ñ i <s> d o y <s> <lc> c ü m e <rc> <s> c a w e l l u  <s>t ü c u  <s>w i t r a  <s>c a f i </w>
+<w> a t a <s> c a <s> c h i l l a <s> ñ i <s> d o y <s> c ü m e <s> <lc> c a w e l l u <rc> <s> t ü c u  <s>w i t r a  <s>c a f i s h a  <s>c e t r </w>
+<w> i l l a <s> ñ i <s> d o y <s> c ü m e <s> c a w e l l u <s> <lc> t ü c u <rc> <s> w i t r a  <s>c a f i s h a  <s>c e t r e  <s>f ü c </w>
+<w> ñ i <s> d o y <s> c ü m e <s> c a w e l l u <s> t ü c u <s> <lc> w i t r a <rc> <s> c a f i s h a  <s>c e t r e  <s>f ü c h a  <s>t o l </w>
+<w> c ü m e <s> c a w e l l u <s> t ü c u <s> w i t r a <s> <lc> c a f i s h a <rc> <s> c e t r e  <s>f ü c h a  <s>t o l t o  <s>t r a w a </w>
+<w> e l l u <s> t ü c u <s> w i t r a <s> c a f i s h a <s> <lc> c e t r e <rc> <s> f ü c h a  <s>t o l t o  <s>t r a w a l l  <s>i t r </w>
+<w> ü c u <s> w i t r a <s> c a f i s h a <s> c e t r e <s> <lc> f ü c h a <rc> <s> t o l t o  <s>t r a w a l l  <s>i t r o  <s>ñ i  <s>c h </w>
+<w> t r a <s> c a f i s h a <s> c e t r e <s> f ü c h a <s> <lc> t o l t o <rc> <s> t r a w a l l  <s>i t r o  <s>ñ i  <s>c h i l l a  <s>c </w>
+<w> f i s h a <s> c e t r e <s> f ü c h a <s> t o l t o <s> <lc> t r a w a l l <rc> <s> i t r o  <s>ñ i  <s>c h i l l a  <s>c a w e l l u  <s>f </w>
+<w> t r e <s> f ü c h a <s> t o l t o <s> t r a w a l l <s> <lc> i t r o <rc> <s> ñ i  <s>c h i l l a  <s>c a w e l l u  <s>f ü c h a </w>
+<w> ü c h a <s> t o l t o <s> t r a w a l l <s> i t r o <s> <lc> ñ i <rc> <s> c h i l l a  <s>c a w e l l u  <s>f ü c h a  <s>p i </w>
+<w> h a <s> t o l t o <s> t r a w a l l <s> i t r o <s> ñ i <s> <lc> c h i l l a <rc> <s> c a w e l l u  <s>f ü c h a  <s>p i s h m a i w </w>
+<w> o <s> t r a w a l l <s> i t r o <s> ñ i <s> c h i l l a <s> <lc> c a w e l l u <rc> <s> f ü c h a  <s>p i s h m a i w i l e  <s>a m u  <s>p </w>
+<w> l <s> i t r o <s> ñ i <s> c h i l l a <s> c a w e l l u <s> <lc> f ü c h a <rc> <s> p i s h m a i w i l e  <s>a m u  <s>p a l i </w>
+<w> ñ i <s> c h i l l a <s> c a w e l l u <s> f ü c h a <s> <lc> p i s h m a i w i l e <rc> <s> a m u  <s>p a l i </w>
+<w> e l l u <s> f ü c h a <s> p i s h m a i w i l e <s> <lc> a m u <rc> <s> p a l i </w>
+<w> u <s> f ü c h a <s> p i s h m a i w i l e <s> a m u <s> <lc> p a l i <rc>  </w>
+<w>  <lc> c h u c h i <rc> <s> p l e  <s>a m u  <s>m a n  <s>a m u </w>
+<w> c h u c h i <s> <lc> p l e <rc> <s> a m u  <s>m a n  <s>a m u </w>
+<w> p l e <s> c h u c h i <s> <lc> a m u <rc> <s> m a n  <s>a m u </w>
+<w> a m u <s> p l e <s> c h u c h i <s> <lc> m a n <rc> <s> a m u </w>
+<w> m a n <s> a m u <s> p l e <s> c h u c h i <s> <lc> a m u <rc>  </w>
+<w>  <lc> f e i <rc> <s> m e u  <s>n a q  <s>p i s h m a i w i l e  <s>e n t </w>
+<w> f e i <s> <lc> m e u <rc> <s> n a q  <s>p i s h m a i w i l e  <s>e n t u  <s>ñ i </w>
+<w> m e u <s> f e i <s> <lc> n a q <rc> <s> p i s h m a i w i l e  <s>e n t u  <s>ñ i  <s>c a w </w>
+<w> n a q <s> m e u <s> f e i <s> <lc> p i s h m a i w i l e <rc> <s> e n t u  <s>ñ i  <s>c a w e l l u  <s>t r a n a  <s>ñ i </w>
+<w> p i s h m a i w i l e <s> n a q <s> m e u <s> f e i <s> <lc> e n t u <rc> <s> ñ i  <s>c a w e l l u  <s>t r a n a  <s>ñ i  <s>c a f i </w>
+<w> e u <s> n a q <s> p i s h m a i w i l e <s> e n t u <s> <lc> ñ i <rc> <s> c a w e l l u  <s>t r a n a  <s>ñ i  <s>c a f i s h </w>
+<w> n a q <s> p i s h m a i w i l e <s> e n t u <s> ñ i <s> <lc> c a w e l l u <rc> <s> t r a n a  <s>ñ i  <s>c a f i s h a  <s>c e t r e  <s>e </w>
+<w> m a i w i l e <s> e n t u <s> ñ i <s> c a w e l l u <s> <lc> t r a n a <rc> <s> ñ i  <s>c a f i s h a  <s>c e t r e  <s>e n g u  <s>c a </w>
+<w> l e <s> e n t u <s> ñ i <s> c a w e l l u <s> t r a n a <s> <lc> ñ i <rc> <s> c a f i s h a  <s>c e t r e  <s>e n g u  <s>c a  <s>ñ i </w>
+<w> e n t u <s> ñ i <s> c a w e l l u <s> t r a n a <s> ñ i <s> <lc> c a f i s h a <rc> <s> c e t r e  <s>e n g u  <s>c a  <s>ñ i  <s>c a  <s>w e s h a </w>
+<w> a w e l l u <s> t r a n a <s> ñ i <s> c a f i s h a <s> <lc> c e t r e <rc> <s> e n g u  <s>c a  <s>ñ i  <s>c a  <s>w e s h a  <s>c h a d  <s>t </w>
+<w> u <s> t r a n a <s> ñ i <s> c a f i s h a <s> c e t r e <s> <lc> e n g u <rc> <s> c a  <s>ñ i  <s>c a  <s>w e s h a  <s>c h a d  <s>t r a w a </w>
+<w> n a <s> ñ i <s> c a f i s h a <s> c e t r e <s> e n g u <s> <lc> c a <rc> <s> ñ i  <s>c a  <s>w e s h a  <s>c h a d  <s>t r a w a l l </w>
+<w> ñ i <s> c a f i s h a <s> c e t r e <s> e n g u <s> c a <s> <lc> ñ i <rc> <s> c a  <s>w e s h a  <s>c h a d  <s>t r a w a l l  <s>t o </w>
+<w> c a f i s h a <s> c e t r e <s> e n g u <s> c a <s> ñ i <s> <lc> c a <rc> <s> w e s h a  <s>c h a d  <s>t r a w a l l  <s>t o l t </w>
+<w> f i s h a <s> c e t r e <s> e n g u <s> c a <s> ñ i <s> c a <s> <lc> w e s h a <rc> <s> c h a d  <s>t r a w a l l  <s>t o l t o  <s>c a  <s>ñ i </w>
+<w> c e t r e <s> e n g u <s> c a <s> ñ i <s> c a <s> w e s h a <s> <lc> c h a d <rc> <s> t r a w a l l  <s>t o l t o  <s>c a  <s>ñ i  <s>p l a t </w>
+<w> e <s> e n g u <s> c a <s> ñ i <s> c a <s> w e s h a <s> c h a d <s> <lc> t r a w a l l <rc> <s> t o l t o  <s>c a  <s>ñ i  <s>p l a t a  <s>w i t r a  <s>e </w>
+<w> ñ i <s> c a <s> w e s h a <s> c h a d <s> t r a w a l l <s> <lc> t o l t o <rc> <s> c a  <s>ñ i  <s>p l a t a  <s>w i t r a  <s>e l  <s>c h e m </w>
+<w> e s h a <s> c h a d <s> t r a w a l l <s> t o l t o <s> <lc> c a <rc> <s> ñ i  <s>p l a t a  <s>w i t r a  <s>e l  <s>c h e m  <s>n o </w>
+<w> h a <s> c h a d <s> t r a w a l l <s> t o l t o <s> c a <s> <lc> ñ i <rc> <s> p l a t a  <s>w i t r a  <s>e l  <s>c h e m  <s>n o  <s>r u </w>
+<w> c h a d <s> t r a w a l l <s> t o l t o <s> c a <s> ñ i <s> <lc> p l a t a <rc> <s> w i t r a  <s>e l  <s>c h e m  <s>n o  <s>r u m e </w>
+<w> r a w a l l <s> t o l t o <s> c a <s> ñ i <s> p l a t a <s> <lc> w i t r a <rc> <s> e l  <s>c h e m  <s>n o  <s>r u m e </w>
+<w> l <s> t o l t o <s> c a <s> ñ i <s> p l a t a <s> w i t r a <s> <lc> e l <rc> <s> c h e m  <s>n o  <s>r u m e </w>
+<w> o l t o <s> c a <s> ñ i <s> p l a t a <s> w i t r a <s> e l <s> <lc> c h e m <rc> <s> n o  <s>r u m e </w>
+<w> c a <s> ñ i <s> p l a t a <s> w i t r a <s> e l <s> c h e m <s> <lc> n o <rc> <s> r u m e </w>
+<w> ñ i <s> p l a t a <s> w i t r a <s> e l <s> c h e m <s> n o <s> <lc> r u m e <rc>  </w>
+<w>  <lc> c i n t u <rc> <s> c i ñ e  <s>p i c h i  <s>c h e  <s>p e  <s>r ü p ü </w>
+<w> c i n t u <s> <lc> c i ñ e <rc> <s> p i c h i  <s>c h e  <s>p e  <s>r ü p ü </w>
+<w> c i ñ e <s> c i n t u <s> <lc> p i c h i <rc> <s> c h e  <s>p e  <s>r ü p ü </w>
+<w> p i c h i <s> c i ñ e <s> c i n t u <s> <lc> c h e <rc> <s> p e  <s>r ü p ü </w>
+<w> c h e <s> p i c h i <s> c i ñ e <s> c i n t u <s> <lc> p e <rc> <s> r ü p ü </w>
+<w> p e <s> c h e <s> p i c h i <s> c i ñ e <s> c i n t u <s> <lc> r ü p ü <rc>  </w>
+<w>  <lc> ñ i <rc> <s> f u c h a  <s>ñ i  <s>l a m ng e n  <s>c a  <s>m l e  <s>c a </w>
+<w> ñ i <s> <lc> f u c h a <rc> <s> ñ i  <s>l a m ng e n  <s>c a  <s>m l e  <s>c a  <s>ñ i  <s>c h u </w>
+<w> f u c h a <s> ñ i <s> <lc> ñ i <rc> <s> l a m ng e n  <s>c a  <s>m l e  <s>c a  <s>ñ i  <s>c h u c h </w>
+<w> ñ i <s> f u c h a <s> ñ i <s> <lc> l a m ng e n <rc> <s> c a  <s>m l e  <s>c a  <s>ñ i  <s>c h u c h u  <s>c u c u </w>
+<w> l a m ng e n <s> ñ i <s> f u c h a <s> ñ i <s> <lc> c a <rc> <s> m l e  <s>c a  <s>ñ i  <s>c h u c h u  <s>c u c u </w>
+<w> c a <s> l a m ng e n <s> ñ i <s> f u c h a <s> ñ i <s> <lc> m l e <rc> <s> c a  <s>ñ i  <s>c h u c h u  <s>c u c u </w>
+<w> m l e <s> c a <s> l a m ng e n <s> ñ i <s> f u c h a <s> ñ i <s> <lc> c a <rc> <s> ñ i  <s>c h u c h u  <s>c u c u </w>
+<w> f u c h a <s> ñ i <s> l a m ng e n <s> c a <s> m l e <s> c a <s> <lc> ñ i <rc> <s> c h u c h u  <s>c u c u </w>
+<w> c h a <s> ñ i <s> l a m ng e n <s> c a <s> m l e <s> c a <s> ñ i <s> <lc> c h u c h u <rc> <s> c u c u </w>
+<w> a m ng e n <s> c a <s> m l e <s> c a <s> ñ i <s> c h u c h u <s> <lc> c u c u <rc>  </w>
+<w>  <lc> p e p i <rc> <s> c ü m e  <s>w e r c ü n  <s>c ü p a </w>
+<w> p e p i <s> <lc> c ü m e <rc> <s> w e r c ü n  <s>c ü p a </w>
+<w> c ü m e <s> p e p i <s> <lc> w e r c ü n <rc> <s> c ü p a </w>
+<w> w e r c ü n <s> c ü m e <s> p e p i <s> <lc> c ü p a <rc>  </w>
+<w>  <lc> ll e c a <rc> <s> p i c h i  <s>c h e  <s>ñ i  <s>c e w a  <s>ñ i  <s>c h a o </w>
+<w> ll e c a <s> <lc> p i c h i <rc> <s> c h e  <s>ñ i  <s>c e w a  <s>ñ i  <s>c h a o </w>
+<w> p i c h i <s> ll e c a <s> <lc> c h e <rc> <s> ñ i  <s>c e w a  <s>ñ i  <s>c h a o </w>
+<w> c h e <s> p i c h i <s> ll e c a <s> <lc> ñ i <rc> <s> c e w a  <s>ñ i  <s>c h a o </w>
+<w> ñ i <s> c h e <s> p i c h i <s> ll e c a <s> <lc> c e w a <rc> <s> ñ i  <s>c h a o </w>
+<w> c e w a <s> ñ i <s> c h e <s> p i c h i <s> ll e c a <s> <lc> ñ i <rc> <s> c h a o </w>
+<w> ñ i <s> c e w a <s> ñ i <s> c h e <s> p i c h i <s> ll e c a <s> <lc> c h a o <rc>  </w>
+<w>  <lc> t f a c h i <rc> <s> c h e c h ü m  <s>w e r a  <s>c h u m  <s>t a ñ i  <s>d </w>
+<w> t f a c h i <s> <lc> c h e c h ü m <rc> <s> w e r a  <s>c h u m  <s>t a ñ i  <s>d o i  <s>w e r a </w>
+<w> c h e c h ü m <s> t f a c h i <s> <lc> w e r a <rc> <s> c h u m  <s>t a ñ i  <s>d o i  <s>w e r a </w>
+<w> w e r a <s> c h e c h ü m <s> t f a c h i <s> <lc> c h u m <rc> <s> t a ñ i  <s>d o i  <s>w e r a </w>
+<w> f a c h i <s> c h e c h ü m <s> w e r a <s> c h u m <s> <lc> t a ñ i <rc> <s> d o i  <s>w e r a </w>
+<w> i <s> c h e c h ü m <s> w e r a <s> c h u m <s> t a ñ i <s> <lc> d o i <rc> <s> w e r a </w>
+<w> e c h ü m <s> w e r a <s> c h u m <s> t a ñ i <s> d o i <s> <lc> w e r a <rc>  </w>
+<w>  <lc> i n a u <rc> <s> y e  <s>m e l i  <s>c a w e ll u  <s>c a  <s>c e c h u  <s>c </w>
+<w> i n a u <s> <lc> y e <rc> <s> m e l i  <s>c a w e ll u  <s>c a  <s>c e c h u  <s>c h e </w>
+<w> y e <s> i n a u <s> <lc> m e l i <rc> <s> c a w e ll u  <s>c a  <s>c e c h u  <s>c h e c h ü m </w>
+<w> m e l i <s> y e <s> i n a u <s> <lc> c a w e ll u <rc> <s> c a  <s>c e c h u  <s>c h e c h ü m  <s>m u l a </w>
+<w> c a w e ll u <s> m e l i <s> y e <s> i n a u <s> <lc> c a <rc> <s> c e c h u  <s>c h e c h ü m  <s>m u l a </w>
+<w> c a <s> c a w e ll u <s> m e l i <s> y e <s> i n a u <s> <lc> c e c h u <rc> <s> c h e c h ü m  <s>m u l a </w>
+<w> u <s> y e <s> m e l i <s> c a w e ll u <s> c a <s> c e c h u <s> <lc> c h e c h ü m <rc> <s> m u l a </w>
+<w> c a w e ll u <s> c a <s> c e c h u <s> c h e c h ü m <s> <lc> m u l a <rc>  </w>
+<w>  <lc> c h e u <rc> <s> t u </w>
+<w> c h e u <s> <lc> t u <rc>  </w>
+<w>  <lc> f e i <rc> <s> m e u  <s>i l l c u  <s>s h a ñ i  <s>n ü  <s>ñ i  <s>l ü c </w>
+<w> f e i <s> <lc> m e u <rc> <s> i l l c u  <s>s h a ñ i  <s>n ü  <s>ñ i  <s>l ü c a i  <s>f </w>
+<w> m e u <s> f e i <s> <lc> i l l c u <rc> <s> s h a ñ i  <s>n ü  <s>ñ i  <s>l ü c a i  <s>f e i  <s>l ü c </w>
+<w> i l l c u <s> m e u <s> f e i <s> <lc> s h a ñ i <rc> <s> n ü  <s>ñ i  <s>l ü c a i  <s>f e i  <s>l ü c a i  <s>f ü c </w>
+<w> s h a ñ i <s> i l l c u <s> m e u <s> f e i <s> <lc> n ü <rc> <s> ñ i  <s>l ü c a i  <s>f e i  <s>l ü c a i  <s>f ü c h a </w>
+<w> n ü <s> s h a ñ i <s> i l l c u <s> m e u <s> f e i <s> <lc> ñ i <rc> <s> l ü c a i  <s>f e i  <s>l ü c a i  <s>f ü c h a  <s>w e </w>
+<w> ñ i <s> n ü <s> s h a ñ i <s> i l l c u <s> m e u <s> f e i <s> <lc> l ü c a i <rc> <s> f e i  <s>l ü c a i  <s>f ü c h a  <s>w e n t r u  <s>ñ </w>
+<w> u <s> i l l c u <s> s h a ñ i <s> n ü <s> ñ i <s> l ü c a i <s> <lc> f e i <rc> <s> l ü c a i  <s>f ü c h a  <s>w e n t r u  <s>ñ i  <s>c a </w>
+<w> l c u <s> s h a ñ i <s> n ü <s> ñ i <s> l ü c a i <s> f e i <s> <lc> l ü c a i <rc> <s> f ü c h a  <s>w e n t r u  <s>ñ i  <s>c a w e l l u </w>
+<w> a ñ i <s> n ü <s> ñ i <s> l ü c a i <s> f e i <s> l ü c a i <s> <lc> f ü c h a <rc> <s> w e n t r u  <s>ñ i  <s>c a w e l l u  <s>m a i n a </w>
+<w> ñ i <s> l ü c a i <s> f e i <s> l ü c a i <s> f ü c h a <s> <lc> w e n t r u <rc> <s> ñ i  <s>c a w e l l u  <s>m a i n a w  <s>l ü c a i </w>
+<w> i <s> f e i <s> l ü c a i <s> f ü c h a <s> w e n t r u <s> <lc> ñ i <rc> <s> c a w e l l u  <s>m a i n a w  <s>l ü c a i  <s>m e </w>
+<w> e i <s> l ü c a i <s> f ü c h a <s> w e n t r u <s> ñ i <s> <lc> c a w e l l u <rc> <s> m a i n a w  <s>l ü c a i  <s>m e u  <s>c h i  <s>c ü n </w>
+<w> f ü c h a <s> w e n t r u <s> ñ i <s> c a w e l l u <s> <lc> m a i n a w <rc> <s> l ü c a i  <s>m e u  <s>c h i  <s>c ü n t r o  <s>c a w </w>
+<w> e n t r u <s> ñ i <s> c a w e l l u <s> m a i n a w <s> <lc> l ü c a i <rc> <s> m e u  <s>c h i  <s>c ü n t r o  <s>c a w e l l u  <s>i </w>
+<w> ñ i <s> c a w e l l u <s> m a i n a w <s> l ü c a i <s> <lc> m e u <rc> <s> c h i  <s>c ü n t r o  <s>c a w e l l u  <s>i m p o </w>
+<w> a w e l l u <s> m a i n a w <s> l ü c a i <s> m e u <s> <lc> c h i <rc> <s> c ü n t r o  <s>c a w e l l u  <s>i m p o l </w>
+<w> l l u <s> m a i n a w <s> l ü c a i <s> m e u <s> c h i <s> <lc> c ü n t r o <rc> <s> c a w e l l u  <s>i m p o l </w>
+<w> n a w <s> l ü c a i <s> m e u <s> c h i <s> c ü n t r o <s> <lc> c a w e l l u <rc> <s> i m p o l </w>
+<w> i <s> m e u <s> c h i <s> c ü n t r o <s> c a w e l l u <s> <lc> i m p o l <rc>  </w>
+<w>  <lc> a m u <rc> <s> i n e i  <s>c h e i  <s>m ü t ' ü m  <s>w e c u n </w>
+<w> a m u <s> <lc> i n e i <rc> <s> c h e i  <s>m ü t ' ü m  <s>w e c u n </w>
+<w> i n e i <s> a m u <s> <lc> c h e i <rc> <s> m ü t ' ü m  <s>w e c u n </w>
+<w> c h e i <s> i n e i <s> a m u <s> <lc> m ü t ' ü m <rc> <s> w e c u n </w>
+<w> m ü t ' ü m <s> c h e i <s> i n e i <s> a m u <s> <lc> w e c u n <rc>  </w>
+<w>  <lc> i n c h e <rc> <s> t a ñ i  <s>e p u  <s>f o t ü m  <s>c u d a u  <s>c i ñ </w>
+<w> i n c h e <s> <lc> t a ñ i <rc> <s> e p u  <s>f o t ü m  <s>c u d a u  <s>c i ñ e  <s>c a w </w>
+<w> t a ñ i <s> i n c h e <s> <lc> e p u <rc> <s> f o t ü m  <s>c u d a u  <s>c i ñ e  <s>c a w a ll e </w>
+<w> e p u <s> t a ñ i <s> i n c h e <s> <lc> f o t ü m <rc> <s> c u d a u  <s>c i ñ e  <s>c a w a ll e r u  <s>ñ i  <s>c </w>
+<w> f o t ü m <s> e p u <s> t a ñ i <s> i n c h e <s> <lc> c u d a u <rc> <s> c i ñ e  <s>c a w a ll e r u  <s>ñ i  <s>c o ng i  <s>m e </w>
+<w> c h e <s> t a ñ i <s> e p u <s> f o t ü m <s> c u d a u <s> <lc> c i ñ e <rc> <s> c a w a ll e r u  <s>ñ i  <s>c o ng i  <s>m e u </w>
+<w> a ñ i <s> e p u <s> f o t ü m <s> c u d a u <s> c i ñ e <s> <lc> c a w a ll e r u <rc> <s> ñ i  <s>c o ng i  <s>m e u </w>
+<w> t ü m <s> c u d a u <s> c i ñ e <s> c a w a ll e r u <s> <lc> ñ i <rc> <s> c o ng i  <s>m e u </w>
+<w> m <s> c u d a u <s> c i ñ e <s> c a w a ll e r u <s> ñ i <s> <lc> c o ng i <rc> <s> m e u </w>
+<w> a u <s> c i ñ e <s> c a w a ll e r u <s> ñ i <s> c o ng i <s> <lc> m e u <rc>  </w>
+<w>  <lc> t f a c h i <rc> <s> m ü n a  <s>c ü m e  <s>d o m o  <s>e i m i  <s>t a m i </w>
+<w> t f a c h i <s> <lc> m ü n a <rc> <s> c ü m e  <s>d o m o  <s>e i m i  <s>t a m i  <s>c u r e </w>
+<w> m ü n a <s> t f a c h i <s> <lc> c ü m e <rc> <s> d o m o  <s>e i m i  <s>t a m i  <s>c u r e  <s>m ü  <s>i n </w>
+<w> c ü m e <s> m ü n a <s> t f a c h i <s> <lc> d o m o <rc> <s> e i m i  <s>t a m i  <s>c u r e  <s>m ü  <s>i n c h e  <s>t </w>
+<w> d o m o <s> c ü m e <s> m ü n a <s> t f a c h i <s> <lc> e i m i <rc> <s> t a m i  <s>c u r e  <s>m ü  <s>i n c h e  <s>t a ñ i  <s>c </w>
+<w> a c h i <s> m ü n a <s> c ü m e <s> d o m o <s> e i m i <s> <lc> t a m i <rc> <s> c u r e  <s>m ü  <s>i n c h e  <s>t a ñ i  <s>c ü r u n </w>
+<w> m ü n a <s> c ü m e <s> d o m o <s> e i m i <s> t a m i <s> <lc> c u r e <rc> <s> m ü  <s>i n c h e  <s>t a ñ i  <s>c ü r u n </w>
+<w> c ü m e <s> d o m o <s> e i m i <s> t a m i <s> c u r e <s> <lc> m ü <rc> <s> i n c h e  <s>t a ñ i  <s>c ü r u n </w>
+<w> m e <s> d o m o <s> e i m i <s> t a m i <s> c u r e <s> m ü <s> <lc> i n c h e <rc> <s> t a ñ i  <s>c ü r u n </w>
+<w> o <s> e i m i <s> t a m i <s> c u r e <s> m ü <s> i n c h e <s> <lc> t a ñ i <rc> <s> c ü r u n </w>
+<w> i <s> t a m i <s> c u r e <s> m ü <s> i n c h e <s> t a ñ i <s> <lc> c ü r u n <rc>  </w>
+<w>  <lc> ng e <rc> <s> c i ñ e  <s>l a f c e n  <s>t f e i c h i  <s>i n a </w>
+<w> ng e <s> <lc> c i ñ e <rc> <s> l a f c e n  <s>t f e i c h i  <s>i n a f ü l  <s>d </w>
+<w> c i ñ e <s> ng e <s> <lc> l a f c e n <rc> <s> t f e i c h i  <s>i n a f ü l  <s>d e q i n </w>
+<w> l a f c e n <s> c i ñ e <s> ng e <s> <lc> t f e i c h i <rc> <s> i n a f ü l  <s>d e q i n </w>
+<w> t f e i c h i <s> l a f c e n <s> c i ñ e <s> ng e <s> <lc> i n a f ü l <rc> <s> d e q i n </w>
+<w> e <s> l a f c e n <s> t f e i c h i <s> i n a f ü l <s> <lc> d e q i n <rc>  </w>
+<w>  <lc> d e u <rc> <s> r u p a  <s>l o t ' a  <s>c h a p a d  <s>m e n o c </w>
+<w> d e u <s> <lc> r u p a <rc> <s> l o t ' a  <s>c h a p a d  <s>m e n o c o  <s>m e u </w>
+<w> r u p a <s> d e u <s> <lc> l o t ' a <rc> <s> c h a p a d  <s>m e n o c o  <s>m e u  <s>p e p i </w>
+<w> l o t ' a <s> r u p a <s> d e u <s> <lc> c h a p a d <rc> <s> m e n o c o  <s>m e u  <s>p e p i </w>
+<w> c h a p a d <s> l o t ' a <s> r u p a <s> d e u <s> <lc> m e n o c o <rc> <s> m e u  <s>p e p i </w>
+<w> u p a <s> l o t ' a <s> c h a p a d <s> m e n o c o <s> <lc> m e u <rc> <s> p e p i </w>
+<w> l o t ' a <s> c h a p a d <s> m e n o c o <s> m e u <s> <lc> p e p i <rc>  </w>
+<w>  <lc> t u c u <rc> <s> p o t ' e s o  <s>m e u  <s>c a w e ll u  <s>t f a - </w>
+<w> t u c u <s> <lc> p o t ' e s o <rc> <s> m e u  <s>c a w e ll u  <s>t f a - m e u  <s>i n a f </w>
+<w> p o t ' e s o <s> t u c u <s> <lc> m e u <rc> <s> c a w e ll u  <s>t f a - m e u  <s>i n a f ü l  <s>r </w>
+<w> m e u <s> p o t ' e s o <s> t u c u <s> <lc> c a w e ll u <rc> <s> t f a - m e u  <s>i n a f ü l  <s>r u c a  <s>m e l </w>
+<w> c a w e ll u <s> m e u <s> p o t ' e s o <s> t u c u <s> <lc> t f a - m e u <rc> <s> i n a f ü l  <s>r u c a  <s>m e l e  <s>e l u  <s>c a i </w>
+<w> ' e s o <s> m e u <s> c a w e ll u <s> t f a - m e u <s> <lc> i n a f ü l <rc> <s> r u c a  <s>m e l e  <s>e l u  <s>c a i  <s>p i c h i  <s>c </w>
+<w> u <s> c a w e ll u <s> t f a - m e u <s> i n a f ü l <s> <lc> r u c a <rc> <s> m e l e  <s>e l u  <s>c a i  <s>p i c h i  <s>c a c h ü </w>
+<w> e ll u <s> t f a - m e u <s> i n a f ü l <s> r u c a <s> <lc> m e l e <rc> <s> e l u  <s>c a i  <s>p i c h i  <s>c a c h ü </w>
+<w> f a - m e u <s> i n a f ü l <s> r u c a <s> m e l e <s> <lc> e l u <rc> <s> c a i  <s>p i c h i  <s>c a c h ü </w>
+<w> m e u <s> i n a f ü l <s> r u c a <s> m e l e <s> e l u <s> <lc> c a i <rc> <s> p i c h i  <s>c a c h ü </w>
+<w> i n a f ü l <s> r u c a <s> m e l e <s> e l u <s> c a i <s> <lc> p i c h i <rc> <s> c a c h ü </w>
+<w> l <s> r u c a <s> m e l e <s> e l u <s> c a i <s> p i c h i <s> <lc> c a c h ü <rc>  </w>
+<w>  <lc> a ll c u <rc> <s> s e ñ o r  <s>e y e  <s>n a q  <s>c ü p a  <s>c i ñ e  <s>d </w>
+<w> a ll c u <s> <lc> s e ñ o r <rc> <s> e y e  <s>n a q  <s>c ü p a  <s>c i ñ e  <s>d o m o  <s>r a </w>
+<w> s e ñ o r <s> a ll c u <s> <lc> e y e <rc> <s> n a q  <s>c ü p a  <s>c i ñ e  <s>d o m o  <s>r a m t u </w>
+<w> e y e <s> s e ñ o r <s> a ll c u <s> <lc> n a q <rc> <s> c ü p a  <s>c i ñ e  <s>d o m o  <s>r a m t u </w>
+<w> n a q <s> e y e <s> s e ñ o r <s> a ll c u <s> <lc> c ü p a <rc> <s> c i ñ e  <s>d o m o  <s>r a m t u </w>
+<w> c ü p a <s> n a q <s> e y e <s> s e ñ o r <s> a ll c u <s> <lc> c i ñ e <rc> <s> d o m o  <s>r a m t u </w>
+<w> u <s> s e ñ o r <s> e y e <s> n a q <s> c ü p a <s> c i ñ e <s> <lc> d o m o <rc> <s> r a m t u </w>
+<w> o r <s> e y e <s> n a q <s> c ü p a <s> c i ñ e <s> d o m o <s> <lc> r a m t u <rc>  </w>
+<w>  <lc> a <rc> <s> d o m o  <s>c h e u  <s>a m u  <s>t f a c h i  <s>r ü p </w>
+<w> a <s> <lc> d o m o <rc> <s> c h e u  <s>a m u  <s>t f a c h i  <s>r ü p ü  <s>t a  <s>t </w>
+<w> d o m o <s> a <s> <lc> c h e u <rc> <s> a m u  <s>t f a c h i  <s>r ü p ü  <s>t a  <s>t f a  <s>a m </w>
+<w> c h e u <s> d o m o <s> a <s> <lc> a m u <rc> <s> t f a c h i  <s>r ü p ü  <s>t a  <s>t f a  <s>a m u  <s>c e </w>
+<w> a m u <s> c h e u <s> d o m o <s> a <s> <lc> t f a c h i <rc> <s> r ü p ü  <s>t a  <s>t f a  <s>a m u  <s>c e t ' a n  <s>c a </w>
+<w> t f a c h i <s> a m u <s> c h e u <s> d o m o <s> a <s> <lc> r ü p ü <rc> <s> t a  <s>t f a  <s>a m u  <s>c e t ' a n  <s>c a c h i ll </w>
+<w> o m o <s> c h e u <s> a m u <s> t f a c h i <s> r ü p ü <s> <lc> t a <rc> <s> t f a  <s>a m u  <s>c e t ' a n  <s>c a c h i ll a  <s>m </w>
+<w> o <s> c h e u <s> a m u <s> t f a c h i <s> r ü p ü <s> t a <s> <lc> t f a <rc> <s> a m u  <s>c e t ' a n  <s>c a c h i ll a  <s>m e u  <s>p </w>
+<w> e u <s> a m u <s> t f a c h i <s> r ü p ü <s> t a <s> t f a <s> <lc> a m u <rc> <s> c e t ' a n  <s>c a c h i ll a  <s>m e u  <s>p u  <s>l o </w>
+<w> m u <s> t f a c h i <s> r ü p ü <s> t a <s> t f a <s> a m u <s> <lc> c e t ' a n <rc> <s> c a c h i ll a  <s>m e u  <s>p u  <s>l o m a </w>
+<w> h i <s> r ü p ü <s> t a <s> t f a <s> a m u <s> c e t ' a n <s> <lc> c a c h i ll a <rc> <s> m e u  <s>p u  <s>l o m a </w>
+<w> a <s> t f a <s> a m u <s> c e t ' a n <s> c a c h i ll a <s> <lc> m e u <rc> <s> p u  <s>l o m a </w>
+<w> a <s> a m u <s> c e t ' a n <s> c a c h i ll a <s> m e u <s> <lc> p u <rc> <s> l o m a </w>
+<w> m u <s> c e t ' a n <s> c a c h i ll a <s> m e u <s> p u <s> <lc> l o m a <rc>  </w>
+<w>  <lc> f e i <rc> <s> m e u  <s>a w ü  <s>n · a i  <s>f e m  <s>ü t r ü f  <s>ñ i </w>
+<w> f e i <s> <lc> m e u <rc> <s> a w ü  <s>n · a i  <s>f e m  <s>ü t r ü f  <s>ñ i  <s>w e s </w>
+<w> m e u <s> f e i <s> <lc> a w ü <rc> <s> n · a i  <s>f e m  <s>ü t r ü f  <s>ñ i  <s>w e s h a  <s>c </w>
+<w> a w ü <s> m e u <s> f e i <s> <lc> n · a i <rc> <s> f e m  <s>ü t r ü f  <s>ñ i  <s>w e s h a  <s>c a w e l </w>
+<w> n · a i <s> a w ü <s> m e u <s> f e i <s> <lc> f e m <rc> <s> ü t r ü f  <s>ñ i  <s>w e s h a  <s>c a w e l l u  <s>p </w>
+<w> f e m <s> n · a i <s> a w ü <s> m e u <s> f e i <s> <lc> ü t r ü f <rc> <s> ñ i  <s>w e s h a  <s>c a w e l l u  <s>p i  <s>s h a ñ </w>
+<w> e i <s> m e u <s> a w ü <s> n · a i <s> f e m <s> ü t r ü f <s> <lc> ñ i <rc> <s> w e s h a  <s>c a w e l l u  <s>p i  <s>s h a ñ i </w>
+<w> m e u <s> a w ü <s> n · a i <s> f e m <s> ü t r ü f <s> ñ i <s> <lc> w e s h a <rc> <s> c a w e l l u  <s>p i  <s>s h a ñ i </w>
+<w> ü <s> n · a i <s> f e m <s> ü t r ü f <s> ñ i <s> w e s h a <s> <lc> c a w e l l u <rc> <s> p i  <s>s h a ñ i </w>
+<w> m <s> ü t r ü f <s> ñ i <s> w e s h a <s> c a w e l l u <s> <lc> p i <rc> <s> s h a ñ i </w>
+<w> t r ü f <s> ñ i <s> w e s h a <s> c a w e l l u <s> p i <s> <lc> s h a ñ i <rc>  </w>
+<w>  <lc> t u n t e n <rc> <s> t ' i p a n t u  <s>n i e </w>
+<w> t u n t e n <s> <lc> t ' i p a n t u <rc> <s> n i e </w>
+<w> t ' i p a n t u <s> t u n t e n <s> <lc> n i e <rc>  </w>
+<w>  <lc> c h e m <rc> <s> p i  <s>t f a  <s>c h e u  <s>t u  <s>c h e u  <s>c ü p a </w>
+<w> c h e m <s> <lc> p i <rc> <s> t f a  <s>c h e u  <s>t u  <s>c h e u  <s>c ü p a </w>
+<w> p i <s> c h e m <s> <lc> t f a <rc> <s> c h e u  <s>t u  <s>c h e u  <s>c ü p a </w>
+<w> t f a <s> p i <s> c h e m <s> <lc> c h e u <rc> <s> t u  <s>c h e u  <s>c ü p a </w>
+<w> c h e u <s> t f a <s> p i <s> c h e m <s> <lc> t u <rc> <s> c h e u  <s>c ü p a </w>
+<w> t u <s> c h e u <s> t f a <s> p i <s> c h e m <s> <lc> c h e u <rc> <s> c ü p a </w>
+<w> c h e u <s> t u <s> c h e u <s> t f a <s> p i <s> c h e m <s> <lc> c ü p a <rc>  </w>
+<w>  <lc> w ü l a <rc> <s> p i s h m a i w i l e  <s>g r a c i a s  <s>m a </w>
+<w> w ü l a <s> <lc> p i s h m a i w i l e <rc> <s> g r a c i a s  <s>m a i  <s>p u  <s>w e n  <s>e i m n  <s>m </w>
+<w> p i s h m a i w i l e <s> w ü l a <s> <lc> g r a c i a s <rc> <s> m a i  <s>p u  <s>w e n  <s>e i m n  <s>m n  <s>y e u m e w </w>
+<w> l a <s> p i s h m a i w i l e <s> g r a c i a s <s> <lc> m a i <rc> <s> p u  <s>w e n  <s>e i m n  <s>m n  <s>y e u m e w n  <s>m e </w>
+<w> i s h m a i w i l e <s> g r a c i a s <s> m a i <s> <lc> p u <rc> <s> w e n  <s>e i m n  <s>m n  <s>y e u m e w n  <s>m e u  <s>n </w>
+<w> h m a i w i l e <s> g r a c i a s <s> m a i <s> p u <s> <lc> w e n <rc> <s> e i m n  <s>m n  <s>y e u m e w n  <s>m e u  <s>n g ü n </w>
+<w> i w i l e <s> g r a c i a s <s> m a i <s> p u <s> w e n <s> <lc> e i m n <rc> <s> m n  <s>y e u m e w n  <s>m e u  <s>n g ü n e n  <s>m e </w>
+<w> e <s> g r a c i a s <s> m a i <s> p u <s> w e n <s> e i m n <s> <lc> m n <rc> <s> y e u m e w n  <s>m e u  <s>n g ü n e n  <s>m e u  <s>m </w>
+<w> r a c i a s <s> m a i <s> p u <s> w e n <s> e i m n <s> m n <s> <lc> y e u m e w n <rc> <s> m e u  <s>n g ü n e n  <s>m e u  <s>m o n t u  <s>ñ i  <s>l </w>
+<w> a i <s> p u <s> w e n <s> e i m n <s> m n <s> y e u m e w n <s> <lc> m e u <rc> <s> n g ü n e n  <s>m e u  <s>m o n t u  <s>ñ i  <s>l a  <s>a f </w>
+<w> u <s> w e n <s> e i m n <s> m n <s> y e u m e w n <s> m e u <s> <lc> n g ü n e n <rc> <s> m e u  <s>m o n t u  <s>ñ i  <s>l a  <s>a f n  <s>p i  <s>p u  <s>m </w>
+<w> m n <s> m n <s> y e u m e w n <s> m e u <s> n g ü n e n <s> <lc> m e u <rc> <s> m o n t u  <s>ñ i  <s>l a  <s>a f n  <s>p i  <s>p u  <s>m e ñ c </w>
+<w> n <s> y e u m e w n <s> m e u <s> n g ü n e n <s> m e u <s> <lc> m o n t u <rc> <s> ñ i  <s>l a  <s>a f n  <s>p i  <s>p u  <s>m e ñ c h o l o n </w>
+<w> e w n <s> m e u <s> n g ü n e n <s> m e u <s> m o n t u <s> <lc> ñ i <rc> <s> l a  <s>a f n  <s>p i  <s>p u  <s>m e ñ c h o l o n g c </w>
+<w> n <s> m e u <s> n g ü n e n <s> m e u <s> m o n t u <s> ñ i <s> <lc> l a <rc> <s> a f n  <s>p i  <s>p u  <s>m e ñ c h o l o n g c o  <s>f </w>
+<w> e u <s> n g ü n e n <s> m e u <s> m o n t u <s> ñ i <s> l a <s> <lc> a f n <rc> <s> p i  <s>p u  <s>m e ñ c h o l o n g c o  <s>f e m n </w>
+<w> g ü n e n <s> m e u <s> m o n t u <s> ñ i <s> l a <s> a f n <s> <lc> p i <rc> <s> p u  <s>m e ñ c h o l o n g c o  <s>f e m n g e </w>
+<w> n e n <s> m e u <s> m o n t u <s> ñ i <s> l a <s> a f n <s> p i <s> <lc> p u <rc> <s> m e ñ c h o l o n g c o  <s>f e m n g e c h </w>
+<w> n <s> m e u <s> m o n t u <s> ñ i <s> l a <s> a f n <s> p i <s> p u <s> <lc> m e ñ c h o l o n g c o <rc> <s> f e m n g e c h i  <s>c h a l i </w>
+<w> a <s> a f n <s> p i <s> p u <s> m e ñ c h o l o n g c o <s> <lc> f e m n g e c h i <rc> <s> c h a l i </w>
+<w> e ñ c h o l o n g c o <s> f e m n g e c h i <s> <lc> c h a l i <rc>  </w>
+<w>  <lc> f e i <rc> <s> p i  <s>c u i f i  <s>n g a  <s>y e  <s>c o n a  <s>a f n  <s>ñ </w>
+<w> f e i <s> <lc> p i <rc> <s> c u i f i  <s>n g a  <s>y e  <s>c o n a  <s>a f n  <s>ñ i  <s>l </w>
+<w> p i <s> f e i <s> <lc> c u i f i <rc> <s> n g a  <s>y e  <s>c o n a  <s>a f n  <s>ñ i  <s>l a n g  <s>w e </w>
+<w> c u i f i <s> p i <s> f e i <s> <lc> n g a <rc> <s> y e  <s>c o n a  <s>a f n  <s>ñ i  <s>l a n g  <s>w e l u  <s>m </w>
+<w> n g a <s> c u i f i <s> p i <s> f e i <s> <lc> y e <rc> <s> c o n a  <s>a f n  <s>ñ i  <s>l a n g  <s>w e l u  <s>m o n </w>
+<w> y e <s> n g a <s> c u i f i <s> p i <s> f e i <s> <lc> c o n a <rc> <s> a f n  <s>ñ i  <s>l a n g  <s>w e l u  <s>m o n g e  <s>p a </w>
+<w> c o n a <s> y e <s> n g a <s> c u i f i <s> p i <s> f e i <s> <lc> a f n <rc> <s> ñ i  <s>l a n g  <s>w e l u  <s>m o n g e  <s>p a l i  <s>y </w>
+<w> i <s> p i <s> c u i f i <s> n g a <s> y e <s> c o n a <s> a f n <s> <lc> ñ i <rc> <s> l a n g  <s>w e l u  <s>m o n g e  <s>p a l i  <s>y e  <s>ñ </w>
+<w> i <s> c u i f i <s> n g a <s> y e <s> c o n a <s> a f n <s> ñ i <s> <lc> l a n g <rc> <s> w e l u  <s>m o n g e  <s>p a l i  <s>y e  <s>ñ i  <s>n g é </w>
+<w> f i <s> n g a <s> y e <s> c o n a <s> a f n <s> ñ i <s> l a n g <s> <lc> w e l u <rc> <s> m o n g e  <s>p a l i  <s>y e  <s>ñ i  <s>n g é  <s>w ü ñ o </w>
+<w> a <s> y e <s> c o n a <s> a f n <s> ñ i <s> l a n g <s> w e l u <s> <lc> m o n g e <rc> <s> p a l i  <s>y e  <s>ñ i  <s>n g é  <s>w ü ñ o  <s>y e  <s>ñ i  <s>m </w>
+<w> n a <s> a f n <s> ñ i <s> l a n g <s> w e l u <s> m o n g e <s> <lc> p a l i <rc> <s> y e  <s>ñ i  <s>n g é  <s>w ü ñ o  <s>y e  <s>ñ i  <s>m ü p ü  <s>n </w>
+<w> n <s> ñ i <s> l a n g <s> w e l u <s> m o n g e <s> p a l i <s> <lc> y e <rc> <s> ñ i  <s>n g é  <s>w ü ñ o  <s>y e  <s>ñ i  <s>m ü p ü  <s>n g a </w>
+<w> i <s> l a n g <s> w e l u <s> m o n g e <s> p a l i <s> y e <s> <lc> ñ i <rc> <s> n g é  <s>w ü ñ o  <s>y e  <s>ñ i  <s>m ü p ü  <s>n g a  <s>c o </w>
+<w> a n g <s> w e l u <s> m o n g e <s> p a l i <s> y e <s> ñ i <s> <lc> n g é <rc> <s> w ü ñ o  <s>y e  <s>ñ i  <s>m ü p ü  <s>n g a  <s>c o n a  <s>m </w>
+<w> w e l u <s> m o n g e <s> p a l i <s> y e <s> ñ i <s> n g é <s> <lc> w ü ñ o <rc> <s> y e  <s>ñ i  <s>m ü p ü  <s>n g a  <s>c o n a  <s>m o n g e </w>
+<w> m o n g e <s> p a l i <s> y e <s> ñ i <s> n g é <s> w ü ñ o <s> <lc> y e <rc> <s> ñ i  <s>m ü p ü  <s>n g a  <s>c o n a  <s>m o n g e  <s>p i </w>
+<w> n g e <s> p a l i <s> y e <s> ñ i <s> n g é <s> w ü ñ o <s> y e <s> <lc> ñ i <rc> <s> m ü p ü  <s>n g a  <s>c o n a  <s>m o n g e  <s>p i s h </w>
+<w> e <s> p a l i <s> y e <s> ñ i <s> n g é <s> w ü ñ o <s> y e <s> ñ i <s> <lc> m ü p ü <rc> <s> n g a  <s>c o n a  <s>m o n g e  <s>p i s h m a i w </w>
+<w> i <s> y e <s> ñ i <s> n g é <s> w ü ñ o <s> y e <s> ñ i <s> m ü p ü <s> <lc> n g a <rc> <s> c o n a  <s>m o n g e  <s>p i s h m a i w i l e </w>
+<w> ñ i <s> n g é <s> w ü ñ o <s> y e <s> ñ i <s> m ü p ü <s> n g a <s> <lc> c o n a <rc> <s> m o n g e  <s>p i s h m a i w i l e  <s>a h  <s>p u </w>
+<w> é <s> w ü ñ o <s> y e <s> ñ i <s> m ü p ü <s> n g a <s> c o n a <s> <lc> m o n g e <rc> <s> p i s h m a i w i l e  <s>a h  <s>p u  <s>w e n  <s>p i </w>
+<w> y e <s> ñ i <s> m ü p ü <s> n g a <s> c o n a <s> m o n g e <s> <lc> p i s h m a i w i l e <rc> <s> a h  <s>p u  <s>w e n  <s>p i </w>
+<w> c o n a <s> m o n g e <s> p i s h m a i w i l e <s> <lc> a h <rc> <s> p u  <s>w e n  <s>p i </w>
+<w> n a <s> m o n g e <s> p i s h m a i w i l e <s> a h <s> <lc> p u <rc> <s> w e n  <s>p i </w>
+<w> m o n g e <s> p i s h m a i w i l e <s> a h <s> p u <s> <lc> w e n <rc> <s> p i </w>
+<w> g e <s> p i s h m a i w i l e <s> a h <s> p u <s> w e n <s> <lc> p i <rc>  </w>
+<w>  <lc> ñ i <rc> <s> p e ñ i  <s>i n c h u  <s>m l e  <s>c i ñ e  <s>r u c a </w>
+<w> ñ i <s> <lc> p e ñ i <rc> <s> i n c h u  <s>m l e  <s>c i ñ e  <s>r u c a  <s>m e u  <s>e </w>

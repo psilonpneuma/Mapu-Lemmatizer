@@ -41,7 +41,7 @@ def xml_iteration(xml,tagged=True):
                                 break
                         except:
                             bad_morphemes.append(word)
-                        wordlist.append(''.join(morphemes))
+                        wordlist.append(''.join(morphemes).lower())
                     phrase_list.append(wordlist)
                     lemmas.append(lemata)
             return phrase_list,lemmas
@@ -49,7 +49,7 @@ def xml_iteration(xml,tagged=True):
             phrase_list = []
             for sentence in xml_dict["TEI"]["text"]["body"]["p"]:
                 if sentence['@xml:lang'] == 'arn':
-                    sent_nopunc = ''.join(c for c in sentence['#text'] if c not in punctuation or c == '-')
+                    sent_nopunc = ''.join(c for c in sentence['#text'] if c not in punctuation or c == '-').lower()
                     for word in sent_nopunc.split():
                         if (len(word) > 3):
                             phrase_list.append(word)
