@@ -1,4 +1,4 @@
-bottle==0.12.13
+bottle==0.12.19
 bottle-log==1.0.0
 matplotlib==2.0
 cycler==0.10.0
